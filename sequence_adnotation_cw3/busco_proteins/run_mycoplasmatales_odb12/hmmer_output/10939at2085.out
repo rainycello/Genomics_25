@@ -1,0 +1,38 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00059       -            167 10939                -            647     2e-28   95.0  25.2   1   1   4.3e-30   2.2e-28   94.9  25.2    20   179     1   165     1   167 0.92 hypothetical protein
+MINDJIJG_00062       -            118 10939                -            647   1.4e-25   85.7  16.0   1   1     3e-27   1.5e-25   85.5  16.0   542   646     8   116     2   117 0.88 hypothetical protein
+MINDJIJG_00830       -            334 10939                -            647   1.9e-21   72.0  15.3   1   1   1.3e-22   6.7e-21   70.2  15.3   394   641    17   298     5   303 0.82 putative ABC transporter ATP-binding protein
+MINDJIJG_00060       -            151 10939                -            647   5.1e-20   67.3  24.7   1   1   1.1e-21   5.7e-20   67.1  24.7   233   378     6   150     2   151 0.93 hypothetical protein
+MINDJIJG_00653       -            265 10939                -            647   2.5e-17   58.4   9.2   1   2   4.9e-19   2.5e-17   58.4   9.2   472   633    17   196     1   205 0.77 Energy-coupling factor transporter ATP-binding protein EcfA1
+MINDJIJG_00653       -            265 10939                -            647   2.5e-17   58.4   9.2   2   2       1.3        65   -2.5   0.1   231   261   221   251   218   257 0.79 Energy-coupling factor transporter ATP-binding protein EcfA1
+MINDJIJG_00510       -            300 10939                -            647   5.7e-15   50.6  12.3   1   1   4.8e-16   2.4e-14   48.5  12.3   420   630    12   251     1   267 0.68 putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+MINDJIJG_00915       -            314 10939                -            647   1.2e-14   49.5  24.4   1   1   1.3e-15   6.4e-14   47.1  24.4   445   646    84   300     1   301 0.79 Vitamin B12 import ATP-binding protein BtuD
+MINDJIJG_00833       -            337 10939                -            647   6.9e-14   47.0  28.7   1   1   1.3e-14   6.6e-13   43.8  28.7   429   646    59   306     3   307 0.73 putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+MINDJIJG_00286       -            234 10939                -            647   1.6e-12   42.5   9.2   1   1   4.2e-14   2.1e-12   42.1   9.2   485   631    35   191     4   206 0.83 putative ABC transporter ATP-binding protein YxlF
+MINDJIJG_00513       -            162 10939                -            647   2.7e-10   35.1   2.7   1   1   6.3e-12   3.2e-10   34.9   2.7   530   645    14   127     5   129 0.79 putative ABC transporter ATP-binding protein
+MINDJIJG_00934       -            132 10939                -            647   1.6e-09   32.5   0.0   1   1   3.6e-11   1.8e-09   32.4   0.0   435   549     3   124     1   131 0.83 Putative ABC transporter ATP-binding protein MG187 
+MINDJIJG_00061       -             96 10939                -            647   1.8e-09   32.4  17.4   1   1   3.8e-11   1.9e-09   32.3  17.4   420   505     2    95     1    96 0.82 hypothetical protein
+MINDJIJG_00051       -            281 10939                -            647     2e-09   32.3  30.5   1   1     5e-11   2.5e-09   31.9  30.5   421   635    10   240     5   251 0.78 Osmoprotectant import ATP-binding protein OsmV
+MINDJIJG_00069       -            119 10939                -            647   2.6e-09   31.9   0.9   1   1   5.1e-11   2.6e-09   31.9   0.9   559   635     5    86     1    97 0.81 Spermidine/putrescine import ATP-binding protein PotA
+MINDJIJG_00811       -             76 10939                -            647   1.3e-08   29.6   4.0   1   1   2.6e-10   1.3e-08   29.6   4.0   461   525     2    75     1    76 0.75 putative ABC transporter ATP-binding protein
+MINDJIJG_00655       -            124 10939                -            647   3.4e-06   21.6   0.0   1   1   8.9e-08   4.5e-06   21.2   0.0   574   634    58   119    50   122 0.92 Energy-coupling factor transporter ATP-binding protein EcfA2
+MINDJIJG_01057       -             55 10939                -            647   4.4e-06   21.2   5.8   1   1   9.6e-08   4.8e-06   21.1   5.8   460   511     2    49     1    54 0.77 hypothetical protein
+MINDJIJG_01027       -            179 10939                -            647     6e-06   20.8   0.1   1   1     2e-07   9.9e-06   20.1   0.1   573   645    24    98    13   100 0.88 Vitamin B12 import ATP-binding protein BtuD
+MINDJIJG_00898       -            128 10939                -            647   7.7e-06   20.4   1.3   1   1   1.6e-07   8.1e-06   20.3   1.3   485   518    30    63    14   111 0.76 putative ABC transporter ATP-binding protein YbiT
+MINDJIJG_00654       -             99 10939                -            647     4e-05   18.1   1.1   1   1   8.2e-07   4.1e-05   18.0   1.1   476   520    25    72    18    93 0.84 Lipoprotein-releasing system ATP-binding protein LolD
+MINDJIJG_00902       -            112 10939                -            647   7.8e-05   17.1   0.4   1   1   1.8e-06     9e-05   16.9   0.4   574   628    20    74     8    84 0.89 putative ABC transporter ATP-binding protein YbiT
+MINDJIJG_01023       -            111 10939                -            647   9.6e-05   16.8   0.0   1   1   2.2e-06   0.00011   16.6   0.0   567   644     6    85     3    88 0.90 Oligopeptide transport ATP-binding protein OppD
+MINDJIJG_00068       -             65 10939                -            647   0.00053   14.3   0.4   1   1   1.1e-05   0.00053   14.3   0.4   467   503    24    62     3    65 0.75 Spermidine/putrescine import ATP-binding protein PotA
+MINDJIJG_00476       -            101 10939                -            647     0.008   10.4   0.0   1   1   0.00016     0.008   10.4   0.0   484   509     6    31     4    79 0.90 Thymidylate kinase
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/10939at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins/run_mycoplasmatales_odb12/hmmer_output/10939at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/10939at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:30:28 2025
+# [ok]

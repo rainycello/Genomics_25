@@ -1,0 +1,47 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     smart_nanopore_10
+# contigs (>= 0 bp)          92               
+# contigs (>= 1000 bp)       92               
+# contigs (>= 5000 bp)       92               
+# contigs (>= 10000 bp)      66               
+# contigs (>= 25000 bp)      25               
+# contigs (>= 50000 bp)      5                
+Total length (>= 0 bp)       1761492          
+Total length (>= 1000 bp)    1761492          
+Total length (>= 5000 bp)    1761492          
+Total length (>= 10000 bp)   1553402          
+Total length (>= 25000 bp)   918680           
+Total length (>= 50000 bp)   288986           
+# contigs                    92               
+Largest contig               66786            
+Total length                 1761492          
+Reference length             335799           
+GC (%)                       35.14            
+Reference GC (%)             35.65            
+N50                          25643            
+NG50                         58478            
+N75                          14243            
+NG75                         51134            
+L50                          24               
+LG50                         3                
+L75                          47               
+LG75                         5                
+# misassemblies              95               
+# misassembled contigs       39               
+Misassembled contigs length  900541           
+# local misassemblies        62               
+# unaligned contigs          22 + 16 part     
+Unaligned length             589399           
+Genome fraction (%)          62.174           
+Duplication ratio            5.853            
+# N's per 100 kbp            0.00             
+# mismatches per 100 kbp     1072.90          
+# indels per 100 kbp         2093.60          
+Largest alignment            35448            
+NA50                         4979             
+NGA50                        17534            
+NGA75                        16614            
+LA50                         89               
+LGA50                        7                
+LGA75                        12               

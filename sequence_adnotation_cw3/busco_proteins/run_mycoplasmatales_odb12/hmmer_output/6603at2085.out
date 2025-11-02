@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00651       -            115 6603                 -            176   1.5e-46  154.4   1.6   1   1   4.2e-49   1.7e-46  154.2   1.6    45   158     1   115     1   115 0.98 Hypoxanthine phosphoribosyltransferase
+MINDJIJG_00818       -            324 6603                 -            176   3.4e-09   32.7   2.0   1   3    0.0055       2.2    4.0   0.0    82   127    46    95    36   115 0.78 Ribose-phosphate pyrophosphokinase
+MINDJIJG_00818       -            324 6603                 -            176   3.4e-09   32.7   2.0   2   3   4.3e-10   1.7e-07   27.2   0.2    82   125   208   251   197   261 0.89 Ribose-phosphate pyrophosphokinase
+MINDJIJG_00818       -            324 6603                 -            176   3.4e-09   32.7   2.0   3   3      0.38   1.5e+02   -2.0   0.0    50    94   268   312   256   315 0.73 Ribose-phosphate pyrophosphokinase
+MINDJIJG_00551       -            171 6603                 -            176   0.00061   15.6   0.0   1   1   2.5e-06   0.00099   14.9   0.0    92   129   110   147    93   160 0.89 Adenine phosphoribosyltransferase
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/6603at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins/run_mycoplasmatales_odb12/hmmer_output/6603at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/6603at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:30:30 2025
+# [ok]

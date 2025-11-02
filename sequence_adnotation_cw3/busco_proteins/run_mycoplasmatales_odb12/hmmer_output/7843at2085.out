@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00860       -            495 7843                 -            584  6.7e-238  787.0   7.7   1   2   8.2e-08   1.4e-05   19.9   0.1   136   162     1    27     1    37 0.87 Lon protease 1
+MINDJIJG_00860       -            495 7843                 -            584  6.7e-238  787.0   7.7   2   2  8.2e-235  1.4e-232  769.4   3.4   158   583    58   487    50   488 0.98 Lon protease 1
+MINDJIJG_00861       -            132 7843                 -            584   2.7e-28   94.9   5.5   1   1   1.8e-30   3.2e-28   94.7   5.5    12   118    25   132    15   132 0.93 Lon protease 1
+MINDJIJG_00173       -            294 7843                 -            584   4.3e-08   28.2   0.4   1   2   2.1e-08   3.6e-06   21.8   0.0   160   248    32   125     2   141 0.66 Chaperone protein ClpB
+MINDJIJG_00173       -            294 7843                 -            584   4.3e-08   28.2   0.4   2   2    0.0031      0.53    4.8   0.1   321   380   213   271   186   289 0.77 Chaperone protein ClpB
+MINDJIJG_00934       -            132 7843                 -            584   0.00011   16.9   0.0   1   1   7.2e-07   0.00012   16.8   0.0   145   198    32    89     4    95 0.70 Putative ABC transporter ATP-binding protein MG187 
+MINDJIJG_00632       -            317 7843                 -            584   0.00017   16.3   4.1   1   2   3.2e-06   0.00056   14.6   0.2   148   196    17    68    12    79 0.74 Holliday junction ATP-dependent DNA helicase RuvB
+MINDJIJG_00632       -            317 7843                 -            584   0.00017   16.3   4.1   2   2    0.0098       1.7    3.1   0.6   278   348   133   194    82   231 0.73 Holliday junction ATP-dependent DNA helicase RuvB
+MINDJIJG_00068       -             65 7843                 -            584    0.0025   12.4   0.0   1   1   1.4e-05    0.0025   12.4   0.0   159   185    35    61     9    63 0.87 Spermidine/putrescine import ATP-binding protein PotA
+MINDJIJG_00691       -             64 7843                 -            584     0.006   11.2   0.1   1   1   3.9e-05    0.0067   11.0   0.1   167   194     8    35     1    39 0.84 Cytidylate kinase
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7843at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins/run_mycoplasmatales_odb12/hmmer_output/7843at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7843at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:30:32 2025
+# [ok]

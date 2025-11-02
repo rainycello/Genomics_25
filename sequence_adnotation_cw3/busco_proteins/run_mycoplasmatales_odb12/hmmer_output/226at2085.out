@@ -1,0 +1,29 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00132       -            978 226                  -            969         0 1270.2  70.0   1   1         0         0 1270.0  70.0     1   968     1   975     1   976 0.99 Chromosome partition protein Smc
+MINDJIJG_00785       -            370 226                  -            969   1.5e-06   22.5  73.2   1   2   7.5e-06    0.0007   13.6  28.9   253   380    29   154    21   161 0.77 Chromosome partition protein Smc
+MINDJIJG_00785       -            370 226                  -            969   1.5e-06   22.5  73.2   2   2   3.2e-06    0.0003   14.8  36.5   568   716   162   314   156   366 0.80 Chromosome partition protein Smc
+MINDJIJG_00174       -            403 226                  -            969   1.1e-05   19.6  11.7   1   2     0.084       7.8    0.2   0.2    20    41   128   149   117   152 0.86 Chaperone protein ClpB
+MINDJIJG_00174       -            403 226                  -            969   1.1e-05   19.6  11.7   2   2   1.2e-07   1.1e-05   19.6  11.7   267   401   243   380   201   403 0.76 Chaperone protein ClpB
+MINDJIJG_01183       -            209 226                  -            969   0.00017   15.6   8.3   1   1   2.3e-06   0.00021   15.3   8.3   237   374    56   188    46   205 0.80 hypothetical protein
+MINDJIJG_01179       -            205 226                  -            969   0.00042   14.4  13.1   1   1   5.9e-06   0.00055   14.0  13.1   283   400    30   147    16   202 0.70 hypothetical protein
+MINDJIJG_01166       -            205 226                  -            969   0.00049   14.1  13.4   1   1   6.9e-06   0.00064   13.8  13.4   283   400    30   147    16   203 0.69 hypothetical protein
+MINDJIJG_01062       -            186 226                  -            969     0.001   13.1  21.7   1   1   1.4e-05    0.0013   12.8  21.7   223   352    32   162     4   182 0.54 hypothetical protein
+MINDJIJG_00017       -            226 226                  -            969     0.002   12.1   6.5   1   1   2.7e-05    0.0025   11.8   6.5   266   359    10   103     2   118 0.56 Serine--tRNA ligase
+MINDJIJG_00266       -            179 226                  -            969    0.0022   12.0  20.2   1   1   2.8e-05    0.0026   11.7  20.2   279   396    42   163    25   178 0.37 hypothetical protein
+MINDJIJG_00655       -            124 226                  -            969    0.0085   10.0   0.0   1   1   0.00012     0.011    9.7   0.0   871   931    60   117    54   119 0.84 Energy-coupling factor transporter ATP-binding protein EcfA2
+MINDJIJG_00543       -            181 226                  -            969     0.082    6.8  30.7   1   1    0.0014      0.13    6.2  30.7   580   741     3   169     1   180 0.38 hypothetical protein
+MINDJIJG_00610       -            410 226                  -            969       0.3    4.9  92.5   1   2   5.7e-05    0.0053   10.7  48.4   203   412    29   237    18   245 0.89 hypothetical protein
+MINDJIJG_00610       -            410 226                  -            969       0.3    4.9  92.5   2   2      0.18        17   -0.9  37.3   240   395   247   409   236   410 0.69 hypothetical protein
+MINDJIJG_01128       -            271 226                  -            969      0.86    3.4  51.1   1   1     0.019       1.7    2.4  28.5   225   381    97   258    94   271 0.51 hypothetical protein
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/226at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins/run_mycoplasmatales_odb12/hmmer_output/226at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/226at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:30:29 2025
+# [ok]

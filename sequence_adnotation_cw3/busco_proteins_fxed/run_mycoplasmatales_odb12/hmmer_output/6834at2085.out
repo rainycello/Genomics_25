@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00507       -            606 6834                 -            618         0 1012.6  10.4   1   1         0         0 1012.4  10.4     2   613     2   605     1   606 0.99 tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+MINDJIJG_00475       -            311 6834                 -            618    0.0014   12.3   0.0   1   4   4.7e-06    0.0014   12.3   0.0     2    33     4    35     3    38 0.92 Thioredoxin reductase
+MINDJIJG_00475       -            311 6834                 -            618    0.0014   12.3   0.0   2   4    0.0046       1.4    2.5   0.2   117   155    78   116    61   120 0.84 Thioredoxin reductase
+MINDJIJG_00475       -            311 6834                 -            618    0.0014   12.3   0.0   3   4      0.13        38   -2.3   0.1   249   264   185   200   155   232 0.55 Thioredoxin reductase
+MINDJIJG_00475       -            311 6834                 -            618    0.0014   12.3   0.0   4   4      0.31        91   -3.6   0.0   350   394   262   307   251   308 0.65 Thioredoxin reductase
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/6834at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins_fxed/run_mycoplasmatales_odb12/hmmer_output/6834at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/6834at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:33:14 2025
+# [ok]

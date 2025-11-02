@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00776       -            173 7934                 -            455     4e-81  269.5   7.6   1   1   1.1e-83   4.5e-81  269.3   7.6   284   454     1   169     1   170 0.97 RNA polymerase sigma factor SigA
+MINDJIJG_00777       -             73 7934                 -            455   2.3e-38  128.6   4.2   1   1   5.8e-41   2.4e-38  128.5   4.2   193   260     6    73     1    73 0.94 RNA polymerase sigma factor RpoD
+MINDJIJG_00778       -            245 7934                 -            455   1.5e-10   36.8  43.4   1   1   1.2e-10   4.8e-08   28.6  43.4    23   167     3   245     1   245 0.87 hypothetical protein
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7934at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins/run_mycoplasmatales_odb12/hmmer_output/7934at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7934at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:30:32 2025
+# [ok]

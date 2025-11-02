@@ -1,0 +1,77 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+24536	37614	13179	1	1	NODE_1_length_36582_cov_19.685276	100.0		True
+local misassembly
+1668	23985	35251	13180	1	NODE_1_length_36582_cov_19.685276	98.67		True
+fake: scaffold gap size wrong estimation (local)
+11	1241	36582	35352	1	NODE_1_length_36582_cov_19.685276	100.0		True
+CONTIG	NODE_1_length_36582_cov_19.685276	36582	correct
+86923	98766	11890	1	1	NODE_2_length_28708_cov_27.223674	100.0		True
+fake: scaffold gap size wrong estimation (extensive)
+84592	85724	13123	11991	1	NODE_2_length_28708_cov_27.223674	100.0		True
+fake: scaffold gap size wrong estimation (local)
+80783	83509	15950	13224	1	NODE_2_length_28708_cov_27.223674	100.0		True
+fake: scaffold gap size wrong estimation (local)
+75563	80542	21030	16051	1	NODE_2_length_28708_cov_27.223674	100.0		True
+fake: scaffold gap size wrong estimation (extensive)
+65718	72460	27873	21131	1	NODE_2_length_28708_cov_27.223674	100.0		True
+fake: scaffold gap size wrong estimation (extensive)
+60175	60909	28708	27974	1	NODE_2_length_28708_cov_27.223674	100.0		True
+CONTIG	NODE_2_length_28708_cov_27.223674	28708	correct
+4	13904	1	13903	0	NODE_3_length_27981_cov_20.253799	99.98		True
+fake: scaffold gap size wrong estimation (extensive)
+15841	24471	14004	22634	0	NODE_3_length_27981_cov_20.253799	100.0		True
+fake: scaffold gap size wrong estimation (local)
+24915	30161	22735	27981	0	NODE_3_length_27981_cov_20.253799	100.0		True
+CONTIG	NODE_3_length_27981_cov_20.253799	27981	correct
+59400	70005	10606	1	0	NODE_4_length_24323_cov_22.011301	100.0		True
+fake: scaffold gap size wrong estimation (local)
+51674	59259	18292	10707	0	NODE_4_length_24323_cov_22.011301	100.0		True
+relocation, inconsistency = 3259
+44893	48414	21991	18293	0	NODE_4_length_24323_cov_22.011301	96.34		True
+fake: scaffold gap size wrong estimation (extensive)
+41248	43479	24323	22092	0	NODE_4_length_24323_cov_22.011301	100.0		True
+CONTIG	NODE_4_length_24323_cov_22.011301	24323	misassembled
+163935	165923	1991	3	0	NODE_5_length_20671_cov_21.950325	99.9		True
+fake: scaffold gap size wrong estimation (extensive)
+153235	161831	10770	2092	0	NODE_5_length_20671_cov_21.950325	100.0		True
+fake: scaffold gap size wrong estimation (local)
+145777	153104	18198	10871	0	NODE_5_length_20671_cov_21.950325	100.0		True
+fake: scaffold gap size wrong estimation (local)
+144478	145453	19297	18322	0	NODE_5_length_20671_cov_21.950325	100.0		True
+fake: scaffold gap size wrong estimation (local)
+142602	143875	20671	19398	0	NODE_5_length_20671_cov_21.950325	100.0		True
+CONTIG	NODE_5_length_20671_cov_21.950325	20671	correct
+154399	155748	1350	1	1	NODE_6_length_19382_cov_22.750531	100.0		True
+fake: scaffold gap size wrong estimation (extensive)
+133067	150998	19382	1451	1	NODE_6_length_19382_cov_22.750531	100.0		True
+CONTIG	NODE_6_length_19382_cov_22.750531	19382	correct
+140805	142078	1340	1	0	NODE_7_length_16447_cov_37.075443	98.73		True
+relocation, inconsistency = 1638
+131371	139166	9106	1341	0	NODE_7_length_16447_cov_37.075443	99.58		True
+relocation, inconsistency = 12946, scaffold gap is present
+114218	118324	13313	9207	0	NODE_7_length_16447_cov_37.075443	100.0		True
+relocation, inconsistency = 1477
+109645	112740	16447	13314	0	NODE_7_length_16447_cov_37.075443	99.97		True
+CONTIG	NODE_7_length_16447_cov_37.075443	16447	misassembled
+82747	91474	1	8728	0	NODE_8_length_8728_cov_41.258814	100.0		True
+CONTIG	NODE_8_length_8728_cov_41.258814	8728	correct
+40249	47309	7061	1	1	NODE_9_length_7061_cov_19.087629	100.0		True
+CONTIG	NODE_9_length_7061_cov_19.087629	7061	correct
+128905	132587	3683	1	1	NODE_10_length_4653_cov_47.569712	100.0		True
+fake: scaffold gap size wrong estimation (local)
+127485	128354	4653	3784	1	NODE_10_length_4653_cov_47.569712	99.89		True
+CONTIG	NODE_10_length_4653_cov_47.569712	4653	correct
+155983	159763	1	3781	1	NODE_11_length_3781_cov_17.930346	99.97		True
+CONTIG	NODE_11_length_3781_cov_17.930346	3781	correct
+93442	95481	2040	1	0	NODE_12_length_3184_cov_65.604763	100.0		True
+fake: scaffold gap size wrong estimation (local)
+91998	93041	3184	2141	0	NODE_12_length_3184_cov_65.604763	100.0		True
+CONTIG	NODE_12_length_3184_cov_65.604763	3184	correct
+51955	52935	981	1	1	NODE_13_length_981_cov_138.555310	100.0		True
+CONTIG	NODE_13_length_981_cov_138.555310	981	correct
+58419	59213	795	1	1	NODE_14_length_795_cov_128.603064	100.0		True
+CONTIG	NODE_14_length_795_cov_128.603064	795	correct
+98354	99132	779	1	0	NODE_15_length_779_cov_116.830484	99.87		True
+CONTIG	NODE_15_length_779_cov_116.830484	779	correct
+91398	92074	677	1	0	NODE_16_length_677_cov_37.803333	100.0		True
+CONTIG	NODE_16_length_677_cov_37.803333	677	correct

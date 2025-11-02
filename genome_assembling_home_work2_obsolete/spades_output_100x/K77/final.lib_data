@@ -1,0 +1,53 @@
+Õ---
+max read length: 150
+nomerge max read length: 150
+average read length: 150
+average coverage: 41.1936
+libraries:
+  - type:            paired-end
+    number:          1
+    orientation:     fr
+    left reads:
+      - '/home/genomika24/dmytro_boi/genome_assembling_home_work2/read1_100x.1.fastq'
+    right reads:
+      - '/home/genomika24/dmytro_boi/genome_assembling_home_work2/read1_100x.2.fastq'
+    data:
+      unmerged read length: 150
+      merged read length: 0
+      insert size mean: 349.502
+      insert size deviation: 9.96737
+      insert size left quantile: 337
+      insert size right quantile: 362
+      insert size median: 350
+      insert size mad: 6
+      insert size distribution: { 310: 1, 313: 2, 314: 1, 315: 3, 316: 6, 
+                                  317: 8, 318: 12, 319: 9, 320: 19, 321: 18, 
+                                  322: 37, 323: 38, 324: 44, 325: 53, 326: 81, 
+                                  327: 116, 328: 128, 329: 150, 330: 199, 
+                                  331: 236, 332: 272, 333: 295, 334: 382, 
+                                  335: 438, 336: 497, 337: 580, 338: 610, 
+                                  339: 741, 340: 798, 341: 860, 342: 914, 
+                                  343: 1058, 344: 1064, 345: 1137, 346: 1245, 
+                                  347: 1215, 348: 1243, 349: 1287, 350: 1257, 
+                                  351: 1363, 352: 1271, 353: 1151, 354: 1156, 
+                                  355: 1056, 356: 990, 357: 990, 358: 859, 
+                                  359: 799, 360: 765, 361: 652, 362: 544, 
+                                  363: 507, 364: 433, 365: 338, 366: 335, 
+                                  367: 290, 368: 220, 369: 204, 370: 161, 
+                                  371: 124, 372: 94, 373: 74, 374: 63, 
+                                  375: 50, 376: 46, 377: 16, 378: 20, 379: 17, 
+                                  380: 13, 381: 8, 382: 6, 383: 5, 384: 2, 
+                                  385: 3, 386: 1, 388: 3, 389: 1 }
+      pi threshold:    0
+      binary reads info:
+        binary converted: true
+        bin reads info file: '/home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_100x/.bin_reads/INFO_0'
+        paired read prefix: '/home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_100x/.bin_reads/paired_0'
+        merged read prefix: '/home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_100x/.bin_reads/merged_0'
+        single read prefix: '/home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_100x/.bin_reads/single_0'
+        chunk num:       16
+      single reads mapped: false
+      library index:   0
+      number of reads: 133200
+      total nucleotides: 19980000
+...

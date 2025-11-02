@@ -1,0 +1,85 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/8382at2085.hmm
+# target sequence database:        /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_genome/prodigal_output/predicted_genes/predicted.faa
+# per-dom hits tabular output:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_genome/run_mycoplasmatales_odb12/hmmer_output/8382at2085.out
+# number of worker threads:        1
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       8382  [M=418]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence                                        Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------                                        -----------
+   1.7e-142  470.4  37.7   1.7e-142  470.4  37.7    1.8  2  NODE_5_length_37041_cov_13.966598:17534-18964|+  NODE_5_length_37041_cov_13.96659
+
+
+Domain annotation for each sequence (and alignments):
+>> NODE_5_length_37041_cov_13.966598:17534-18964|+  NODE_5_length_37041_cov_13.966598_16 # 17534 # 18964 # 1 # ID=5_16;p
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  470.4  37.7  2.5e-145  1.7e-142       1     417 [.       1     425 [.       1     426 [. 0.97
+   2 ?   -3.5   4.0      0.18   1.2e+02     305     343 ..     437     475 ..     429     476 .. 0.65
+
+  Alignments for each domain:
+  == domain 1  score: 470.4 bits;  conditional E-value: 2.5e-145
+                                             8382   1 kkiekkkekaelkikvelekeeWeealekakkklaknvkipGFRkGkvPaeeakkyispaev 62 
+                                                      ++++++k+++el+i++++++e+We+a eka+k+l++nv+i+GFRkG+vPa ea+k i+p+ev
+  NODE_5_length_37041_cov_13.966598:17534-18964|+   1 MSRTLNKKESELTIEYTIQGEQWENAKEKARKALRANVQIDGFRKGHVPAFEADKRINPIEV 62 
+                                                      57899********************************************************* PP
+
+                                             8382  63 fekAlnkvleeiak..ikeeikekeeviespsveikkiseeeleiefvfplypeiklgdykk 122
+                                                      ++kAl+++l++i+k  i ++i++++e++ + +++ik+i+ee++ei+fvfpl+pe+klgdykk
+  NODE_5_length_37041_cov_13.966598:17534-18964|+  63 YQKALDSILDNIYKeqIISQITKDDEIVGHANLRIKDINEEKAEISFVFPLFPEVKLGDYKK 124
+                                                      ************9722679******************************************* PP
+
+                                             8382 123 iktklkelkvteedveeeiekllkkkavtkekeekikkgDivtfdFkGfvdgkaFegGeAen 184
+                                                      + +kl + ++t++d+++++++++++++v+++++e+ik+ D v+f+FkGf+dgk+F+gGeAen
+  NODE_5_length_37041_cov_13.966598:17534-18964|+ 125 LGVKLGSCELTKKDLNDAKSQIASNYVVMLDSKEPIKEKDQVNFNFKGFIDGKPFDGGEAEN 186
+                                                      ************************************************************** PP
+
+                                             8382 185 feLkiGSnqFIpgFEdqliGlkvgekkeinvtFPkdYhvkelagkkavFevkikkikevelp 246
+                                                      f+L+iGS+qFIpgFEd++iGlk+ge+k++++ FP+dYh+k+lagk++vF+vki+ +k++++p
+  NODE_5_length_37041_cov_13.966598:17534-18964|+ 187 FDLVIGSKQFIPGFEDKMIGLKAGEEKDLDLVFPEDYHAKNLAGKSVVFHVKINFVKTPNYP 248
+                                                      ************************************************************** PP
+
+                                             8382 247 elddefvkelnlpnvktleelkeylkkqllkekiekaknkaiee....iiekseikipksli 304
+                                                       +dd+fvke+nlpnvk+++e++ey+k ++lk+k+ ++kn++i+e    + e+se+ +++sl+
+  NODE_5_length_37041_cov_13.966598:17534-18964|+ 249 TIDDNFVKEINLPNVKNVAEFEEYVKFIALKNKLANVKNEFINEavkkLSEQSEVSLSESLV 310
+                                                      *************************************9987654111177889********* PP
+
+                                             8382 305 eeevkklkeefkkqLkqqkiklkeyleltkkseedieeelkeeakknlkkslvveeiakkek 366
+                                                      eee++k++++f ++Lkqq+i++k+y+e++k+++e+  + +k++a+ nlk+++v+ +iak e+
+  NODE_5_length_37041_cov_13.966598:17534-18964|+ 311 EEEADKYYQNFLNNLKQQQITEKDYYEFSKSTKEESLNVFKKQAQINLKQMFVLGAIAKAES 372
+                                                      *************************************************************9 PP
+
+                                             8382 367 ievt..eieeeieelaklysleveeikkllseeqikselteekvidllieknk 417
+                                                      ++vt  ++e+e+e+lak+y+l  e++k++l++e+++++l++e++ + l+++n+
+  NODE_5_length_37041_cov_13.966598:17534-18964|+ 373 LKVTleDYEKEVEKLAKTYGLAPEHVKQILKFENVENNLINERISEILLKEND 425
+                                                      9885449*******************************************998 PP
+
+  == domain 2  score: -3.5 bits;  conditional E-value: 0.18
+                                             8382 305 eeevkklkeefkkqLkqqkiklkeyleltkkseedieee 343
+                                                      +e  +   +++++ + + k k +e+ ++ k s+e+i+e+
+  NODE_5_length_37041_cov_13.966598:17534-18964|+ 437 KEVEEYEAKQTQAIVDEAKRKREEAEKIAKESKENIDEQ 475
+                                                      444444455666666777777888888888888888775 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (418 nodes)
+Target sequences:                        684  (227485 residues searched)
+Passed MSV filter:                       193  (0.282164); expected 13.7 (0.02)
+Passed bias filter:                        9  (0.0131579); expected 13.7 (0.02)
+Passed Vit filter:                         2  (0.00292398); expected 0.7 (0.001)
+Passed Fwd filter:                         1  (0.00146199); expected 0.0 (1e-05)
+Initial search space (Z):                684  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.01
+# Mc/sec: 5516.44
+//
+[ok]

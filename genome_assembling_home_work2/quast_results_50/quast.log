@@ -1,0 +1,119 @@
+/home/genomika25/miniconda3/envs/dmyboi/opt/quast-4.1/quast.py -R seq_var.fa -o quast_results_50 smart_nanopore_50.fa
+
+Version: 4.1, build 26.05.2016 14:25
+
+System information:
+  OS: Linux-6.8.0-79-generic-x86_64-with-debian-trixie-sid (linux_64)
+  Python version: 2.7.15
+  CPUs number: 64
+
+Started: 2025-10-27 23:59:37
+
+Logging to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_50/quast.log
+
+NOTICE: Maximum number of threads is set to 16 (use --threads option to set it manually)
+
+Main parameters: 
+  Threads: 16, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  seq_var.fa ==> seq_var
+
+Contigs:
+  smart_nanopore_50.fa ==> smart_nanopore_50
+
+2025-10-27 23:59:37
+Running Basic statistics processor...
+  Reference genome:
+    seq_var.fa, Reference length = 335799, Reference GC % = 35.65
+  Contig files: 
+    smart_nanopore_50
+  Calculating N50 and L50...
+    smart_nanopore_50, N50 = 20880, L50 = 135, Total length = 8884368, GC % = 33.97, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_50/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_50/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_50/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_50/basic_stats/GC_content_plot.pdf
+Done.
+
+2025-10-27 23:59:38
+Running Contig analyzer...
+WARNING: Previous try of E-MEM compilation was unsuccessful! For forced retrying, please remove /home/genomika25/miniconda3/envs/dmyboi/opt/quast-4.1/libs/E-MEM-linux/make.failed and restart QUAST.
+  smart_nanopore_50
+  Logging to files /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_50/contigs_reports/contigs_report_smart_nanopore_50.stdout and contigs_report_smart_nanopore_50.stderr...
+  Running Nucmer
+  /home/genomika25/miniconda3/envs/dmyboi/opt/quast-4.1/libs/MUMmer3.23-linux/nucmer \
+  -c 65 -l 65 --maxmatch -p quast_results_50/contigs_reports/nucmer_output/smart_nanopore_50 \
+  quast_results_50/quast_corrected_input/seq_var.fa quast_results_50/quast_corrected_input/smart_nanopore_50.fa \
+  >> quast_results_50/contigs_reports/contigs_report_smart_nanopore_50.stdout 2>> \
+  quast_results_50/contigs_reports/contigs_report_smart_nanopore_50.stderr
+  /home/genomika25/miniconda3/envs/dmyboi/opt/quast-4.1/libs/MUMmer3.23-linux/delta-filter \
+  -i 95 -l 0 quast_results_50/contigs_reports/nucmer_output/smart_nanopore_50.delta \
+  > quast_results_50/contigs_reports/nucmer_output/smart_nanopore_50.fdelta 2> quast_results_50/contigs_reports/contigs_report_smart_nanopore_50.stderr
+  /home/genomika25/miniconda3/envs/dmyboi/opt/quast-4.1/libs/MUMmer3.23-linux/show-coords \
+  quast_results_50/contigs_reports/nucmer_output/smart_nanopore_50.delta > quast_results_50/contigs_reports/nucmer_output/smart_nanopore_50.coords_tmp \
+  2> quast_results_50/contigs_reports/contigs_report_smart_nanopore_50.stderr
+  /home/genomika25/miniconda3/envs/dmyboi/opt/quast-4.1/libs/MUMmer3.23-linux/show-snps \
+  -S -T -H quast_results_50/contigs_reports/nucmer_output/smart_nanopore_50.delta \
+  < quast_results_50/contigs_reports/nucmer_output/smart_nanopore_50.coords.headless \
+  > quast_results_50/contigs_reports/nucmer_output/smart_nanopore_50.all_snps 2> quast_results_50/contigs_reports/contigs_report_smart_nanopore_50.stderr
+  Alignments: quast_results_50/contigs_reports/alignments_smart_nanopore_50.tsv
+  Analysis is finished.
+
+  Creating total report...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_50/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_50/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_50/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_50/contigs_reports/misassemblies_plot.pdf
+Done.
+
+2025-10-28 00:00:39
+Running NA-NGA calculation...
+  smart_nanopore_50, Largest alignment = 39702, NA50 = None, NGA50 = 34078, LA50 = None, LGA50 = 5
+  Drawing cumulative plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_50/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_50/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_50/aligned_stats/NGAx_plot.pdf
+Done.
+
+2025-10-28 00:00:39
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  smart_nanopore_50
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2025-10-28 00:00:39
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2025-10-28 00:00:40
+RESULTS:
+  Text versions of total report are saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_50/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_50/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_50/report.html
+  PDF version (tables and plots) is saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_50/report.pdf
+  Icarus (contig browser) is saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_50/icarus.html
+  Log saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_50/quast.log
+
+Finished: 2025-10-28 00:00:40
+Elapsed time: 0:01:03.779837
+NOTICEs: 4; WARNINGs: 1; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

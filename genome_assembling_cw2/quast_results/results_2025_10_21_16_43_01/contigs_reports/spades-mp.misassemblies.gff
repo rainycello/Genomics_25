@@ -1,0 +1,7 @@
+##gff-version 3
+NODE_1_length_79147_cov_13.317807	QUAST	possible_assembly_error	32157	32158	.	.	.	Name=Extensive misassembly;type=relocation;Note=inconsistency is 11186
+NODE_3_length_24909_cov_12.616100	QUAST	possible_assembly_error	18598	18599	.	.	.	Name=Extensive misassembly;type=relocation;Note=inconsistency is 3259
+NODE_4_length_23484_cov_10.913658	QUAST	possible_assembly_error	5552	5553	.	.	.	Name=Extensive misassembly;type=relocation;Note=inconsistency is 3116
+NODE_6_length_17591_cov_21.505995	QUAST	possible_assembly_error	1340	1341	.	.	.	Name=Extensive misassembly;type=relocation;Note=inconsistency is 1365
+NODE_6_length_17591_cov_21.505995	QUAST	possible_assembly_error	9379	9480	.	.	.	Name=Extensive misassembly;type=relocation;Note=inconsistency is 12946,scaffold gap is present
+NODE_6_length_17591_cov_21.505995	QUAST	possible_assembly_error	13298	13299	.	.	.	Name=Extensive misassembly;type=relocation;Note=inconsistency is 1477

@@ -1,0 +1,17 @@
+# BUSCO version is: 6.0.0 
+# The lineage dataset is: mycoplasmatales_odb12 (Creation date: 2025-05-14, number of genomes: 32, number of BUSCOs: 205)
+# Summarized benchmarking in BUSCO notation for file /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:97.6%[S:97.6%,D:0.0%],F:0.0%,M:2.4%,n:205	   
+	200	Complete BUSCOs (C)			   
+	200	Complete and single-copy BUSCOs (S)	   
+	0	Complete and duplicated BUSCOs (D)	   
+	0	Fragmented BUSCOs (F)			   
+	5	Missing BUSCOs (M)			   
+	205	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4

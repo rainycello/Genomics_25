@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00072       -            217 3199                 -            270   1.2e-87  289.7  17.6   1   1   3.6e-90   1.4e-87  289.4  17.6    58   266     2   212     1   215 0.98 Spermidine/putrescine transport system permease protein PotB
+MINDJIJG_00071       -             81 3199                 -            270   5.6e-12   41.6   0.6   1   1   1.5e-14     6e-12   41.5   0.6     7    51    29    76    22    81 0.80 hypothetical protein
+MINDJIJG_00075       -             35 3199                 -            270   2.1e-06   23.3   0.1   1   1   5.5e-09   2.2e-06   23.2   0.1   140   174     1    35     1    35 0.94 hypothetical protein
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/3199at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins/run_mycoplasmatales_odb12/hmmer_output/3199at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/3199at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:30:29 2025
+# [ok]

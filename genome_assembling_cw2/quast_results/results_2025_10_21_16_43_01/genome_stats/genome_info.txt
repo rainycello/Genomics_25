@@ -1,0 +1,17 @@
+reference chromosomes:
+	0 (total length: 165959 bp, total length without N's: 165959 bp, maximal covered length: 102802 bp)
+	1 (total length: 159765 bp, total length without N's: 159765 bp, maximal covered length: 102375 bp)
+
+total genome size: 325724
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+spades-se                | 62.175    | 1.002       | 34        | -         | -         | -         | -         |
+spades-pe                | 62.459    | 1.001       | 36        | -         | -         | -         | -         |
+spades-mp                | 62.991    | 0.994       | 29        | -         | -         | -         | -         |

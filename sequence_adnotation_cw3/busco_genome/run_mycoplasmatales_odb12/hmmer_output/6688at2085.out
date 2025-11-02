@@ -1,0 +1,19 @@
+#                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                   accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                           ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_2_length_68051_cov_18.212929:63506-64699|+ -            398 6688                 -            395    5e-243  801.3   5.9   1   1  3.3e-245  5.6e-243  801.2   5.9     1   395     1   397     1   397 0.99 NODE_2_length_68051_cov_18.212929_53 # 63506 # 64699 # 1 # ID=2_53;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.379
+NODE_14_length_15897_cov_20.600380:2962-4761|-  -            600 6688                 -            395   5.5e-23   76.8   2.5   1   1   7.3e-25   1.2e-22   75.6   2.5    14   274     8   252     2   294 0.80 NODE_14_length_15897_cov_20.600380_4 # 2962 # 4761 # -1 # ID=14_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.309
+NODE_4_length_40423_cov_18.794992:2664-4757|-   -            698 6688                 -            395   1.2e-15   52.7   0.8   1   1   1.1e-17   1.9e-15   52.0   0.8    11   142     9   141     3   160 0.84 NODE_4_length_40423_cov_18.794992_3 # 2664 # 4757 # -1 # ID=4_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.345
+NODE_22_length_10644_cov_15.898355:2753-4570|-  -            606 6688                 -            395     4e-14   47.6  12.9   1   3     2e-15   3.4e-13   44.6   5.7    16   237   119   315   112   325 0.75 NODE_22_length_10644_cov_15.898355_4 # 2753 # 4570 # -1 # ID=22_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.306
+NODE_22_length_10644_cov_15.898355:2753-4570|-  -            606 6688                 -            395     4e-14   47.6  12.9   2   3     0.033       5.6    1.1   0.1    80   139   411   467   406   490 0.81 NODE_22_length_10644_cov_15.898355_4 # 2753 # 4570 # -1 # ID=22_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.306
+NODE_22_length_10644_cov_15.898355:2753-4570|-  -            606 6688                 -            395     4e-14   47.6  12.9   3   3      0.18        31   -1.4   0.1   191   289   492   590   460   592 0.78 NODE_22_length_10644_cov_15.898355_4 # 2753 # 4570 # -1 # ID=22_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.306
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/6688at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_genome/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_genome/run_mycoplasmatales_odb12/hmmer_output/6688at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/6688at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_genome/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:31:02 2025
+# [ok]

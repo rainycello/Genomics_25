@@ -1,0 +1,43 @@
+Assembly	smart_nanopore_50
+# contigs (>= 0 bp)	503
+# contigs (>= 1000 bp)	503
+# contigs (>= 5000 bp)	503
+# contigs (>= 10000 bp)	364
+# contigs (>= 25000 bp)	92
+# contigs (>= 50000 bp)	10
+Total length (>= 0 bp)	8884368
+Total length (>= 1000 bp)	8884368
+Total length (>= 5000 bp)	8884368
+Total length (>= 10000 bp)	7837288
+Total length (>= 25000 bp)	3462562
+Total length (>= 50000 bp)	636906
+# contigs	503
+Largest contig	99953
+Total length	8884368
+Reference length	335799
+GC (%)	33.97
+Reference GC (%)	35.65
+N50	20880
+NG50	81167
+N75	14071
+NG75	58310
+L50	135
+LG50	2
+L75	266
+LG75	4
+# misassemblies	353
+# misassembled contigs	161
+Misassembled contigs length	3331351
+# local misassemblies	294
+# unaligned contigs	145 + 118 part
+Unaligned length	4013273
+Genome fraction (%)	67.690
+Duplication ratio	22.180
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	1061.14
+# indels per 100 kbp	2026.38
+Largest alignment	39702
+NGA50	34078
+NGA75	30436
+LGA50	5
+LGA75	8

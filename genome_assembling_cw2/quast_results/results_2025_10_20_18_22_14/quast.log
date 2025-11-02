@@ -1,0 +1,166 @@
+/home/genomika25/miniconda3/envs/genomika/bin/quast -r seq.fa -l spades se, spades pe, spades mp out_spades_se/scaffolds.fasta out_spades_pe/scaffolds.fasta out_spades_mp/scaffolds.fasta
+
+Version: 5.3.0
+
+System information:
+  OS: Linux-6.8.0-79-generic-x86_64-with-glibc2.39 (linux_64)
+  Python version: 3.10.19
+  CPUs number: 64
+
+Started: 2025-10-20 18:22:14
+
+Logging to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/quast.log
+NOTICE: Maximum number of threads is set to 16 (use --threads option to set it manually)
+
+CWD: /home/genomika25/studenci/dmyboi/genome_assembling_cw2
+Main parameters: 
+  MODE: default, threads: 16, min contig length: 500, min alignment length: 65, min alignment IDY: 95.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Reference:
+  /home/genomika25/studenci/dmyboi/genome_assembling_cw2/seq.fa ==> seq
+
+Contigs:
+  Pre-processing...
+  1  out_spades_se/scaffolds.fasta ==> spades se
+  2  out_spades_pe/scaffolds.fasta ==> spades pe
+  3  out_spades_mp/scaffolds.fasta ==> spades mp
+
+2025-10-20 18:22:14
+Running Basic statistics processor...
+  Reference genome:
+    seq.fa, length = 838112, num fragments = 2, GC % = 36.41
+  Contig files: 
+    1  spades se
+    2  spades pe
+    3  spades mp
+  Calculating N50 and L50...
+    1  spades se, N50 = 4996, L50 = 12, auN = 6805.5, Total length = 202009, GC % = 36.60, # N's per 100 kbp =  2425.63
+    2  spades pe, N50 = 7268, L50 = 10, auN = 8511.5, Total length = 215416, GC % = 36.42, # N's per 100 kbp =  1903.29
+    3  spades mp, N50 = 9117, L50 = 7, auN = 12355.3, Total length = 206827, GC % = 36.61, # N's per 100 kbp =  2130.77
+  Drawing Nx plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/basic_stats/GC_content_plot.pdf
+  Drawing spades se GC content plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/basic_stats/spades se_GC_content_plot.pdf
+  Drawing spades pe GC content plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/basic_stats/spades pe_GC_content_plot.pdf
+  Drawing spades mp GC content plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/basic_stats/spades mp_GC_content_plot.pdf
+  Drawing Coverage histogram (bin size: 4x)...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/basic_stats/coverage_histogram.pdf
+  Drawing spades se coverage histogram (bin size: 4x)...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/basic_stats/spades-se_coverage_histogram.pdf
+  Drawing spades pe coverage histogram (bin size: 8x)...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/basic_stats/spades-pe_coverage_histogram.pdf
+  Drawing spades mp coverage histogram (bin size: 5x)...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/basic_stats/spades-mp_coverage_histogram.pdf
+Done.
+
+2025-10-20 18:22:16
+Running Contig analyzer...
+WARNING: Version of installed minimap2 differs from its version in the QUAST package (2.28). Please make sure that you use an actual version of software.
+  1  spades se
+  2  spades pe
+  1  Logging to files /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/contigs_reports/contigs_report_spades-se.stdout and contigs_report_spades-se.stderr...
+  2  Logging to files /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/contigs_reports/contigs_report_spades-pe.stdout and contigs_report_spades-pe.stderr...
+  1  Aligning contigs to the reference
+  2  Aligning contigs to the reference
+  3  spades mp
+  3  Logging to files /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/contigs_reports/contigs_report_spades-mp.stdout and contigs_report_spades-mp.stderr...
+  3  Aligning contigs to the reference
+WARNING: Version of installed minimap2 differs from its version in the QUAST package (2.28). Please make sure that you use an actual version of software.
+WARNING: Version of installed minimap2 differs from its version in the QUAST package (2.28). Please make sure that you use an actual version of software.
+  2  /home/genomika25/miniconda3/envs/genomika/bin/minimap2 -c -x asm10 -B5 -O4,16 \
+     --no-long-join -r 200 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ 200 -g 2500 \
+     --score-N 2 --cs -t 5 quast_results/results_2025_10_20_18_22_14/quast_corrected_input/seq.fa \
+     quast_results/results_2025_10_20_18_22_14/quast_corrected_input/spades-pe.fasta \
+     > quast_results/results_2025_10_20_18_22_14/contigs_reports/minimap_output/spades-pe.coords_tmp \
+     2>> quast_results/results_2025_10_20_18_22_14/contigs_reports/contigs_report_spades-pe.stderr
+  1  /home/genomika25/miniconda3/envs/genomika/bin/minimap2 -c -x asm10 -B5 -O4,16 \
+     --no-long-join -r 200 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ 200 -g 2500 \
+     --score-N 2 --cs -t 5 quast_results/results_2025_10_20_18_22_14/quast_corrected_input/seq.fa \
+     quast_results/results_2025_10_20_18_22_14/quast_corrected_input/spades-se.fasta \
+     > quast_results/results_2025_10_20_18_22_14/contigs_reports/minimap_output/spades-se.coords_tmp \
+     2>> quast_results/results_2025_10_20_18_22_14/contigs_reports/contigs_report_spades-se.stderr
+WARNING: Version of installed minimap2 differs from its version in the QUAST package (2.28). Please make sure that you use an actual version of software.
+  3  /home/genomika25/miniconda3/envs/genomika/bin/minimap2 -c -x asm10 -B5 -O4,16 \
+     --no-long-join -r 200 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ 200 -g 2500 \
+     --score-N 2 --cs -t 5 quast_results/results_2025_10_20_18_22_14/quast_corrected_input/seq.fa \
+     quast_results/results_2025_10_20_18_22_14/quast_corrected_input/spades-mp.fasta \
+     > quast_results/results_2025_10_20_18_22_14/contigs_reports/minimap_output/spades-mp.coords_tmp \
+     2>> quast_results/results_2025_10_20_18_22_14/contigs_reports/contigs_report_spades-mp.stderr
+  1  Analysis is finished.
+
+  2  Analysis is finished.
+
+  3  Analysis is finished.
+
+  Creating total report...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2025-10-20 18:22:17
+Running NA-NGA calculation...
+  1  spades se, Largest alignment = 19450, NA50 = 4603, LA50 = 14
+  2  spades pe, Largest alignment = 20699, NA50 = 6156, LA50 = 12
+  3  spades mp, Largest alignment = 21501, NA50 = 6106, LA50 = 11
+  Drawing cumulative plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/aligned_stats/NGAx_plot.pdf
+Done.
+
+2025-10-20 18:22:17
+Running Genome analyzer...
+  NOTICE: No file with genomic features were provided. Use the --features option if you want to specify it.
+
+  NOTICE: No file with operons were provided. Use the -O option if you want to specify it.
+  1  spades se
+  2  spades pe
+  3  spades mp
+  3  Analysis is finished.
+  1  Analysis is finished.
+  2  Analysis is finished.
+  Drawing Genome fraction, % histogram...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/genome_stats/genome_fraction_histogram.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2025-10-20 18:22:17
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2025-10-20 18:22:19
+RESULTS:
+  Text versions of total report are saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/report.html
+  PDF version (tables and plots) is saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/report.pdf
+  Icarus (contig browser) is saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/icarus.html
+  Log is saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_20_18_22_14/quast.log
+
+Finished: 2025-10-20 18:22:19
+Elapsed time: 0:00:05.159269
+NOTICEs: 4; WARNINGs: 1; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

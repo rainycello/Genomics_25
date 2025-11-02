@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00324       -            219 9812943              -            178   0.00059   15.0   0.1   1   3     6e-05     0.012   10.7   0.0     2    22     1    21     1    40 0.89 hypothetical protein
+MINDJIJG_00324       -            219 9812943              -            178   0.00059   15.0   0.1   2   3      0.33        65   -1.4   0.0    60    61    92    93    61   153 0.61 hypothetical protein
+MINDJIJG_00324       -            219 9812943              -            178   0.00059   15.0   0.1   3   3     0.051        10    1.2   0.0    46   114   178   205   165   216 0.53 hypothetical protein
+MINDJIJG_00504       -            388 9812943              -            178   0.00099   14.3   0.1   1   1   1.2e-05    0.0025   13.0   0.1     3    34    77   109    76   123 0.80 Oligopeptide transport ATP-binding protein OppD
+MINDJIJG_00247       -            607 9812943              -            178    0.0016   13.6   2.0   1   2     1e-05     0.002   13.2   0.3     2    22   391   411   390   419 0.85 putative ABC transporter ATP-binding protein
+MINDJIJG_00247       -            607 9812943              -            178    0.0016   13.6   2.0   2   2       0.5        97   -2.0   0.1    76   100   531   554   520   575 0.49 putative ABC transporter ATP-binding protein
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/bacteria_odb12/hmms/9812943at2.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins_fxed_bact/run_bacteria_odb12/hmmer_output/9812943at2.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/bacteria_odb12/hmms/9812943at2.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:33:49 2025
+# [ok]

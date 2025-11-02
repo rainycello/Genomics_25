@@ -1,0 +1,34 @@
+Command line: /home/genomika25/miniconda3/envs/genomika/bin/spades.py	-1	/home/genomika25/studenci/dmyboi/genome_assembling_home_work2/illumina1.fq	-2	/home/genomika25/studenci/dmyboi/genome_assembling_home_work2/illumina2.fq	-k	21	-o	/home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k21	--only-assembler	
+
+System information:
+  SPAdes version: 4.2.0
+  Python version: 3.10.19
+  OS: Linux-6.8.0-79-generic-x86_64-with-glibc2.39
+
+Output dir: /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k21
+Mode: ONLY assembling (without read error correction)
+Debug mode is turned OFF
+
+Dataset parameters:
+  Standard mode
+  For multi-cell/isolate data we recommend to use '--isolate' option; for single-cell MDA data use '--sc'; for metagenomic data use '--meta'; for RNA-Seq use '--rna'.
+  Reads:
+    Library number: 1, library type: paired-end
+      orientation: fr
+      left reads: ['/home/genomika25/studenci/dmyboi/genome_assembling_home_work2/illumina1.fq']
+      right reads: ['/home/genomika25/studenci/dmyboi/genome_assembling_home_work2/illumina2.fq']
+      interlaced reads: not specified
+      single reads: not specified
+      merged reads: not specified
+Assembly parameters:
+  k: [21]
+  Repeat resolution is enabled
+  Mismatch careful mode is turned OFF
+  MismatchCorrector will be SKIPPED
+  Coverage cutoff is turned OFF
+  Assembly graph output will use GFA v1.2 format
+Other parameters:
+  Dir for temp files: /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k21/tmp
+  Threads: 16
+  Memory limit (in Gb): 250
+

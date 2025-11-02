@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00872       -            651 7090                 -            987  8.1e-233  771.6  45.5   1   1  3.1e-235  9.3e-233  771.4  45.5   338   985     1   645     1   647 0.96 Error-prone DNA polymerase
+MINDJIJG_00871       -            263 7090                 -            987   1.4e-49  165.1  26.2   1   1     5e-52   1.5e-49  164.9  26.2     1   251     1   261     1   263 0.89 Error-prone DNA polymerase
+MINDJIJG_00120       -             92 7090                 -            987     5e-05   17.6   0.0   1   1     2e-07     6e-05   17.3   0.0   323   380    18    75    16    82 0.95 DNA polymerase III PolC-type
+MINDJIJG_00121       -             49 7090                 -            987    0.0026   11.9   0.0   1   1   8.7e-06    0.0026   11.9   0.0   439   475     7    45     3    49 0.82 DNA polymerase III PolC-type
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7090at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins/run_mycoplasmatales_odb12/hmmer_output/7090at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7090at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:30:31 2025
+# [ok]

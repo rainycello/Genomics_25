@@ -1,0 +1,7 @@
+
+=== Error correction and assembling warnings:
+ * 0:00:01.694    15M / 309M  WARN    General                 (kmer_coverage_model.cpp   : 367)   Failed to determine erroneous kmer threshold. Threshold set to: 4
+ * 0:00:01.696    24M / 252M  WARN    General                 (kmer_coverage_model.cpp   : 367)   Failed to determine erroneous kmer threshold. Threshold set to: 3
+ * 0:00:01.177    24M / 302M  WARN    General                 (kmer_coverage_model.cpp   : 219)   Too many erroneous kmers, the estimates might be unreliable
+ * 0:00:06.718    51M / 385M  WARN   ScaffoldingUniqueEdgeAna (scaff_supplementary.cpp   :  83)   Less than half of genome in unique edges!
+======= Warnings saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/out_spades_mp/warnings.log

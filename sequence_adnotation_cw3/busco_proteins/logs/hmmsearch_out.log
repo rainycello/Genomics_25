@@ -1,0 +1,70 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/8382at2085.hmm
+# target sequence database:        /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa
+# per-dom hits tabular output:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins/run_mycoplasmatales_odb12/hmmer_output/8382at2085.out
+# number of worker threads:        1
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       8382  [M=418]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+   1.1e-114  379.6  34.6   1.1e-114  379.6  34.6    1.9  2  MINDJIJG_00463  Trigger factor
+
+
+Domain annotation for each sequence (and alignments):
+>> MINDJIJG_00463  Trigger factor
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  379.6  34.6  9.3e-118  1.1e-114      69     417 ..       3     359 ..       1     360 [. 0.95
+   2 ?   -3.2   4.1      0.15   1.8e+02     305     343 ..     371     409 ..     363     410 .] 0.65
+
+  Alignments for each domain:
+  == domain 1  score: 379.6 bits;  conditional E-value: 9.3e-118
+            8382  69 kvleeia..kikeeikekeeviespsveikkiseeeleiefvfplypeiklgdykkiktklkelkvteedveeeiekllkkkavtkekeekikkg 161
+                     ++l++i+  +i ++i++++e++ + +++ik+i+ee++ei+fvfpl+pe+klgdykk+ +kl + ++t++d+++++++++++++v+++++e+ik+ 
+  MINDJIJG_00463   3 SILDNIYkeQIISQITKDDEIVGHANLRIKDINEEKAEISFVFPLFPEVKLGDYKKLGVKLGSCELTKKDLNDAKSQIASNYVVMLDSKEPIKEK 97 
+                     5667776225779********************************************************************************** PP
+
+            8382 162 DivtfdFkGfvdgkaFegGeAenfeLkiGSnqFIpgFEdqliGlkvgekkeinvtFPkdYhvkelagkkavFevkikkikevelpelddefvkel 256
+                     D v+f+FkGf+dgk+F+gGeAenf+L+iGS+qFIpgFEd++iGlk+ge+k++++ FP+dYh+k+lagk++vF+vki+ +k++++p +dd+fvke+
+  MINDJIJG_00463  98 DQVNFNFKGFIDGKPFDGGEAENFDLVIGSKQFIPGFEDKMIGLKAGEEKDLDLVFPEDYHAKNLAGKSVVFHVKINFVKTPNYPTIDDNFVKEI 192
+                     *********************************************************************************************** PP
+
+            8382 257 nlpnvktleelkeylkkqllkekiekaknkaiee....iiekseikipkslieeevkklkeefkkqLkqqkiklkeyleltkkseedieeelkee 347
+                     nlpnvk+++e++ey+k ++lk+k+ ++kn++i+e    + e+se+ +++sl+eee++k++++f ++Lkqq+i++k+y+e++k+++e+  + +k++
+  MINDJIJG_00463 193 NLPNVKNVAEFEEYVKFIALKNKLANVKNEFINEavkkLSEQSEVSLSESLVEEEADKYYQNFLNNLKQQQITEKDYYEFSKSTKEESLNVFKKQ 287
+                     ***************************9987654111177889**************************************************** PP
+
+            8382 348 akknlkkslvveeiakkekievt..eieeeieelaklysleveeikkllseeqikselteekvidllieknk 417
+                     a+ nlk+++v+ +iak e+++vt  ++e+e+e+lak+y+l  e++k++l++e+++++l++e++ + l+++n+
+  MINDJIJG_00463 288 AQINLKQMFVLGAIAKAESLKVTleDYEKEVEKLAKTYGLAPEHVKQILKFENVENNLINERISEILLKEND 359
+                     ******************99885449*******************************************998 PP
+
+  == domain 2  score: -3.2 bits;  conditional E-value: 0.15
+            8382 305 eeevkklkeefkkqLkqqkiklkeyleltkkseedieee 343
+                     +e  +   +++++ + + k k +e+ ++ k s+e+i+e+
+  MINDJIJG_00463 371 KEVEEYEAKQTQAIVDEAKRKREEAEKIAKESKENIDEQ 409
+                     444444455666666777777888888888888888775 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (418 nodes)
+Target sequences:                       1207  (168038 residues searched)
+Passed MSV filter:                       275  (0.227838); expected 24.1 (0.02)
+Passed bias filter:                       24  (0.019884); expected 24.1 (0.02)
+Passed Vit filter:                         2  (0.001657); expected 1.2 (0.001)
+Passed Fwd filter:                         1  (0.0008285); expected 0.0 (1e-05)
+Initial search space (Z):               1207  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.01
+# Mc/sec: 5278.43
+//
+[ok]

@@ -1,0 +1,33 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00962       -            681 6419                 -            944         0 1176.5  11.3   1   1         0         0 1176.4  11.3   262   942     1   681     1   681 1.00 UvrABC system protein A
+MINDJIJG_00963       -            200 6419                 -            944  5.5e-105  348.1   3.4   1   1    7e-107    6e-105  348.0   3.4     3   200     1   200     1   200 0.98 UvrABC system protein A
+MINDJIJG_00655       -            124 6419                 -            944   4.3e-13   44.0   0.0   1   1   5.6e-15   4.8e-13   43.9   0.0   810   895    38   120    16   123 0.90 Energy-coupling factor transporter ATP-binding protein EcfA2
+MINDJIJG_00653       -            265 6419                 -            944   2.5e-11   38.1   3.0   1   2   1.9e-05    0.0016   12.3   0.2   621   670    14    61     4   100 0.66 Energy-coupling factor transporter ATP-binding protein EcfA1
+MINDJIJG_00653       -            265 6419                 -            944   2.5e-11   38.1   3.0   2   2   9.5e-10   8.2e-08   26.5   0.3   473   590   120   229   105   236 0.75 Energy-coupling factor transporter ATP-binding protein EcfA1
+MINDJIJG_00833       -            337 6419                 -            944   2.6e-11   38.1   3.6   1   2   3.6e-06   0.00031   14.7   0.5   594   693    84   182    43   195 0.69 putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+MINDJIJG_00833       -            337 6419                 -            944   2.6e-11   38.1   3.6   2   2   3.9e-09   3.4e-07   24.5   0.2   825   933   230   327   222   336 0.78 putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+MINDJIJG_00915       -            314 6419                 -            944   1.6e-10   35.5   3.5   1   2   2.3e-05     0.002   12.0   0.8   622   654   105   137    79   156 0.72 Vitamin B12 import ATP-binding protein BtuD
+MINDJIJG_00915       -            314 6419                 -            944   1.6e-10   35.5   3.5   2   2   5.6e-09   4.8e-07   24.0   0.1   830   906   226   300   168   303 0.86 Vitamin B12 import ATP-binding protein BtuD
+MINDJIJG_01023       -            111 6419                 -            944   4.7e-09   30.6   0.0   1   1   6.3e-11   5.5e-09   30.4   0.0   831   930    14   107     9   111 0.87 Oligopeptide transport ATP-binding protein OppD
+MINDJIJG_00830       -            334 6419                 -            944   9.2e-08   26.4   2.0   1   2       1.1        91   -3.4   0.0   634   654   119   139   107   145 0.78 putative ABC transporter ATP-binding protein
+MINDJIJG_00830       -            334 6419                 -            944   9.2e-08   26.4   2.0   2   2   1.4e-09   1.2e-07   26.0   1.6   810   938   209   329   151   332 0.84 putative ABC transporter ATP-binding protein
+MINDJIJG_00510       -            300 6419                 -            944   2.6e-05   18.2   3.1   1   2   7.4e-05    0.0064   10.3   0.2   619   680    66   126    33   150 0.74 putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+MINDJIJG_00510       -            300 6419                 -            944   2.6e-05   18.2   3.1   2   2   0.00024     0.021    8.6   0.2   827   930   189   284   183   292 0.76 putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+MINDJIJG_00811       -             76 6419                 -            944     4e-05   17.6   0.1   1   1   4.7e-07     4e-05   17.6   0.1   626   665    21    60     8    75 0.81 putative ABC transporter ATP-binding protein
+MINDJIJG_00068       -             65 6419                 -            944   4.3e-05   17.5   0.3   1   1   5.7e-07   4.9e-05   17.3   0.3   599   653     2    58     1    61 0.83 Spermidine/putrescine import ATP-binding protein PotA
+MINDJIJG_00286       -            234 6419                 -            944   5.2e-05   17.3   2.3   1   2    0.0099      0.85    3.3   0.3   614   661    10    57     6    69 0.89 putative ABC transporter ATP-binding protein YxlF
+MINDJIJG_00286       -            234 6419                 -            944   5.2e-05   17.3   2.3   2   2   6.5e-06   0.00056   13.8   0.1   804   897   108   198    95   216 0.80 putative ABC transporter ATP-binding protein YxlF
+MINDJIJG_00069       -            119 6419                 -            944   6.8e-05   16.9   0.2   1   1   8.6e-07   7.5e-05   16.7   0.2   485   559    19    93     3   103 0.78 Spermidine/putrescine import ATP-binding protein PotA
+MINDJIJG_01027       -            179 6419                 -            944   9.4e-05   16.4   0.2   1   1   1.3e-06   0.00012   16.1   0.2   814   929     9   117     4   133 0.72 Vitamin B12 import ATP-binding protein BtuD
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/6419at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins/run_mycoplasmatales_odb12/hmmer_output/6419at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/6419at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:30:30 2025
+# [ok]

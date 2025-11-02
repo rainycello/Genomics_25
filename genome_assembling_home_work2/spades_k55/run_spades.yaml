@@ -1,0 +1,101 @@
+- STAGE: Before start
+  args: []
+  config_dir: ''
+  del_after:
+  - .bin_reads
+  - tmp/spades_qvoa4u2y
+  - configs
+  - .bin_reads
+  - tmp/spades_obfsigzi
+  - configs
+  job_uuid: SPAdes_Before_start_P295T7RAODG1IFS7XJDDTJMIXOI24R5K
+  mpi_support: false
+  output_files: []
+  path: 'true'
+  short_name: before_start
+- STAGE: Assembling
+  args: []
+  config_dir: ''
+  del_after: []
+  job_uuid: SPAdes_Assembling_1QMPGXY50MGSNLFE7NN8V5J1SHDA4ZMK
+  mpi_support: false
+  output_files: []
+  path: 'true'
+  short_name: as_start
+- STAGE: K55
+  args:
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/K55/configs/config.info
+  config_dir: K55
+  del_after: []
+  job_uuid: hpcSPAdes_K55_O0M9HGK531M1YG1LCSL2VJWQD93JWPSF
+  mpi_support: true
+  output_files: []
+  path: /home/genomika25/miniconda3/envs/genomika/bin/{spades_core}
+  short_name: k55
+- STAGE: Copy files
+  args:
+  - /home/genomika25/miniconda3/envs/genomika/share/spades/spades_pipeline/scripts/copy_files.py
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/K55/before_rr.fasta
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/before_rr.fasta
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/K55/assembly_graph_after_simplification.gfa
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/assembly_graph_after_simplification.gfa
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/K55/final_contigs.fasta
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/contigs.fasta
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/K55/first_pe_contigs.fasta
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/first_pe_contigs.fasta
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/K55/strain_graph.gfa
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/strain_graph.gfa
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/K55/scaffolds.fasta
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/scaffolds.fasta
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/K55/scaffolds.paths
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/scaffolds.paths
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/K55/assembly_graph_with_scaffolds.gfa
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/assembly_graph_with_scaffolds.gfa
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/K55/assembly_graph.fastg
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/assembly_graph.fastg
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/K55/final_contigs.paths
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/contigs.paths
+  config_dir: ''
+  del_after:
+  - .bin_reads
+  - tmp/spades_wgvxa2e4
+  job_uuid: SPAdes_Copy_files_VSGGDG66Z9ERUAUXWSFT0X2DQFIURURF
+  mpi_support: false
+  output_files: []
+  path: /home/genomika25/miniconda3/envs/genomika/bin/python3
+  short_name: copy_files
+- STAGE: Assembling
+  args: []
+  config_dir: ''
+  del_after: []
+  job_uuid: SPAdes_Assembling_0FMUR0QPBPXVYET46IF9NDAJSGYKPC3K
+  mpi_support: false
+  output_files: []
+  path: 'true'
+  short_name: as_finish
+- STAGE: Breaking scaffolds
+  args:
+  - /home/genomika25/miniconda3/envs/genomika/share/spades/spades_pipeline/scripts/breaking_scaffolds_script.py
+  - --result_scaffolds_filename
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/scaffolds.fasta
+  - --misc_dir
+  - /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/misc
+  - --threshold_for_breaking_scaffolds
+  - '3'
+  config_dir: ''
+  del_after: []
+  job_uuid: SPAdes_Breaking_scaffolds_MVUAK7ZELJ4ZL6LI5ESEBCQ6W7BQUE51
+  mpi_support: false
+  output_files: []
+  path: /home/genomika25/miniconda3/envs/genomika/bin/python3
+  short_name: bs
+- STAGE: Terminate
+  args: []
+  config_dir: ''
+  del_after:
+  - configs
+  job_uuid: SPAdes_Terminate_U4REINL4Y5X5N8YGPXEHSRW88KVI1B7V
+  mpi_support: false
+  output_files: []
+  path: 'true'
+  short_name: terminate

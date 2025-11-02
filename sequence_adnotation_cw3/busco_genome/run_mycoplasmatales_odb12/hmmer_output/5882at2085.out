@@ -1,0 +1,14 @@
+#                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                   accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                           ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_10_length_23813_cov_7.225619:18624-18980|+ -            119 5882                 -            115   4.9e-54  176.6   5.8   1   1     8e-57   5.5e-54  176.5   5.8     1   115     1   116     1   116 0.98 NODE_10_length_23813_cov_7.225619_19 # 18624 # 18980 # 1 # ID=10_19;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.283
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/5882at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_genome/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_genome/run_mycoplasmatales_odb12/hmmer_output/5882at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/5882at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_genome/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:31:01 2025
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00329       -            345 9776390              -            219   0.00015   16.6   0.0   1   1   1.2e-06   0.00024   15.9   0.0     3    56    34    90    32   113 0.83 Energy-coupling factor transporter ATP-binding protein EcfA2
+MINDJIJG_00082       -            716 9776390              -            219    0.0011   13.7   0.2   1   3      0.44        86   -2.2   0.0     6    23    57    74    53    78 0.81 Chaperone protein ClpB
+MINDJIJG_00082       -            716 9776390              -            219    0.0011   13.7   0.2   2   3      0.96   1.9e+02   -3.4   0.0   149   166   371   388   364   405 0.61 Chaperone protein ClpB
+MINDJIJG_00082       -            716 9776390              -            219    0.0011   13.7   0.2   3   3   3.9e-05    0.0076   11.0   0.0     6    26   463   483   460   492 0.86 Chaperone protein ClpB
+MINDJIJG_00048       -            242 9776390              -            219    0.0041   11.9   0.4   1   3   0.00058      0.11    7.2   0.0    68   109    29    70    21    92 0.83 Uridylate kinase
+MINDJIJG_00048       -            242 9776390              -            219    0.0041   11.9   0.4   2   3     0.028       5.5    1.7   0.0    71    93   113   135    91   141 0.81 Uridylate kinase
+MINDJIJG_00048       -            242 9776390              -            219    0.0041   11.9   0.4   3   3      0.27        53   -1.6   0.0   114   135   188   209   184   214 0.82 Uridylate kinase
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/bacteria_odb12/hmms/9776390at2.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins_fxed_bact/run_bacteria_odb12/hmmer_output/9776390at2.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/bacteria_odb12/hmms/9776390at2.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:33:47 2025
+# [ok]

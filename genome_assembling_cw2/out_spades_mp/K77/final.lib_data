@@ -1,0 +1,146 @@
+ÉE---
+max read length: 150
+nomerge max read length: 150
+average read length: 150
+average coverage: 15.155
+libraries:
+  - type:            paired-end
+    number:          1
+    orientation:     fr
+    left reads:
+      - '/home/genomika25/studenci/dmyboi/genome_assembling_cw2/illumina1ss.fq'
+    right reads:
+      - '/home/genomika25/studenci/dmyboi/genome_assembling_cw2/illumina2ss.fq'
+    data:
+      unmerged read length: 150
+      merged read length: 0
+      insert size mean: 349.557
+      insert size deviation: 10.0569
+      insert size left quantile: 337
+      insert size right quantile: 362
+      insert size median: 350
+      insert size mad: 6
+      insert size distribution: { 306: 1, 317: 2, 318: 5, 319: 1, 320: 7, 
+                                  321: 6, 322: 8, 323: 8, 324: 11, 325: 19, 
+                                  326: 17, 327: 26, 328: 41, 329: 32, 330: 47, 
+                                  331: 50, 332: 50, 333: 78, 334: 104, 
+                                  335: 113, 336: 130, 337: 158, 338: 168, 
+                                  339: 196, 340: 183, 341: 222, 342: 227, 
+                                  343: 236, 344: 258, 345: 267, 346: 284, 
+                                  347: 285, 348: 333, 349: 340, 350: 316, 
+                                  351: 332, 352: 321, 353: 291, 354: 268, 
+                                  355: 270, 356: 253, 357: 221, 358: 214, 
+                                  359: 215, 360: 193, 361: 165, 362: 138, 
+                                  363: 113, 364: 115, 365: 74, 366: 94, 
+                                  367: 66, 368: 51, 369: 43, 370: 37, 371: 36, 
+                                  372: 34, 373: 12, 374: 26, 375: 12, 376: 14, 
+                                  377: 7, 378: 7, 379: 8, 380: 4, 381: 2, 
+                                  382: 1, 384: 1, 386: 1, 388: 1 }
+      pi threshold:    0
+      binary reads info:
+        binary converted: true
+        bin reads info file: '/home/genomika25/studenci/dmyboi/genome_assembling_cw2/out_spades_mp/.bin_reads/INFO_0'
+        paired read prefix: '/home/genomika25/studenci/dmyboi/genome_assembling_cw2/out_spades_mp/.bin_reads/paired_0'
+        merged read prefix: '/home/genomika25/studenci/dmyboi/genome_assembling_cw2/out_spades_mp/.bin_reads/merged_0'
+        single read prefix: '/home/genomika25/studenci/dmyboi/genome_assembling_cw2/out_spades_mp/.bin_reads/single_0'
+        chunk num:       16
+      single reads mapped: false
+      library index:   0
+      number of reads: 54116
+      total nucleotides: 8117400
+  - type:            mate-pairs
+    number:          1
+    orientation:     rf
+    left reads:
+      - '/home/genomika25/studenci/dmyboi/genome_assembling_cw2/illumina_mp1.fq'
+    right reads:
+      - '/home/genomika25/studenci/dmyboi/genome_assembling_cw2/illumina_mp2.fq'
+    data:
+      unmerged read length: 100
+      merged read length: 0
+      insert size mean: 4998.27
+      insert size deviation: 49.3749
+      insert size left quantile: 4934
+      insert size right quantile: 5061
+      insert size median: 4999
+      insert size mad: 33
+      insert size distribution: { 4824: 1, 4826: 1, 4840: 2, 4841: 1, 4844: 1, 
+                                  4851: 1, 4853: 1, 4854: 2, 4858: 2, 4859: 1, 
+                                  4860: 1, 4862: 1, 4865: 2, 4866: 1, 4867: 1, 
+                                  4868: 1, 4869: 6, 4870: 2, 4871: 1, 4872: 2, 
+                                  4874: 2, 4875: 1, 4876: 3, 4877: 3, 4878: 1, 
+                                  4879: 1, 4880: 3, 4881: 5, 4882: 2, 4883: 1, 
+                                  4884: 1, 4885: 2, 4886: 1, 4887: 4, 4888: 4, 
+                                  4889: 5, 4890: 2, 4891: 5, 4892: 4, 4893: 6, 
+                                  4894: 5, 4895: 5, 4896: 2, 4897: 5, 4898: 4, 
+                                  4899: 4, 4900: 8, 4901: 3, 4902: 6, 4903: 10, 
+                                  4904: 10, 4905: 9, 4906: 4, 4907: 7, 
+                                  4908: 4, 4909: 5, 4910: 6, 4911: 17, 
+                                  4912: 10, 4913: 5, 4914: 7, 4915: 10, 
+                                  4916: 12, 4917: 8, 4918: 6, 4919: 13, 
+                                  4920: 14, 4921: 15, 4922: 12, 4923: 14, 
+                                  4924: 15, 4925: 12, 4926: 15, 4927: 20, 
+                                  4928: 14, 4929: 19, 4930: 13, 4931: 22, 
+                                  4932: 12, 4933: 13, 4934: 16, 4935: 15, 
+                                  4936: 21, 4937: 13, 4938: 25, 4939: 21, 
+                                  4940: 14, 4941: 24, 4942: 19, 4943: 19, 
+                                  4944: 21, 4945: 29, 4946: 24, 4947: 22, 
+                                  4948: 20, 4949: 15, 4950: 24, 4951: 22, 
+                                  4952: 29, 4953: 28, 4954: 29, 4955: 30, 
+                                  4956: 15, 4957: 16, 4958: 26, 4959: 39, 
+                                  4960: 24, 4961: 36, 4962: 33, 4963: 32, 
+                                  4964: 32, 4965: 40, 4966: 37, 4967: 25, 
+                                  4968: 33, 4969: 42, 4970: 31, 4971: 33, 
+                                  4972: 39, 4973: 36, 4974: 34, 4975: 38, 
+                                  4976: 29, 4977: 39, 4978: 32, 4979: 27, 
+                                  4980: 31, 4981: 41, 4982: 47, 4983: 33, 
+                                  4984: 33, 4985: 35, 4986: 31, 4987: 42, 
+                                  4988: 36, 4989: 45, 4990: 45, 4991: 41, 
+                                  4992: 35, 4993: 36, 4994: 45, 4995: 37, 
+                                  4996: 37, 4997: 41, 4998: 39, 4999: 43, 
+                                  5000: 38, 5001: 38, 5002: 36, 5003: 35, 
+                                  5004: 47, 5005: 50, 5006: 42, 5007: 30, 
+                                  5008: 57, 5009: 28, 5010: 50, 5011: 39, 
+                                  5012: 37, 5013: 38, 5014: 50, 5015: 43, 
+                                  5016: 28, 5017: 28, 5018: 42, 5019: 35, 
+                                  5020: 43, 5021: 33, 5022: 31, 5023: 28, 
+                                  5024: 38, 5025: 32, 5026: 29, 5027: 34, 
+                                  5028: 36, 5029: 45, 5030: 26, 5031: 30, 
+                                  5032: 40, 5033: 28, 5034: 32, 5035: 26, 
+                                  5036: 29, 5037: 34, 5038: 30, 5039: 34, 
+                                  5040: 40, 5041: 19, 5042: 20, 5043: 30, 
+                                  5044: 26, 5045: 37, 5046: 27, 5047: 23, 
+                                  5048: 16, 5049: 18, 5050: 14, 5051: 28, 
+                                  5052: 28, 5053: 18, 5054: 23, 5055: 19, 
+                                  5056: 24, 5057: 22, 5058: 21, 5059: 20, 
+                                  5060: 22, 5061: 21, 5062: 8, 5063: 19, 
+                                  5064: 12, 5065: 11, 5066: 10, 5067: 18, 
+                                  5068: 21, 5069: 15, 5070: 13, 5071: 23, 
+                                  5072: 11, 5073: 9, 5074: 7, 5075: 10, 
+                                  5076: 12, 5077: 10, 5078: 6, 5079: 14, 
+                                  5080: 8, 5081: 13, 5082: 9, 5083: 9, 
+                                  5084: 8, 5085: 9, 5086: 5, 5087: 12, 
+                                  5088: 7, 5089: 7, 5090: 6, 5091: 10, 
+                                  5092: 7, 5093: 6, 5094: 6, 5095: 11, 
+                                  5096: 7, 5097: 8, 5098: 5, 5099: 7, 5100: 5, 
+                                  5101: 5, 5102: 7, 5103: 3, 5104: 4, 5105: 2, 
+                                  5106: 5, 5108: 3, 5109: 3, 5110: 2, 5111: 3, 
+                                  5112: 3, 5114: 4, 5115: 1, 5117: 2, 5118: 1, 
+                                  5119: 1, 5120: 3, 5121: 2, 5122: 1, 5124: 2, 
+                                  5125: 1, 5126: 1, 5127: 1, 5128: 3, 5130: 1, 
+                                  5131: 2, 5132: 1, 5134: 4, 5136: 1, 5139: 1, 
+                                  5141: 2, 5142: 1, 5143: 1, 5144: 1, 5147: 2, 
+                                  5148: 1, 5151: 2, 5159: 1, 5160: 1 }
+      pi threshold:    0
+      binary reads info:
+        binary converted: true
+        bin reads info file: '/home/genomika25/studenci/dmyboi/genome_assembling_cw2/out_spades_mp/.bin_reads/INFO_1'
+        paired read prefix: '/home/genomika25/studenci/dmyboi/genome_assembling_cw2/out_spades_mp/.bin_reads/paired_1'
+        merged read prefix: '/home/genomika25/studenci/dmyboi/genome_assembling_cw2/out_spades_mp/.bin_reads/merged_1'
+        single read prefix: '/home/genomika25/studenci/dmyboi/genome_assembling_cw2/out_spades_mp/.bin_reads/single_1'
+        chunk num:       16
+      single reads mapped: false
+      library index:   1
+      number of reads: 81402
+      total nucleotides: 8140200
+...

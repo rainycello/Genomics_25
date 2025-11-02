@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00375       -            383 1084                 -            405  2.8e-167  552.6   7.7   1   1  2.9e-169    5e-167  551.8   7.7     1   368     2   383     2   383 0.94 GTPase Obg
+MINDJIJG_01060       -            296 1084                 -            405   6.1e-22   74.0   8.4   1   1   6.3e-23   1.1e-20   69.8   8.3   158   370     5   239     2   259 0.73 Ribosome-binding ATPase YchF
+MINDJIJG_00064       -            281 1084                 -            405   1.3e-10   36.7   2.4   1   2   7.5e-13   1.3e-10   36.7   2.4   152   321     1   166     1   181 0.85 GTPase Era
+MINDJIJG_00064       -            281 1084                 -            405   1.3e-10   36.7   2.4   2   2      0.21        36   -1.0   0.2   291   369   185   263   171   277 0.62 GTPase Era
+MINDJIJG_00687       -            179 1084                 -            405   2.7e-06   22.4   0.1   1   2      0.38        66   -1.9   0.0   298   322    26    51    10    62 0.74 GTPase Der
+MINDJIJG_00687       -            179 1084                 -            405   2.7e-06   22.4   0.1   2   2   2.7e-08   4.7e-06   21.6   0.1   158   261    62   171    47   179 0.81 GTPase Der
+MINDJIJG_00100       -            251 1084                 -            405   7.7e-06   20.9   0.7   1   2      0.19        33   -0.9   4.6   277   353    16    93     9   115 0.73 tRNA modification GTPase MnmE
+MINDJIJG_00100       -            251 1084                 -            405   7.7e-06   20.9   0.7   2   2   4.4e-08   7.7e-06   20.9   0.7   157   261   115   218   109   249 0.76 tRNA modification GTPase MnmE
+MINDJIJG_00688       -             47 1084                 -            405   4.6e-05   18.4   0.1   1   1   2.8e-07   4.9e-05   18.3   0.1   158   182     6    30     3    37 0.89 GTPase Der
+MINDJIJG_01115       -            149 1084                 -            405    0.0003   15.7   8.8   1   2   0.00022     0.038    8.8   4.0   266   329    39   103    26   114 0.74 Ribosome biogenesis GTPase A
+MINDJIJG_01115       -            149 1084                 -            405    0.0003   15.7   8.8   2   2   0.00011     0.018    9.8   0.2   160   180   115   135   110   142 0.86 Ribosome biogenesis GTPase A
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/1084at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins/run_mycoplasmatales_odb12/hmmer_output/1084at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/1084at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:30:28 2025
+# [ok]

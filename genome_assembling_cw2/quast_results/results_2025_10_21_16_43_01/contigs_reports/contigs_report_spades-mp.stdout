@@ -1,0 +1,165 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [0]
+	Loaded [1]
+	Total Regions: 2
+	Total Region Length: 325724
+Analyzing contigs...
+CONTIG: NODE_1_length_79147_cov_13.317807 (79147bp)
+Best alignment score: 21778.4 (LEN: 22072, IDY: 98.67), Total number of alignments: 10
+			Looking for the best set of alignments (out of 10 total alignments)
+			The best set is below. Score: 73637.9, number of alignments: 10, unaligned bases: 4630
+		This contig is misassembled.
+			Real Alignment 1: 86923 99134 | 12258 1 | 12212 12258 | 100.0 | 1 NODE_1_length_79147_cov_13.317807
+			  Scaffold gap between these two alignments, gap lengths difference (reference vs assembly) = 1098 (extensive)
+			Real Alignment 2: 84117 85724 | 13966 12359 | 1608 1608 | 100.0 | 1 NODE_1_length_79147_cov_13.317807
+			  Scaffold gap between these two alignments, gap lengths difference (reference vs assembly) = -1095 (extensive)
+			Real Alignment 3: 80689 83509 | 18489 15669 | 2821 2821 | 100.0 | 1 NODE_1_length_79147_cov_13.317807
+			  Scaffold gap between these two alignments, gap lengths difference (reference vs assembly) = 140 (local)
+			Real Alignment 4: 75156 80448 | 23882 18590 | 5293 5293 | 100.0 | 1 NODE_1_length_79147_cov_13.317807
+			  Scaffold gap between these two alignments, gap lengths difference (reference vs assembly) = 3002 (extensive)
+			Real Alignment 5: 65718 72053 | 30318 23983 | 6336 6336 | 100.0 | 1 NODE_1_length_79147_cov_13.317807
+			  Scaffold gap between these two alignments, gap lengths difference (reference vs assembly) = 4708 (extensive)
+			Excluding internal overlap of size 795 between Alignment 6 and 7: 58419 60909 | 32952 30419 | 2491 2534 --> 59214 60909 | 32157 30419 | 1696 1739
+			Real Alignment 6: 59214 60909 | 32157 30419 | 1696 1739 | 99.92 | 1 NODE_1_length_79147_cov_13.317807
+			  Extensive misassembly (relocation, inconsistency = 11186) between these two alignments
+			Real Alignment 7: 40264 48027 | 39921 32158 | 7764 7764 | 99.99 | 1 NODE_1_length_79147_cov_13.317807
+			  Scaffold gap between these two alignments, gap lengths difference (reference vs assembly) = 4 (local)
+			Excluding internal overlap of size 171 between Alignment 8 and 9: 24365 37831 | 55916 42350 | 13467 13567 --> 24536 37831 | 55745 42350 | 13296 13396
+			Real Alignment 8: 24536 37831 | 55745 42350 | 13296 13396 | 99.99 | 1 NODE_1_length_79147_cov_13.317807
+			  Gap between these two alignments (local misassembly). Inconsistency = 550
+			Real Alignment 9: 1668 23985 | 77817 55746 | 22318 22072 | 98.67 | 1 NODE_1_length_79147_cov_13.317807
+			  Scaffold gap between these two alignments, gap lengths difference (reference vs assembly) = 326 (local)
+			Real Alignment 10: 12 1241 | 79147 77918 | 1230 1230 | 100.0 | 1 NODE_1_length_79147_cov_13.317807
+
+CONTIG: NODE_2_length_28280_cov_11.483885 (28280bp)
+Best alignment score: 13973.0 (LEN: 14280, IDY: 97.85), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 27865.2, number of alignments: 2, unaligned bases: 100
+		This contig is misassembled.
+			Real Alignment 1: 15841 30432 | 14280 1 | 14592 14280 | 97.85 | 0 NODE_2_length_28280_cov_11.483885
+			  Scaffold gap between these two alignments, gap lengths difference (reference vs assembly) = 1836 (extensive)
+			Real Alignment 2: 7 13904 | 28280 14381 | 13898 13900 | 99.98 | 0 NODE_2_length_28280_cov_11.483885
+
+CONTIG: NODE_3_length_24909_cov_12.616100 (24909bp)
+Best alignment score: 10910.9 (LEN: 10912, IDY: 99.99), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			The best set is below. Score: 24063.5, number of alignments: 4, unaligned bases: 200
+		This contig is misassembled.
+			Real Alignment 1: 59400 70311 | 10912 1 | 10912 10912 | 99.99 | 0 NODE_3_length_24909_cov_12.616100
+			  Scaffold gap between these two alignments, gap lengths difference (reference vs assembly) = 40 (local)
+			Excluding internal overlap of size 633 between Alignment 2 and 3: 44893 48970 | 22297 17966 | 4078 4332 --> 44893 48414 | 22297 18599 | 3522 3699
+			Real Alignment 2: 51674 59259 | 18598 11013 | 7586 7586 | 100.0 | 0 NODE_3_length_24909_cov_12.616100
+			  Extensive misassembly (relocation, inconsistency = 3259) between these two alignments
+			Real Alignment 3: 44893 48414 | 22297 18599 | 3522 3699 | 96.34 | 0 NODE_3_length_24909_cov_12.616100
+			  Scaffold gap between these two alignments, gap lengths difference (reference vs assembly) = 1313 (extensive)
+			Real Alignment 4: 40968 43479 | 24909 22398 | 2512 2512 | 100.0 | 0 NODE_3_length_24909_cov_12.616100
+
+CONTIG: NODE_4_length_23484_cov_10.913658 (23484bp)
+Best alignment score: 17932.0 (LEN: 17932, IDY: 100.00), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 22741.2, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 521 between Alignment 1 and 2: 153586 159763 | 6073 1 | 6178 6073 --> 154115 159763 | 5552 1 | 5649 5552
+			Real Alignment 1: 154115 159763 | 5552 1 | 5649 5552 | 95.61 | 1 NODE_4_length_23484_cov_10.913658
+			  Extensive misassembly (relocation, inconsistency = 3116) between these two alignments
+			Real Alignment 2: 133067 150998 | 23484 5553 | 17932 17932 | 100.0 | 1 NODE_4_length_23484_cov_10.913658
+
+CONTIG: NODE_5_length_20692_cov_10.976910 (20692bp)
+Best alignment score: 8679.0 (LEN: 8679, IDY: 100.00), Total number of alignments: 5
+			Looking for the best set of alignments (out of 5 total alignments)
+			The best set is below. Score: 20226.0, number of alignments: 5, unaligned bases: 446
+		This contig is misassembled.
+			Real Alignment 1: 163935 165923 | 2012 24 | 1989 1989 | 100.0 | 0 NODE_5_length_20692_cov_10.976910
+			  Scaffold gap between these two alignments, gap lengths difference (reference vs assembly) = 2003 (extensive)
+			Real Alignment 2: 153235 161831 | 10791 2113 | 8597 8679 | 100.0 | 0 NODE_5_length_20692_cov_10.976910
+			  Scaffold gap between these two alignments, gap lengths difference (reference vs assembly) = 30 (local)
+			Real Alignment 3: 145777 153104 | 18219 10892 | 7328 7328 | 100.0 | 0 NODE_5_length_20692_cov_10.976910
+			  Scaffold gap between these two alignments, gap lengths difference (reference vs assembly) = 200 (local)
+			Real Alignment 4: 144478 145453 | 19318 18343 | 976 976 | 100.0 | 0 NODE_5_length_20692_cov_10.976910
+			  Scaffold gap between these two alignments, gap lengths difference (reference vs assembly) = 502 (local)
+			Real Alignment 5: 142602 143875 | 20692 19419 | 1274 1274 | 100.0 | 0 NODE_5_length_20692_cov_10.976910
+
+CONTIG: NODE_6_length_17591_cov_21.505995 (17591bp)
+Best alignment score: 8006.8 (LEN: 8039, IDY: 99.60), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			The best set is below. Score: 16323.2, number of alignments: 4, unaligned bases: 100
+		This contig is misassembled.
+			Excluding internal overlap of size 453 between Alignment 1 and 2: 140370 142078 | 1793 1 | 1709 1793 --> 140805 142078 | 1340 1 | 1274 1340
+			Real Alignment 1: 140805 142078 | 1340 1 | 1274 1340 | 98.94 | 0 NODE_6_length_17591_cov_21.505995
+			  Extensive misassembly (relocation, inconsistency = 1365) between these two alignments
+			Real Alignment 2: 131371 139439 | 9379 1341 | 8069 8039 | 99.6 | 0 NODE_6_length_17591_cov_21.505995
+			  Extensive misassembly (relocation, inconsistency = 12946, scaffold gap is present) between these two alignments
+			Excluding internal overlap of size 288 between Alignment 3 and 4: 114218 118324 | 13586 9480 | 4107 4107 --> 114506 118324 | 13298 9480 | 3819 3819
+			Real Alignment 3: 114506 118324 | 13298 9480 | 3819 3819 | 100.0 | 0 NODE_6_length_17591_cov_21.505995
+			  Extensive misassembly (relocation, inconsistency = 1477) between these two alignments
+			Real Alignment 4: 108774 113028 | 17591 13299 | 4255 4293 | 99.98 | 0 NODE_6_length_17591_cov_21.505995
+
+CONTIG: NODE_7_length_8926_cov_21.445474 (8926bp)
+Best alignment score: 8728.0 (LEN: 8728, IDY: 100.00), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 80549 81546 | 1 998 | 998 998 | 99.9 | 0 NODE_7_length_8926_cov_21.445474
+			The best set is below. Score: 8728.0, number of alignments: 1, unaligned bases: 198
+		Alignment: 82747 91474 | 199 8926 | 8728 8728 | 100.0 | 0 NODE_7_length_8926_cov_21.445474
+
+CONTIG: NODE_8_length_3573_cov_10.044908 (3573bp)
+Best alignment score: 3573.0 (LEN: 3573, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 129015 132587 | 3573 1 | 3573 3573 | 100.0 | 1 NODE_8_length_3573_cov_10.044908
+
+CONTIG: NODE_9_length_1831_cov_10.617446 (1831bp)
+Best alignment score: 1831.0 (LEN: 1831, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 93522 95352 | 1831 1 | 1831 1831 | 100.0 | 0 NODE_9_length_1831_cov_10.617446
+
+CONTIG: NODE_10_length_1117_cov_9.233654 (1117bp)
+Best alignment score: 1117.0 (LEN: 1117, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 91998 93114 | 1117 1 | 1117 1117 | 100.0 | 0 NODE_10_length_1117_cov_9.233654
+
+CONTIG: NODE_11_length_677_cov_19.256667 (677bp)
+Best alignment score: 677.0 (LEN: 677, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 142002 142678 | 1 677 | 677 677 | 100.0 | 0 NODE_11_length_677_cov_19.256667
+			Skipping alignment 91398 92074 | 1 677 | 677 677 | 100.0 | 0 NODE_11_length_677_cov_19.256667
+
+CONTIG: NODE_12_length_647_cov_10.424561 (647bp)
+Best alignment score: 647.0 (LEN: 647, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 127752 128398 | 647 1 | 647 647 | 100.0 | 1 NODE_12_length_647_cov_10.424561
+
+Analyzing coverage...
+Writing SNPs into /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_21_16_43_01/contigs_reports/minimap_output/spades-mp.used_snps
+
+Analysis is finished!
+Founded SNPs were written into /home/genomika25/studenci/dmyboi/genome_assembling_cw2/quast_results/results_2025_10_21_16_43_01/contigs_reports/minimap_output/spades-mp.used_snps
+
+Results:
+	Local Misassemblies: 1
+	Misassemblies: 6
+		Relocations: 6
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 7
+	Scaffold gap local misassemblies: 7
+	Misassembled Contigs: 4
+	Misassembled Contig Bases: 145131
+	Misassemblies Inter-Contig Overlap ("Extra" Aligned Bases): 0
+Unaligned Contigs: 0 + 0 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Bases in Fully and Partially Unaligned Contigs: 0
+
+Ambiguously Mapped Contigs: 1
+Total Bases in Ambiguously Mapped Contigs: 677
+"Extra" Aligned Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used (there is no "extra" aligned bases).
+
+	Covered Bases in Reference: 205177
+	Raw Aligned Bases in Assembly: 203946
+	Total Aligned Bases in Assembly (with "Extras"): 203946
+
+	SNPs: 13
+	Insertions: 589
+	Deletions: 821
+

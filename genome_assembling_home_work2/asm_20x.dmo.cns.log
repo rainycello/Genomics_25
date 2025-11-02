@@ -1,0 +1,40 @@
+[Tue Oct 28 22:30:15 2025]"utg1 length=137168 nodes=130" init
+[Tue Oct 28 22:30:15 2025]"utg1 length=137168 nodes=130" generate backbone length=137152
+[Tue Oct 28 22:30:19 2025]"utg1 length=137168 nodes=130" align aln_score=3355014
+[Tue Oct 28 22:30:19 2025]"utg1 length=137168 nodes=130" merge nodes
+[Tue Oct 28 22:30:19 2025]"utg1 length=137168 nodes=130" iter1 length=138005 aln_score=3355014 cns_score=921221.812500
+[Tue Oct 28 22:30:24 2025]"utg1 length=137168 nodes=130" align aln_score=3860430
+[Tue Oct 28 22:30:24 2025]"utg1 length=137168 nodes=130" merge nodes
+[Tue Oct 28 22:30:24 2025]"utg1 length=137168 nodes=130" iter2 length=137846 aln_score=3860430 cns_score=911213.687500
+[Tue Oct 28 22:30:29 2025]"utg1 length=137168 nodes=130" align aln_score=3866757
+[Tue Oct 28 22:30:29 2025]"utg1 length=137168 nodes=130" merge nodes
+[Tue Oct 28 22:30:29 2025]"utg1 length=137168 nodes=130" iter3 length=137875 aln_score=3866757 cns_score=913605.250000
+[Tue Oct 28 22:30:34 2025]"utg1 length=137168 nodes=130" align aln_score=3868138
+[Tue Oct 28 22:30:34 2025]"utg1 length=137168 nodes=130" merge nodes
+[Tue Oct 28 22:30:34 2025]"utg1 length=137168 nodes=130" iter4 length=137868 aln_score=3868138 cns_score=913235.750000
+[Tue Oct 28 22:30:39 2025]"utg1 length=137168 nodes=130" align aln_score=3867636
+[Tue Oct 28 22:30:39 2025]"utg1 length=137168 nodes=130" merge nodes
+[Tue Oct 28 22:30:39 2025]"utg1 length=137168 nodes=130" iter5 length=137886 aln_score=3867636 cns_score=912990.937500
+[Tue Oct 28 22:30:43 2025]"utg1 length=137168 nodes=130" align aln_score=3869301
+[Tue Oct 28 22:30:43 2025]"utg1 length=137168 nodes=130" merge nodes
+[Tue Oct 28 22:30:43 2025]"utg1 length=137168 nodes=130" iter6 length=137880 aln_score=3869301 cns_score=913457.812500
+[Tue Oct 28 22:30:43 2025]"utg2 length=196304 nodes=178" init
+[Tue Oct 28 22:30:43 2025]"utg2 length=196304 nodes=178" generate backbone length=197007
+[Tue Oct 28 22:30:49 2025]"utg2 length=196304 nodes=178" align aln_score=4984245
+[Tue Oct 28 22:30:49 2025]"utg2 length=196304 nodes=178" merge nodes
+[Tue Oct 28 22:30:49 2025]"utg2 length=196304 nodes=178" iter1 length=198346 aln_score=4984245 cns_score=1355295.500000
+[Tue Oct 28 22:30:56 2025]"utg2 length=196304 nodes=178" align aln_score=5652051
+[Tue Oct 28 22:30:56 2025]"utg2 length=196304 nodes=178" merge nodes
+[Tue Oct 28 22:30:56 2025]"utg2 length=196304 nodes=178" iter2 length=198369 aln_score=5652051 cns_score=1333974.375000
+[Tue Oct 28 22:31:03 2025]"utg2 length=196304 nodes=178" align aln_score=5667154
+[Tue Oct 28 22:31:03 2025]"utg2 length=196304 nodes=178" merge nodes
+[Tue Oct 28 22:31:03 2025]"utg2 length=196304 nodes=178" iter3 length=198279 aln_score=5667154 cns_score=1338072.875000
+[Tue Oct 28 22:31:10 2025]"utg2 length=196304 nodes=178" align aln_score=5674681
+[Tue Oct 28 22:31:10 2025]"utg2 length=196304 nodes=178" merge nodes
+[Tue Oct 28 22:31:10 2025]"utg2 length=196304 nodes=178" iter4 length=198172 aln_score=5674681 cns_score=1341721.500000
+[Tue Oct 28 22:31:16 2025]"utg2 length=196304 nodes=178" align aln_score=5669837
+[Tue Oct 28 22:31:16 2025]"utg2 length=196304 nodes=178" merge nodes
+[Tue Oct 28 22:31:16 2025]"utg2 length=196304 nodes=178" iter5 length=198107 aln_score=5669837 cns_score=1340350.875000
+[Tue Oct 28 22:31:23 2025]"utg2 length=196304 nodes=178" align aln_score=5673061
+[Tue Oct 28 22:31:23 2025]"utg2 length=196304 nodes=178" merge nodes
+[Tue Oct 28 22:31:23 2025]"utg2 length=196304 nodes=178" iter6 length=198325 aln_score=5673061 cns_score=1341982.000000

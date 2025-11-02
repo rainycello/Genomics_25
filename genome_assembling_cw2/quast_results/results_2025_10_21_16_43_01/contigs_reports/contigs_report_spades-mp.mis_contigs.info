@@ -1,0 +1,10 @@
+NODE_1_length_79147_cov_13.317807
+Extensive misassembly (relocation, inconsistency = 11186) between 32157 30419 and 39921 32158
+NODE_3_length_24909_cov_12.616100
+Extensive misassembly (relocation, inconsistency = 3259) between 18598 11013 and 22297 18599
+NODE_4_length_23484_cov_10.913658
+Extensive misassembly (relocation, inconsistency = 3116) between 5552 1 and 23484 5553
+NODE_6_length_17591_cov_21.505995
+Extensive misassembly (relocation, inconsistency = 1365) between 1340 1 and 9379 1341
+Extensive misassembly (relocation, inconsistency = 12946, scaffold gap is present) between 9379 1341 and 13298 9480
+Extensive misassembly (relocation, inconsistency = 1477) between 13298 9480 and 17591 13299

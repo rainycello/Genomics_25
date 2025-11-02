@@ -1,0 +1,12 @@
+
+=== Error correction and assembling warnings:
+ * 0:00:05.584    40M / 901M  WARN    General                 (kmer_coverage_model.cpp   : 328)   Valley value was estimated improperly, reset to 4
+ * 0:00:03.643    31M / 1461M WARN    General                 (kmer_coverage_model.cpp   : 328)   Valley value was estimated improperly, reset to 3
+ * 0:00:03.118    40M / 1190M WARN    General                 (kmer_coverage_model.cpp   : 219)   Too many erroneous kmers, the estimates might be unreliable
+ * 0:00:03.557    40M / 1190M WARN    General                 (kmer_coverage_model.cpp   : 328)   Valley value was estimated improperly, reset to 2
+ * 0:00:22.379    34M / 1105M WARN    General                 (kmer_coverage_model.cpp   : 328)   Valley value was estimated improperly, reset to 9
+ * 0:00:22.381    34M / 1105M WARN    General                 (kmer_coverage_model.cpp   : 367)   Failed to determine erroneous kmer threshold. Threshold set to: 9
+ * 0:00:22.213    25M / 652M  WARN    General                 (kmer_coverage_model.cpp   : 328)   Valley value was estimated improperly, reset to 5
+ * 0:00:22.219    25M / 652M  WARN    General                 (kmer_coverage_model.cpp   : 367)   Failed to determine erroneous kmer threshold. Threshold set to: 5
+ * 0:00:24.300    28M / 652M  WARN    General                 (pair_info_count.cpp       : 203)   Estimated mean insert size 198.503 is very small compared to read length 251
+======= Warnings saved to /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/spades_assembly/warnings.log

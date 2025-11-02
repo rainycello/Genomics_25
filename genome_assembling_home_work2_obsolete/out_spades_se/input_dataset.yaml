@@ -1,0 +1,4 @@
+- "number": !!int "1"
+  "single reads":
+  - "/home/genomika24/dmytro_boi/genome_assembling_home_work2/illumina_se.fq"
+  "type": "single"

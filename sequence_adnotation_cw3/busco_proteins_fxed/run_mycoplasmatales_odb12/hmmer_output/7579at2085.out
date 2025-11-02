@@ -1,0 +1,31 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00176       -            521 7579                 -            520  1.3e-219  725.3  32.1   1   1  1.6e-221  1.6e-219  725.1  32.1     2   519     4   518     3   519 0.98 Methionine--tRNA ligase
+MINDJIJG_00109       -           1615 7579                 -            520   3.8e-33  110.1   7.6   1   8     0.044       4.3    1.0   0.6    52   110   162   219   136   232 0.81 hypothetical protein
+MINDJIJG_00109       -           1615 7579                 -            520   3.8e-33  110.1   7.6   2   8         6   5.9e+02  -10.7  12.9   371   466   322   417   265   469 0.59 hypothetical protein
+MINDJIJG_00109       -           1615 7579                 -            520   3.8e-33  110.1   7.6   3   8         6   5.9e+02  -16.4  22.1   392   491   428   523   346   555 0.45 hypothetical protein
+MINDJIJG_00109       -           1615 7579                 -            520   3.8e-33  110.1   7.6   4   8      0.41        41   -2.2   1.6   242   279   675   712   669   754 0.85 hypothetical protein
+MINDJIJG_00109       -           1615 7579                 -            520   3.8e-33  110.1   7.6   5   8   3.6e-19   3.5e-17   57.4   0.4    11   125   815   947   805   988 0.75 hypothetical protein
+MINDJIJG_00109       -           1615 7579                 -            520   3.8e-33  110.1   7.6   6   8    0.0052      0.51    4.1   0.4   149   222  1115  1186  1097  1199 0.76 hypothetical protein
+MINDJIJG_00109       -           1615 7579                 -            520   3.8e-33  110.1   7.6   7   8   9.4e-22   9.2e-20   65.9   1.7   287   497  1267  1461  1216  1485 0.80 hypothetical protein
+MINDJIJG_00109       -           1615 7579                 -            520   3.8e-33  110.1   7.6   8   8       2.8   2.8e+02   -5.0   6.2   163   217  1548  1602  1517  1614 0.81 hypothetical protein
+MINDJIJG_00299       -            888 7579                 -            520   1.8e-32  107.9   7.9   1   2   6.5e-14   6.4e-12   40.0   0.2    14   140    62   203    54   237 0.78 Isoleucine--tRNA ligase
+MINDJIJG_00299       -            888 7579                 -            520   1.8e-32  107.9   7.9   2   2   5.3e-23   5.2e-21   70.0   3.0   294   499   577   776   570   798 0.84 Isoleucine--tRNA ligase
+MINDJIJG_00300       -            805 7579                 -            520   6.5e-30   99.4   5.1   1   2   8.6e-19   8.5e-17   56.1   0.0     2   141    27   169    26   209 0.79 Leucine--tRNA ligase
+MINDJIJG_00300       -            805 7579                 -            520   6.5e-30   99.4   5.1   2   2   5.8e-14   5.7e-12   40.2   2.9   269   430   533   688   516   695 0.85 Leucine--tRNA ligase
+MINDJIJG_00538       -            401 7579                 -            520     5e-11   37.1  17.8   1   2   4.9e-10   4.8e-08   27.2   0.6     4   101     2    98     1   150 0.85 Cysteine--tRNA ligase
+MINDJIJG_00538       -            401 7579                 -            520     5e-11   37.1  17.8   2   2   6.9e-06   0.00068   13.6  10.9   299   383   235   316   224   399 0.53 Cysteine--tRNA ligase
+MINDJIJG_00537       -            541 7579                 -            520   8.7e-08   26.4   6.3   1   3     0.018       1.7    2.3   0.1    15    63   125   173   123   187 0.80 Arginine--tRNA ligase
+MINDJIJG_00537       -            541 7579                 -            520   8.7e-08   26.4   6.3   2   3      0.16        16   -0.8   0.0   355   387   154   186   145   228 0.62 Arginine--tRNA ligase
+MINDJIJG_00537       -            541 7579                 -            520   8.7e-08   26.4   6.3   3   3   1.5e-09   1.4e-07   25.7   1.3   303   451   370   518   359   535 0.81 Arginine--tRNA ligase
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7579at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins_fxed/run_mycoplasmatales_odb12/hmmer_output/7579at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7579at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:33:15 2025
+# [ok]

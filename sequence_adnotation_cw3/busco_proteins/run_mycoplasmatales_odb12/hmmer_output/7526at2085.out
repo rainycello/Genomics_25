@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_01116       -             71 7526                 -            165   2.9e-28   94.8   0.0   1   1   7.9e-31   3.2e-28   94.7   0.0   101   165     1    65     1    65 0.99 tRNA (cytidine(34)-2'-O)-methyltransferase
+MINDJIJG_01117       -             59 7526                 -            165   2.3e-14   49.6   1.1   1   1   6.6e-17   2.7e-14   49.4   1.1    44    96     1    55     1    57 0.90 hypothetical protein
+MINDJIJG_00845       -            259 7526                 -            165   3.8e-09   32.6   2.1   1   2      0.37   1.5e+02   -1.8   0.0    38    71    48    81    45   111 0.60 tRNA (guanosine(18)-2'-O)-methyltransferase
+MINDJIJG_00845       -            259 7526                 -            165   3.8e-09   32.6   2.1   2   2   9.6e-12   3.8e-09   32.6   2.1     6   146   118   254   113   258 0.77 tRNA (guanosine(18)-2'-O)-methyltransferase
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7526at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins/run_mycoplasmatales_odb12/hmmer_output/7526at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7526at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:30:31 2025
+# [ok]

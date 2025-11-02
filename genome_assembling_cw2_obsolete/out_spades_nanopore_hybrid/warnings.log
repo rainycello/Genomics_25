@@ -1,0 +1,4 @@
+
+=== Error correction and assembling warnings:
+ * 0:00:02.155    15M / 208M  WARN    General                 (kmer_coverage_model.cpp   : 219)   Too many erroneous kmers, the estimates might be unreliable
+======= Warnings saved to /home/genomika24/dmytro_boi/genome_assembling_cw2/out_spades_nanopore_hybrid/warnings.log

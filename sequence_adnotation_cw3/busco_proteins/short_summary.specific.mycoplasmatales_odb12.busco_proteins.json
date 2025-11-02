@@ -1,0 +1,66 @@
+{
+    "parameters": {
+        "out_path": "/home/genomika25/studenci/dmyboi/sequence_adnotation_cw3",
+        "cpu": "1",
+        "force": "False",
+        "restart": "False",
+        "quiet": "False",
+        "download_path": "/home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads",
+        "datasets_version": "odb12",
+        "offline": "False",
+        "download_base_url": "https://busco-data.ezlab.org/v5/data/",
+        "auto-lineage": "False",
+        "auto-lineage-prok": "False",
+        "auto-lineage-euk": "False",
+        "use_augustus": "False",
+        "use_miniprot": "False",
+        "use_metaeuk": "False",
+        "skip_bbtools": "False",
+        "batch_mode": "False",
+        "tar": "False",
+        "opt-out-run-stats": "False",
+        "plot_percentages": "False",
+        "in": "/home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa",
+        "out": "busco_proteins",
+        "mode": "proteins",
+        "lineage_dataset": "/home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12",
+        "main_out": "/home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins",
+        "lineage_results_dir": "run_mycoplasmatales_odb12",
+        "domain": "prokaryota",
+        "ncbi_taxid": "2085",
+        "orthodb_version": "12.0",
+        "dataset_version": "01"
+    },
+    "lineage_dataset": {
+        "name": "mycoplasmatales_odb12",
+        "creation_date": "2025-05-14",
+        "number_of_buscos": "205",
+        "number_of_species": "32"
+    },
+    "versions": {
+        "python": [
+            3,
+            12,
+            12,
+            "final",
+            0
+        ],
+        "busco": "6.0.0",
+        "hmmsearch": 3.4
+    },
+    "results": {
+        "one_line_summary": "C:42.0%[S:42.0%,D:0.0%],F:19.5%,M:38.5%,n:205",
+        "Complete percentage": 42.0,
+        "Complete BUSCOs": 86,
+        "Single copy percentage": 42.0,
+        "Single copy BUSCOs": 86,
+        "Multi copy percentage": 0.0,
+        "Multi copy BUSCOs": 0,
+        "Fragmented percentage": 19.5,
+        "Fragmented BUSCOs": 40,
+        "Missing percentage": 38.5,
+        "Missing BUSCOs": 79,
+        "n_markers": 205,
+        "domain": "prokaryota"
+    }
+}

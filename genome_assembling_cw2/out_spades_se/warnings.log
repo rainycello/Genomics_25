@@ -1,0 +1,4 @@
+
+=== Error correction and assembling warnings:
+ * 0:00:03.202    41M / 576M  WARN    General                 (kmer_coverage_model.cpp   : 367)   Failed to determine erroneous kmer threshold. Threshold set to: 5
+======= Warnings saved to /home/genomika25/studenci/dmyboi/genome_assembling_cw2/out_spades_se/warnings.log

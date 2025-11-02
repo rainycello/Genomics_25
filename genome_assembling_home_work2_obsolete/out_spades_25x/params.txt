@@ -1,0 +1,38 @@
+Command line: /home/genomika24/miniconda3/envs/dmytro_boi/bin/spades.py	--careful	--pe1-1	/home/genomika24/dmytro_boi/genome_assembling_home_work2/illumina_mp1.fq	--pe1-2	/home/genomika24/dmytro_boi/genome_assembling_home_work2/illumina_mp2.fq	-o	/home/genomika24/dmytro_boi/genome_assembling_home_work2/out_spades_25x	
+
+System information:
+  SPAdes version: 4.0.0
+  Python version: 3.13.0
+  OS: Linux-5.15.0-124-generic-x86_64-with-glibc2.35
+
+Output dir: /home/genomika24/dmytro_boi/genome_assembling_home_work2/out_spades_25x
+Mode: read error correction and assembling
+Debug mode is turned OFF
+
+Dataset parameters:
+  Standard mode
+  For multi-cell/isolate data we recommend to use '--isolate' option; for single-cell MDA data use '--sc'; for metagenomic data use '--meta'; for RNA-Seq use '--rna'.
+  Reads:
+    Library number: 1, library type: paired-end
+      orientation: fr
+      left reads: ['/home/genomika24/dmytro_boi/genome_assembling_home_work2/illumina_mp1.fq']
+      right reads: ['/home/genomika24/dmytro_boi/genome_assembling_home_work2/illumina_mp2.fq']
+      interlaced reads: not specified
+      single reads: not specified
+      merged reads: not specified
+Read error correction parameters:
+  Iterations: 1
+  PHRED offset will be auto-detected
+  Corrected reads will be compressed
+Assembly parameters:
+  k: automatic selection based on read length
+  Repeat resolution is enabled
+  Mismatch careful mode is turned ON
+  MismatchCorrector will be used
+  Coverage cutoff is turned OFF
+  Assembly graph output will use GFA v1.2 format
+Other parameters:
+  Dir for temp files: /home/genomika24/dmytro_boi/genome_assembling_home_work2/out_spades_25x/tmp
+  Threads: 16
+  Memory limit (in Gb): 250
+

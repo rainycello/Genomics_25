@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00484       -           1199 9803954              -            863         0 1082.1  11.4   1   3   1.8e-24     1e-21   71.8   0.5     3   144    28   214    26   237 0.71 DNA-directed RNA polymerase subunit beta
+MINDJIJG_00484       -           1199 9803954              -            863         0 1082.1  11.4   2   3   4.1e-12   2.4e-09   30.9   0.1   142   198   250   305   231   346 0.81 DNA-directed RNA polymerase subunit beta
+MINDJIJG_00484       -           1199 9803954              -            863         0 1082.1  11.4   3   3  2.7e-300  1.6e-297  984.3   1.2   192   862   431  1169   423  1170 0.90 DNA-directed RNA polymerase subunit beta
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/bacteria_odb12/hmms/9803954at2.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins_fxed_bact/run_bacteria_odb12/hmmer_output/9803954at2.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/bacteria_odb12/hmms/9803954at2.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:33:48 2025
+# [ok]

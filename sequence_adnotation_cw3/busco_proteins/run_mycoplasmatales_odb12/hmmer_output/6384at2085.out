@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00411       -            145 6384                 -            305   6.2e-72  238.7   1.0   1   1   2.8e-74   6.7e-72  238.6   1.0   102   244     2   144     1   145 0.98 Phenylalanine--tRNA ligase alpha subunit
+MINDJIJG_00410       -             53 6384                 -            305   4.4e-25   84.8   0.9   1   1   1.9e-27   4.7e-25   84.7   0.9   254   305     1    53     1    53 0.96 Phenylalanine--tRNA ligase alpha subunit
+MINDJIJG_00412       -            105 6384                 -            305   2.3e-16   56.2   2.4   1   1     1e-18   2.5e-16   56.1   2.4     2    97     4   104     3   105 0.92 hypothetical protein
+MINDJIJG_00853       -            273 6384                 -            305   7.8e-05   18.3   0.7   1   3     0.042        10    1.5   0.7    14    49    15    50     3   128 0.71 Lysine--tRNA ligase
+MINDJIJG_00853       -            273 6384                 -            305   7.8e-05   18.3   0.7   2   3    0.0039      0.95    4.9   0.0    69   110   153   194   139   199 0.87 Lysine--tRNA ligase
+MINDJIJG_00853       -            273 6384                 -            305   7.8e-05   18.3   0.7   3   3   0.00038     0.092    8.3   0.0   167   193   240   266   226   270 0.91 Lysine--tRNA ligase
+MINDJIJG_00851       -             37 6384                 -            305     0.009   11.6   0.0   1   1   3.8e-05    0.0091   11.5   0.0   273   293     7    27     4    33 0.91 Lysine--tRNA ligase
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/6384at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins/run_mycoplasmatales_odb12/hmmer_output/6384at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/6384at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:30:30 2025
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00533       -            320 7026                 -            287  3.5e-129  424.9   0.0   1   1  2.9e-131  4.2e-129  424.7   0.0     2   286     6   290     5   291 0.99 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+MINDJIJG_00480       -            306 7026                 -            287   8.7e-22   72.5   8.0   1   1     7e-24     1e-21   72.3   8.0     3   275     9   278     7   293 0.83 HMP-PP phosphatase
+MINDJIJG_00426       -            267 7026                 -            287   2.6e-21   70.9   0.1   1   1   1.1e-21   1.7e-19   65.0   0.1     6   262     3   248     1   256 0.80 Putative phosphatase
+MINDJIJG_00001       -            268 7026                 -            287   4.7e-16   53.7   7.6   1   1   6.4e-18   9.4e-16   52.7   7.6    11   278    10   266     3   268 0.81 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7026at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins_fxed/run_mycoplasmatales_odb12/hmmer_output/7026at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7026at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:33:14 2025
+# [ok]

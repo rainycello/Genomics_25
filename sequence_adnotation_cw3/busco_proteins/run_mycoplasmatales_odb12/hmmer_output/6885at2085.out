@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_01001       -            177 6885                 -            429   3.8e-72  239.5   7.4   1   1   1.9e-72   3.8e-70  232.9   7.4   273   428     1   174     1   175 0.87 Replicative DNA helicase
+MINDJIJG_01212       -            255 6885                 -            429   2.8e-50  167.5   3.5   1   1   1.8e-52   3.6e-50  167.1   3.5   148   386     6   248     2   253 0.85 Replicative DNA helicase
+MINDJIJG_01000       -            147 6885                 -            429   1.7e-47  158.3   1.1   1   1   9.1e-50   1.8e-47  158.2   1.1   121   261     5   146     1   147 0.96 Replicative DNA helicase
+MINDJIJG_01224       -            170 6885                 -            429     2e-28   95.4   2.8   1   1   1.1e-30   2.3e-28   95.3   2.8   249   386    23   163     1   168 0.83 hypothetical protein
+MINDJIJG_00999       -             93 6885                 -            429   1.9e-12   42.8   0.3   1   1   1.1e-14   2.2e-12   42.6   0.3     4    74     9    79     6    87 0.94 hypothetical protein
+MINDJIJG_00543       -            181 6885                 -            429       0.4    5.5  25.0   1   2   0.00025      0.05    8.5  19.6    41   170    12   144     2   154 0.74 hypothetical protein
+MINDJIJG_00543       -            181 6885                 -            429       0.4    5.5  25.0   2   2   0.00077      0.16    6.9   1.5   103   162   119   178   115   180 0.70 hypothetical protein
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/6885at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins/run_mycoplasmatales_odb12/hmmer_output/6885at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/6885at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:30:30 2025
+# [ok]

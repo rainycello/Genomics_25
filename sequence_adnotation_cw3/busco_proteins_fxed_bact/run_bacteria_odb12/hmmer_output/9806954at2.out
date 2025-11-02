@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00058       -            978 9806954              -            540   6.9e-12   40.0  62.7   1   3   6.6e-09   9.8e-07   23.0  16.4    14   276    16   293    12   298 0.54 Chromosome partition protein Smc
+MINDJIJG_00058       -            978 9806954              -            540   6.9e-12   40.0  62.7   2   3    0.0094       1.4    2.7   5.7   205   328   328   444   319   461 0.59 Chromosome partition protein Smc
+MINDJIJG_00058       -            978 9806954              -            540   6.9e-12   40.0  62.7   3   3   1.2e-08   1.8e-06   22.2  21.0   111   477   589   938   582   942 0.61 Chromosome partition protein Smc
+MINDJIJG_00522       -            559 9806954              -            540   4.4e-05   17.6  24.4   1   2   5.3e-06   0.00078   13.5  22.3     1   343     1   335     1   360 0.79 hypothetical protein
+MINDJIJG_00522       -            559 9806954              -            540   4.4e-05   17.6  24.4   2   2     0.013       1.9    2.3   0.0   469   481   480   492   435   495 0.78 hypothetical protein
+MINDJIJG_00477       -            942 9806954              -            540    0.0004   14.4   1.1   1   5      0.01       1.5    2.6   0.0    21    38    24    41    15    44 0.84 UvrABC system protein A
+MINDJIJG_00477       -            942 9806954              -            540    0.0004   14.4   1.1   2   5      0.96   1.4e+02   -3.9   0.0   211   241   211   240   190   247 0.63 UvrABC system protein A
+MINDJIJG_00477       -            942 9806954              -            540    0.0004   14.4   1.1   3   5    0.0096       1.4    2.7   0.0   412   448   483   518   445   559 0.71 UvrABC system protein A
+MINDJIJG_00477       -            942 9806954              -            540    0.0004   14.4   1.1   4   5    0.0042      0.62    3.9   0.2    23    40   637   654   615   656 0.79 UvrABC system protein A
+MINDJIJG_00477       -            942 9806954              -            540    0.0004   14.4   1.1   5   5      0.14        21   -1.2   0.0   417   448   829   860   823   866 0.73 UvrABC system protein A
+MINDJIJG_00526       -            578 9806954              -            540       3.2    1.6  23.0   1   2    0.0003     0.045    7.7  14.0   202   371   128   284    38   288 0.60 hypothetical protein
+MINDJIJG_00526       -            578 9806954              -            540       3.2    1.6  23.0   2   2      0.32        47   -2.3   1.7   218   252   469   503   397   516 0.41 hypothetical protein
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/bacteria_odb12/hmms/9806954at2.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins_fxed_bact/run_bacteria_odb12/hmmer_output/9806954at2.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/bacteria_odb12/hmms/9806954at2.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:33:48 2025
+# [ok]

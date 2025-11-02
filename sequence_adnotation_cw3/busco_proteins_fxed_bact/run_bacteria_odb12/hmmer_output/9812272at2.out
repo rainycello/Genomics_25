@@ -1,0 +1,31 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00345       -            440 9812272              -            409   8.2e-22   72.9   5.1   1   2   5.6e-09   3.3e-07   24.8   0.0   196   361     5   170     1   174 0.78 GTPase Der
+MINDJIJG_00345       -            440 9812272              -            409   8.2e-22   72.9   5.1   2   2   1.1e-15   6.5e-14   46.9   3.3   192   361   171   352   166   385 0.74 GTPase Der
+MINDJIJG_00175       -            424 9812272              -            409     8e-13   43.3   0.0   1   1   1.9e-14   1.1e-12   42.8   0.0   195   390   157   359   153   371 0.82 GTPase Obg
+MINDJIJG_00043       -            448 9812272              -            409   9.7e-12   39.7   0.7   1   2      0.15       8.6    0.3   0.1   326   382   138   194   125   216 0.70 tRNA modification GTPase MnmE
+MINDJIJG_00043       -            448 9812272              -            409   9.7e-12   39.7   0.7   2   2   3.1e-13   1.8e-11   38.8   0.3   158   375   187   391   183   406 0.79 tRNA modification GTPase MnmE
+MINDJIJG_00524       -            367 9812272              -            409     8e-09   30.1   1.5   1   2   1.6e-08   9.2e-07   23.3   0.0   197   242     5    50     2    58 0.90 Ribosome-binding ATPase YchF
+MINDJIJG_00524       -            367 9812272              -            409     8e-09   30.1   1.5   2   2    0.0037      0.22    5.6   0.5   288   385    90   182    86   207 0.67 Ribosome-binding ATPase YchF
+MINDJIJG_00029       -            294 9812272              -            409   4.6e-07   24.3   0.1   1   1     1e-08   5.9e-07   23.9   0.1   193   328     3   136     1   219 0.75 GTPase Era
+MINDJIJG_00552       -            275 9812272              -            409   2.6e-06   21.8   0.8   1   2    0.0068       0.4    4.7   0.1   299   338    35    75    10    84 0.69 GTPase Der
+MINDJIJG_00552       -            275 9812272              -            409   2.6e-06   21.8   0.8   2   2   3.1e-06   0.00018   15.7   0.1   169   221    84   137    78   165 0.84 GTPase Der
+MINDJIJG_00434       -            599 9812272              -            409     5e-06   20.9   0.1   1   2       1.2        71   -2.7   0.0   194   216     6    28     3    32 0.79 Elongation factor 4
+MINDJIJG_00434       -            599 9812272              -            409     5e-06   20.9   0.1   2   2   2.6e-07   1.6e-05   19.3   0.1   291   364   106   186    95   202 0.78 Elongation factor 4
+MINDJIJG_00493       -            183 9812272              -            409   0.00015   16.0   0.8   1   2    0.0025      0.15    6.1   0.0   201   218    26    43    16    48 0.82 GTP-binding protein EngB
+MINDJIJG_00493       -            183 9812272              -            409   0.00015   16.0   0.8   2   2   0.00046     0.027    8.6   0.1   297   349   120   179   111   182 0.75 GTP-binding protein EngB
+MINDJIJG_00122       -            283 9812272              -            409   0.00015   16.0   0.3   1   2    0.0043      0.25    5.4   0.0   294   352    90   149    69   154 0.81 Small ribosomal subunit biogenesis GTPase RsgA
+MINDJIJG_00122       -            283 9812272              -            409   0.00015   16.0   0.3   2   2    0.0004     0.024    8.8   0.3   199   252   155   210   150   231 0.81 Small ribosomal subunit biogenesis GTPase RsgA
+MINDJIJG_00408       -            247 9812272              -            409   0.00098   13.3   0.1   1   2   3.8e-05    0.0022   12.2   0.0   196   219    33    55    27    61 0.84 putative siderophore transport system ATP-binding protein YusV
+MINDJIJG_00408       -            247 9812272              -            409   0.00098   13.3   0.1   2   2       1.1        62   -2.5   0.1   292   315   184   207   165   238 0.68 putative siderophore transport system ATP-binding protein YusV
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/bacteria_odb12/hmms/9812272at2.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins_fxed_bact/run_bacteria_odb12/hmmer_output/9812272at2.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/bacteria_odb12/hmms/9812272at2.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:33:49 2025
+# [ok]

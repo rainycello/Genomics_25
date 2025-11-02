@@ -1,0 +1,7 @@
+"bwa": "/home/genomika24/miniconda3/envs/dmytro_boi/bin/spades-bwa"
+"dataset": "/home/genomika24/dmytro_boi/genome_assembling_home_work2/out_spades_25x/input_dataset.yaml"
+"log_filename": "log.properties"
+"max_nthreads": !!int "16"
+"output_dir": "/home/genomika24/dmytro_boi/genome_assembling_home_work2/out_spades_25x/mismatch_corrector/contigs"
+"strategy": "mapped_squared"
+"work_dir": "/home/genomika24/dmytro_boi/genome_assembling_home_work2/out_spades_25x/tmp/corrector_29m1es5u"

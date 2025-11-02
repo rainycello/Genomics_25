@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00043       -            448 8040                 -            428  2.6e-169  558.8  34.5   1   1  2.5e-171    3e-169  558.6  34.5     1   428     6   448     6   448 0.94 tRNA modification GTPase MnmE
+MINDJIJG_00345       -            440 8040                 -            428   7.5e-51  168.5  22.7   1   2   3.8e-23   4.5e-21   70.4   1.7   215   306     6    97     3   134 0.82 GTPase Der
+MINDJIJG_00345       -            440 8040                 -            428   7.5e-51  168.5  22.7   2   2   7.4e-33   8.7e-31  102.4  13.6   194   389   154   353   146   367 0.75 GTPase Der
+MINDJIJG_00029       -            294 8040                 -            428   5.8e-23   76.6   5.9   1   2   4.9e-25   5.8e-23   76.6   5.9   212   330     4   130     1   153 0.85 GTPase Era
+MINDJIJG_00029       -            294 8040                 -            428   5.8e-23   76.6   5.9   2   2      0.85     1e+02   -3.3   2.2   305   364   218   275   209   288 0.57 GTPase Era
+MINDJIJG_00552       -            275 8040                 -            428   1.2e-08   29.4   3.2   1   2     0.067       7.9    0.4   0.1   290   329    13    57     4    60 0.63 GTPase Der
+MINDJIJG_00552       -            275 8040                 -            428   1.2e-08   29.4   3.2   2   2     1e-10   1.2e-08   29.4   3.2   185   284    79   178    63   271 0.76 GTPase Der
+MINDJIJG_00493       -            183 8040                 -            428   1.7e-06   22.3   5.7   1   2   6.2e-08   7.3e-06   20.2   0.0   209   250    16    57     4    73 0.82 GTP-binding protein EngB
+MINDJIJG_00493       -            183 8040                 -            428   1.7e-06   22.3   5.7   2   2      0.04       4.7    1.1   5.0   343   421    87   164    63   168 0.72 GTP-binding protein EngB
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/8040at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins_fxed/run_mycoplasmatales_odb12/hmmer_output/8040at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/8040at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:33:17 2025
+# [ok]

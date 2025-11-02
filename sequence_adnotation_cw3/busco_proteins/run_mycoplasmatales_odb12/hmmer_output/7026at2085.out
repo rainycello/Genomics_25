@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_01075       -            131 7026                 -            287   9.1e-54  178.5   0.0   1   1   8.3e-56     1e-53  178.3   0.0    58   187     2   131     1   131 0.99 hypothetical protein
+MINDJIJG_01076       -            102 7026                 -            287   4.6e-27   90.8   1.1   1   1   4.8e-29   5.8e-27   90.5   1.1   215   286     1    72     1    73 0.98 hypothetical protein
+MINDJIJG_01074       -             56 7026                 -            287     1e-21   73.3   0.0   1   1   9.4e-24   1.1e-21   73.2   0.0     2    52     6    56     5    56 0.97 hypothetical protein
+MINDJIJG_00001       -            123 7026                 -            287   1.1e-12   43.6   1.2   1   1     1e-14   1.2e-12   43.5   1.2   161   278    10   121     2   123 0.83 hypothetical protein
+MINDJIJG_00969       -             93 7026                 -            287   5.9e-12   41.3   0.7   1   1   5.1e-14   6.1e-12   41.2   0.7   221   276    12    66     1    80 0.77 hypothetical protein
+MINDJIJG_00844       -             47 7026                 -            287   9.5e-12   40.6   0.1   1   1   7.9e-14   9.5e-12   40.6   0.1   225   262     1    38     1    45 0.93 Putative phosphatase
+MINDJIJG_00970       -             91 7026                 -            287   7.5e-07   24.5   0.0   1   1   6.6e-09     8e-07   24.4   0.0     3    84     9    87     7    91 0.83 hypothetical protein
+MINDJIJG_00002       -            130 7026                 -            287   0.00012   17.3   0.1   1   1   1.2e-06   0.00015   17.0   0.1    11   100    10    99     3   112 0.76 hypothetical protein
+MINDJIJG_00310       -             92 7026                 -            287   0.00014   17.1   0.4   1   1   1.6e-06   0.00019   16.7   0.4   229   268     3    43     1    65 0.87 Calcium-transporting ATPase 1
+MINDJIJG_00843       -            123 7026                 -            287   0.00019   16.6   0.0   1   2   8.7e-06    0.0011   14.2   0.0     6    52     3    48     1    52 0.92 hypothetical protein
+MINDJIJG_00843       -            123 7026                 -            287   0.00019   16.6   0.0   2   2      0.15        18    0.3   0.0    74    96    53    75    51    99 0.74 hypothetical protein
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7026at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins/run_mycoplasmatales_odb12/hmmer_output/7026at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7026at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:30:31 2025
+# [ok]

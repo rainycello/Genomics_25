@@ -1,0 +1,52 @@
+ß---
+max read length: 150
+nomerge max read length: 150
+average read length: 150
+average coverage: 19.0256
+libraries:
+  - type:            paired-end
+    number:          1
+    orientation:     fr
+    left reads:
+      - '/home/genomika24/dmytro_boi/genome_assembling_home_work2/illumina1.fq'
+    right reads:
+      - '/home/genomika24/dmytro_boi/genome_assembling_home_work2/illumina2.fq'
+    data:
+      unmerged read length: 150
+      merged read length: 0
+      insert size mean: 349.411
+      insert size deviation: 9.97167
+      insert size left quantile: 337
+      insert size right quantile: 362
+      insert size median: 349
+      insert size mad: 6
+      insert size distribution: { 310: 1, 313: 2, 314: 1, 316: 2, 317: 3, 
+                                  318: 5, 319: 5, 320: 7, 321: 10, 322: 17, 
+                                  323: 16, 324: 25, 325: 32, 326: 30, 327: 62, 
+                                  328: 64, 329: 77, 330: 89, 331: 113, 
+                                  332: 141, 333: 139, 334: 193, 335: 209, 
+                                  336: 251, 337: 281, 338: 305, 339: 358, 
+                                  340: 378, 341: 436, 342: 450, 343: 492, 
+                                  344: 523, 345: 563, 346: 592, 347: 546, 
+                                  348: 584, 349: 629, 350: 612, 351: 648, 
+                                  352: 612, 353: 560, 354: 589, 355: 473, 
+                                  356: 483, 357: 471, 358: 402, 359: 373, 
+                                  360: 363, 361: 311, 362: 242, 363: 253, 
+                                  364: 207, 365: 164, 366: 157, 367: 145, 
+                                  368: 106, 369: 98, 370: 67, 371: 56, 
+                                  372: 44, 373: 45, 374: 31, 375: 19, 376: 21, 
+                                  377: 3, 378: 9, 379: 11, 380: 7, 381: 6, 
+                                  382: 1, 384: 1, 385: 3, 386: 1, 388: 2 }
+      pi threshold:    0
+      binary reads info:
+        binary converted: true
+        bin reads info file: '/home/genomika24/dmytro_boi/genome_assembling_home_work2/out_spades_pe/.bin_reads/INFO_0'
+        paired read prefix: '/home/genomika24/dmytro_boi/genome_assembling_home_work2/out_spades_pe/.bin_reads/paired_0'
+        merged read prefix: '/home/genomika24/dmytro_boi/genome_assembling_home_work2/out_spades_pe/.bin_reads/merged_0'
+        single read prefix: '/home/genomika24/dmytro_boi/genome_assembling_home_work2/out_spades_pe/.bin_reads/single_0'
+        chunk num:       16
+      single reads mapped: false
+      library index:   0
+      number of reads: 66600
+      total nucleotides: 9990000
+...

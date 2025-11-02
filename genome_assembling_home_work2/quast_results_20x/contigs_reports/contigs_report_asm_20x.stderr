@@ -1,0 +1,14 @@
+Nucmer: nothing aligned for /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_20x/quast_corrected_input/asm_20x.fa
+k2/quast_results_20x/contigs_reports/nucmer_output/asm_20x.ntref" of length 200002
+# construct suffix tree for sequence of length 200002
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 2000 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /home/genomika25/miniconda3/envs/dmyboi/opt/quast-4.1/libs/MUMmer3.23-linux/mummer /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_20x/contigs_reports/nucmer_output/asm_20x.ntref 0.03
+# reading input file "/home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_20x/quast_corrected_input/asm_20x.fa" of length 5964306
+# matching query-file "/home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_20x/quast_corrected_input/asm_20x.fa"
+# against subject-file "/home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_20x/contigs_reports/nucmer_output/asm_20x.ntref"
+# COMPLETETIME /home/genomika25/miniconda3/envs/dmyboi/opt/quast-4.1/libs/MUMmer3.23-linux/mummer /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_20x/contigs_reports/nucmer_output/asm_20x.ntref 1.35
+# SPACE /home/genomika25/miniconda3/envs/dmyboi/opt/quast-4.1/libs/MUMmer3.23-linux/mummer /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_20x/contigs_reports/nucmer_output/asm_20x.ntref 6.01
+4: FINISHING DATA

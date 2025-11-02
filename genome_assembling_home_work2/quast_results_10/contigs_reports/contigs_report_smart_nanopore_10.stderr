@@ -1,0 +1,15 @@
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "/home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_10/contigs_reports/nucmer_output/smart_nanopore_10.ntref" of length 335801
+# construct suffix tree for sequence of length 335801
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 3358 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /home/genomika25/miniconda3/envs/dmyboi/opt/quast-4.1/libs/MUMmer3.23-linux/mummer /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_10/contigs_reports/nucmer_output/smart_nanopore_10.ntref 0.03
+# reading input file "/home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_10/quast_corrected_input/smart_nanopore_10.fa" of length 1761583
+# matching query-file "/home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_10/quast_corrected_input/smart_nanopore_10.fa"
+# against subject-file "/home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_10/contigs_reports/nucmer_output/smart_nanopore_10.ntref"
+# COMPLETETIME /home/genomika25/miniconda3/envs/dmyboi/opt/quast-4.1/libs/MUMmer3.23-linux/mummer /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_10/contigs_reports/nucmer_output/smart_nanopore_10.ntref 0.44
+# SPACE /home/genomika25/miniconda3/envs/dmyboi/opt/quast-4.1/libs/MUMmer3.23-linux/mummer /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/quast_results_10/contigs_reports/nucmer_output/smart_nanopore_10.ntref 2.04
+4: FINISHING DATA

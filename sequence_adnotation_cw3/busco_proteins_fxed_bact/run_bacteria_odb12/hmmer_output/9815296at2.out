@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00485       -           1468 9815296              -            873         0 1027.4  25.0   1   5   4.4e-40   2.6e-37  123.4   0.1     2   147    15   179    14   205 0.82 DNA-directed RNA polymerase subunit beta'
+MINDJIJG_00485       -           1468 9815296              -            873         0 1027.4  25.0   2   5  2.7e-150  1.6e-147  488.0   0.5   133   449   272   595   243   617 0.92 DNA-directed RNA polymerase subunit beta'
+MINDJIJG_00485       -           1468 9815296              -            873         0 1027.4  25.0   3   5   5.4e-62   3.2e-59  195.8   0.4   469   662   808  1023   796  1041 0.88 DNA-directed RNA polymerase subunit beta'
+MINDJIJG_00485       -           1468 9815296              -            873         0 1027.4  25.0   4   5   2.1e-34   1.2e-31  104.6   1.3   665   728  1084  1147  1063  1166 0.90 DNA-directed RNA polymerase subunit beta'
+MINDJIJG_00485       -           1468 9815296              -            873         0 1027.4  25.0   5   5   3.3e-42     2e-39  130.4   0.5   726   872  1227  1387  1218  1388 0.88 DNA-directed RNA polymerase subunit beta'
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/bacteria_odb12/hmms/9815296at2.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins_fxed_bact/run_bacteria_odb12/hmmer_output/9815296at2.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/bacteria_odb12/hmms/9815296at2.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:33:49 2025
+# [ok]

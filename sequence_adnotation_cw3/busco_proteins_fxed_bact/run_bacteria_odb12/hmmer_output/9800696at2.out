@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00183       -            370 9800696              -            355  1.4e-128  423.9   0.0   1   1  8.3e-131  1.6e-128  423.6   0.0     2   352     1   359     1   361 0.95 tRNA-specific 2-thiouridylase MnmA
+MINDJIJG_00580       -            382 9800696              -            355   5.9e-05   17.2   0.0   1   1   5.6e-07   0.00011   16.3   0.0     5    46   170   210   167   239 0.73 putative tRNA sulfurtransferase
+MINDJIJG_00009       -            326 9800696              -            355    0.0016   12.5   0.0   1   2     4e-05    0.0079   10.2   0.0     3    80    40   109    38   118 0.78 tRNA(Ile)-lysidine synthase
+MINDJIJG_00009       -            326 9800696              -            355    0.0016   12.5   0.0   2   2     0.073        14   -0.5   0.1   122   162   204   244   190   248 0.83 tRNA(Ile)-lysidine synthase
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/bacteria_odb12/hmms/9800696at2.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins_fxed_bact/run_bacteria_odb12/hmmer_output/9800696at2.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/bacteria_odb12/hmms/9800696at2.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:33:47 2025
+# [ok]

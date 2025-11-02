@@ -1,0 +1,15 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     smart_nanopore_50
+# misassemblies              353              
+    # relocations            351              
+    # translocations         2                
+    # inversions             0                
+# misassembled contigs       161              
+Misassembled contigs length  3331351          
+# local misassemblies        294              
+# mismatches                 2412             
+# indels                     4606             
+    # short indels           4533             
+    # long indels            73               
+Indels length                6536             

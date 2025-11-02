@@ -1,0 +1,105 @@
+- STAGE: Before start
+  args: []
+  config_dir: ''
+  del_after: []
+  output_files: []
+  path: 'true'
+  short_name: before_start
+- STAGE: Assembling
+  args: []
+  config_dir: ''
+  del_after: []
+  output_files: []
+  path: 'true'
+  short_name: as_start
+- STAGE: K21
+  args:
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/K21/configs/config.info
+  config_dir: K21
+  del_after: []
+  output_files: []
+  path: /home/genomika24/miniconda3/envs/dmytro_boi/bin/spades-core
+  short_name: k21
+- STAGE: K33
+  args:
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/K33/configs/config.info
+  config_dir: K33
+  del_after: []
+  output_files: []
+  path: /home/genomika24/miniconda3/envs/dmytro_boi/bin/spades-core
+  short_name: k33
+- STAGE: K55
+  args:
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/K55/configs/config.info
+  config_dir: K55
+  del_after: []
+  output_files: []
+  path: /home/genomika24/miniconda3/envs/dmytro_boi/bin/spades-core
+  short_name: k55
+- STAGE: K77
+  args:
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/K77/configs/config.info
+  config_dir: K77
+  del_after: []
+  output_files: []
+  path: /home/genomika24/miniconda3/envs/dmytro_boi/bin/spades-core
+  short_name: k77
+- STAGE: Copy files
+  args:
+  - /home/genomika24/miniconda3/envs/dmytro_boi/share/spades/spades_pipeline/scripts/copy_files.py
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/K77/before_rr.fasta
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/before_rr.fasta
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/K77/assembly_graph_after_simplification.gfa
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/assembly_graph_after_simplification.gfa
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/K77/final_contigs.fasta
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/contigs.fasta
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/K77/first_pe_contigs.fasta
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/first_pe_contigs.fasta
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/K77/strain_graph.gfa
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/strain_graph.gfa
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/K77/scaffolds.fasta
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/scaffolds.fasta
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/K77/scaffolds.paths
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/scaffolds.paths
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/K77/assembly_graph_with_scaffolds.gfa
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/assembly_graph_with_scaffolds.gfa
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/K77/assembly_graph.fastg
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/assembly_graph.fastg
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/K77/final_contigs.paths
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/contigs.paths
+  config_dir: ''
+  del_after:
+  - .bin_reads
+  - tmp/spades_4gb94518
+  output_files: []
+  path: /home/genomika24/miniconda3/envs/dmytro_boi/bin/python3
+  short_name: copy_files
+- STAGE: Assembling
+  args: []
+  config_dir: ''
+  del_after: []
+  output_files: []
+  path: 'true'
+  short_name: as_finish
+- STAGE: Breaking scaffolds
+  args:
+  - /home/genomika24/miniconda3/envs/dmytro_boi/share/spades/spades_pipeline/scripts/breaking_scaffolds_script.py
+  - --result_scaffolds_filename
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/scaffolds.fasta
+  - --misc_dir
+  - /home/genomika24/dmytro_boi/genome_assembling_home_work2/spades_output_50x/misc
+  - --threshold_for_breaking_scaffolds
+  - '3'
+  config_dir: ''
+  del_after: []
+  output_files: []
+  path: /home/genomika24/miniconda3/envs/dmytro_boi/bin/python3
+  short_name: bs
+- STAGE: Terminate
+  args: []
+  config_dir: ''
+  del_after:
+  - configs
+  output_files: []
+  path: 'true'
+  short_name: terminate

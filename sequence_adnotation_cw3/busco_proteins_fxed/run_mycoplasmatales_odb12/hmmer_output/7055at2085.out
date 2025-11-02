@@ -1,0 +1,33 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00122       -            283 7055                 -            270  5.3e-108  355.5   3.6   1   1  8.4e-110  6.2e-108  355.3   3.6     2   269     3   278     2   279 0.95 Small ribosomal subunit biogenesis GTPase RsgA
+MINDJIJG_00345       -            440 7055                 -            270   4.7e-07   24.5   5.6   1   3   0.00017     0.013   10.0   0.0   143   169     2    28     1    77 0.85 GTPase Der
+MINDJIJG_00345       -            440 7055                 -            270   4.7e-07   24.5   5.6   2   3   1.2e-05   0.00085   13.8   0.0   148   204   177   231   161   259 0.74 GTPase Der
+MINDJIJG_00345       -            440 7055                 -            270   4.7e-07   24.5   5.6   3   3     0.064       4.7    1.5   0.5    99   127   284   312   267   329 0.76 GTPase Der
+MINDJIJG_00493       -            183 7055                 -            270   8.9e-07   23.6   1.9   1   2   2.4e-08   1.7e-06   22.6   0.1   144   214    19    84     6   104 0.73 GTP-binding protein EngB
+MINDJIJG_00493       -            183 7055                 -            270   8.9e-07   23.6   1.9   2   2      0.14        10    0.4   0.2    93   117   123   147   104   175 0.75 GTP-binding protein EngB
+MINDJIJG_00552       -            275 7055                 -            270   2.5e-06   22.1   1.0   1   2       0.1       7.7    0.8   0.4    94   140    35    88    18    93 0.69 GTPase Der
+MINDJIJG_00552       -            275 7055                 -            270   2.5e-06   22.1   1.0   2   2   8.5e-08   6.2e-06   20.8   0.4   101   204    69   164    52   182 0.64 GTPase Der
+MINDJIJG_00029       -            294 7055                 -            270   2.3e-05   18.9   0.1   1   3   3.1e-07   2.3e-05   18.9   0.1   147   224     7    82     1    87 0.82 GTPase Era
+MINDJIJG_00029       -            294 7055                 -            270   2.3e-05   18.9   0.1   2   3    0.0072      0.53    4.6   0.9    90   120   102   134    86   170 0.68 GTPase Era
+MINDJIJG_00029       -            294 7055                 -            270   2.3e-05   18.9   0.1   3   3      0.86        63   -2.2   0.3    13    38   217   242   210   278 0.60 GTPase Era
+MINDJIJG_00477       -            942 7055                 -            270   0.00013   16.4   5.3   1   3   0.00031     0.023    9.1   0.0   132   161    12    42     3    64 0.74 UvrABC system protein A
+MINDJIJG_00477       -            942 7055                 -            270   0.00013   16.4   5.3   2   3      0.56        41   -1.6   0.1    82   129   320   367   316   384 0.81 UvrABC system protein A
+MINDJIJG_00477       -            942 7055                 -            270   0.00013   16.4   5.3   3   3   0.00056     0.041    8.3   0.4   132   163   623   655   608   663 0.79 UvrABC system protein A
+MINDJIJG_00082       -            716 7055                 -            270   0.00096   13.6   5.6   1   5   0.00016     0.012   10.1   0.0   129   170    35    79    21    89 0.82 Chaperone protein ClpB
+MINDJIJG_00082       -            716 7055                 -            270   0.00096   13.6   5.6   2   5       1.1        83   -2.6   0.0    48    64   374   390   348   402 0.76 Chaperone protein ClpB
+MINDJIJG_00082       -            716 7055                 -            270   0.00096   13.6   5.6   3   5    0.0093      0.68    4.3   0.0   148   168   463   483   443   492 0.88 Chaperone protein ClpB
+MINDJIJG_00082       -            716 7055                 -            270   0.00096   13.6   5.6   4   5       2.7     2e+02   -3.8   0.1   178   201   555   578   538   589 0.64 Chaperone protein ClpB
+MINDJIJG_00082       -            716 7055                 -            270   0.00096   13.6   5.6   5   5       3.5   2.6e+02   -4.2   0.1    38    62   625   649   623   652 0.83 Chaperone protein ClpB
+MINDJIJG_00270       -             71 7055                 -            270    0.0011   13.5   0.0   1   1   1.7e-05    0.0012   13.3   0.0     1    47     8    56     8    61 0.85 Translation initiation factor IF-1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7055at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins_fxed/run_mycoplasmatales_odb12/hmmer_output/7055at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7055at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:33:14 2025
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00100       -            251 8040                 -            428   5.6e-94  311.6  18.6   1   1   4.1e-96   6.2e-94  311.5  18.6   101   339     1   250     1   251 0.91 tRNA modification GTPase MnmE
+MINDJIJG_00687       -            179 8040                 -            428   9.9e-31  103.2   2.4   1   1   7.5e-33   1.1e-30  103.0   2.4   193   310    39   160    28   179 0.83 GTPase Der
+MINDJIJG_00064       -            281 8040                 -            428   1.1e-22   76.8   5.9   1   2   7.1e-25   1.1e-22   76.8   5.9   212   330     4   130     1   153 0.85 GTPase Era
+MINDJIJG_00064       -            281 8040                 -            428   1.1e-22   76.8   5.9   2   2       1.8   2.7e+02   -3.7   2.2   305   360   218   271   208   279 0.54 GTPase Era
+MINDJIJG_00099       -             69 8040                 -            428   9.6e-21   70.3   4.0   1   1     7e-23   1.1e-20   70.2   4.0     1    62     6    69     6    69 0.95 tRNA modification GTPase MnmE
+MINDJIJG_00688       -             47 8040                 -            428   1.3e-14   50.2   0.2   1   1   8.3e-17   1.3e-14   50.2   0.2   215   250     6    41     2    47 0.93 GTPase Der
+MINDJIJG_01115       -            149 8040                 -            428   6.8e-08   28.0   5.5   1   2     0.018       2.6    3.0   1.2   305   350    33    80     3    92 0.53 Ribosome biogenesis GTPase A
+MINDJIJG_01115       -            149 8040                 -            428   6.8e-08   28.0   5.5   2   2   7.1e-10   1.1e-07   27.3   1.7   185   248    79   146    64   147 0.73 Ribosome biogenesis GTPase A
+MINDJIJG_00101       -             50 8040                 -            428   1.8e-07   26.6   0.1   1   1   1.2e-09   1.8e-07   26.6   0.1   356   400     6    50     1    50 0.92 hypothetical protein
+MINDJIJG_00811       -             76 8040                 -            428   1.1e-05   20.7   0.1   1   1   7.8e-08   1.2e-05   20.6   0.1   205   235    24    54     6    59 0.88 putative ABC transporter ATP-binding protein
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/8040at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins/run_mycoplasmatales_odb12/hmmer_output/8040at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/8040at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:30:33 2025
+# [ok]

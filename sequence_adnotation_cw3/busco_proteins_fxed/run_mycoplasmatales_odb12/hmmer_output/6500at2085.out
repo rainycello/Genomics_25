@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00231       -            213 6500                 -            195   2.7e-68  224.6   0.5   1   1   1.6e-70   3.1e-68  224.4   0.5     1   194     5   209     5   210 0.92 Thymidylate kinase
+MINDJIJG_00324       -            219 6500                 -            195   1.3e-08   29.9   5.5   1   2    0.0093       1.8    3.3   0.0     2    25     2    25     1    30 0.87 hypothetical protein
+MINDJIJG_00324       -            219 6500                 -            195   1.3e-08   29.9   5.5   2   2   4.6e-10     9e-08   27.1   2.5   112   193   122   211    85   213 0.81 hypothetical protein
+MINDJIJG_00477       -            942 6500                 -            195   7.4e-05   17.6   0.1   1   2     0.002      0.39    5.4   0.0     1    17    26    42    26    57 0.85 UvrABC system protein A
+MINDJIJG_00477       -            942 6500                 -            195   7.4e-05   17.6   0.1   2   2   0.00016     0.031    9.1   0.0     1    19   637   655   637   672 0.84 UvrABC system protein A
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/6500at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins_fxed/run_mycoplasmatales_odb12/hmmer_output/6500at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/6500at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:33:13 2025
+# [ok]

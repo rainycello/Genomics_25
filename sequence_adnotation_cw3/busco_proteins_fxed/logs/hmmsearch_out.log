@@ -1,0 +1,75 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/8382at2085.hmm
+# target sequence database:        /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa
+# per-dom hits tabular output:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins_fxed/run_mycoplasmatales_odb12/hmmer_output/8382at2085.out
+# number of worker threads:        1
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       8382  [M=418]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+   1.5e-142  470.4  37.7   1.5e-142  470.4  37.7    1.8  2  MINDJIJG_00224  Trigger factor
+
+
+Domain annotation for each sequence (and alignments):
+>> MINDJIJG_00224  Trigger factor
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  470.4  37.7  2.5e-145  1.5e-142       1     417 [.       1     425 [.       1     426 [. 0.97
+   2 ?   -3.5   4.0      0.18     1e+02     305     343 ..     437     475 ..     429     476 .] 0.65
+
+  Alignments for each domain:
+  == domain 1  score: 470.4 bits;  conditional E-value: 2.5e-145
+            8382   1 kkiekkkekaelkikvelekeeWeealekakkklaknvkipGFRkGkvPaeeakkyispaevfekAlnkvleeiak..ikeeikekeeviespsv 93 
+                     ++++++k+++el+i++++++e+We+a eka+k+l++nv+i+GFRkG+vPa ea+k i+p+ev++kAl+++l++i+k  i ++i++++e++ + ++
+  MINDJIJG_00224   1 MSRTLNKKESELTIEYTIQGEQWENAKEKARKALRANVQIDGFRKGHVPAFEADKRINPIEVYQKALDSILDNIYKeqIISQITKDDEIVGHANL 95 
+                     57899*********************************************************************9722679************** PP
+
+            8382  94 eikkiseeeleiefvfplypeiklgdykkiktklkelkvteedveeeiekllkkkavtkekeekikkgDivtfdFkGfvdgkaFegGeAenfeLk 188
+                     +ik+i+ee++ei+fvfpl+pe+klgdykk+ +kl + ++t++d+++++++++++++v+++++e+ik+ D v+f+FkGf+dgk+F+gGeAenf+L+
+  MINDJIJG_00224  96 RIKDINEEKAEISFVFPLFPEVKLGDYKKLGVKLGSCELTKKDLNDAKSQIASNYVVMLDSKEPIKEKDQVNFNFKGFIDGKPFDGGEAENFDLV 190
+                     *********************************************************************************************** PP
+
+            8382 189 iGSnqFIpgFEdqliGlkvgekkeinvtFPkdYhvkelagkkavFevkikkikevelpelddefvkelnlpnvktleelkeylkkqllkekieka 283
+                     iGS+qFIpgFEd++iGlk+ge+k++++ FP+dYh+k+lagk++vF+vki+ +k++++p +dd+fvke+nlpnvk+++e++ey+k ++lk+k+ ++
+  MINDJIJG_00224 191 IGSKQFIPGFEDKMIGLKAGEEKDLDLVFPEDYHAKNLAGKSVVFHVKINFVKTPNYPTIDDNFVKEINLPNVKNVAEFEEYVKFIALKNKLANV 285
+                     *********************************************************************************************** PP
+
+            8382 284 knkaiee....iiekseikipkslieeevkklkeefkkqLkqqkiklkeyleltkkseedieeelkeeakknlkkslvveeiakkekievt..ei 372
+                     kn++i+e    + e+se+ +++sl+eee++k++++f ++Lkqq+i++k+y+e++k+++e+  + +k++a+ nlk+++v+ +iak e+++vt  ++
+  MINDJIJG_00224 286 KNEFINEavkkLSEQSEVSLSESLVEEEADKYYQNFLNNLKQQQITEKDYYEFSKSTKEESLNVFKKQAQINLKQMFVLGAIAKAESLKVTleDY 380
+                     9987654111177889**********************************************************************99885449* PP
+
+            8382 373 eeeieelaklysleveeikkllseeqikselteekvidllieknk 417
+                     e+e+e+lak+y+l  e++k++l++e+++++l++e++ + l+++n+
+  MINDJIJG_00224 381 EKEVEKLAKTYGLAPEHVKQILKFENVENNLINERISEILLKEND 425
+                     ******************************************998 PP
+
+  == domain 2  score: -3.5 bits;  conditional E-value: 0.18
+            8382 305 eeevkklkeefkkqLkqqkiklkeyleltkkseedieee 343
+                     +e  +   +++++ + + k k +e+ ++ k s+e+i+e+
+  MINDJIJG_00224 437 KEVEEYEAKQTQAIVDEAKRKREEAEKIAKESKENIDEQ 475
+                     444444455666666777777888888888888888775 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (418 nodes)
+Target sequences:                        589  (207714 residues searched)
+Passed MSV filter:                       170  (0.288625); expected 11.8 (0.02)
+Passed bias filter:                        8  (0.0135823); expected 11.8 (0.02)
+Passed Vit filter:                         2  (0.00339559); expected 0.6 (0.001)
+Passed Fwd filter:                         1  (0.00169779); expected 0.0 (1e-05)
+Initial search space (Z):                589  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.01
+# Mc/sec: 5211.03
+//
+[ok]

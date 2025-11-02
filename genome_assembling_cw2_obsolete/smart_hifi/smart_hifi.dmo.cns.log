@@ -1,0 +1,40 @@
+[Tue Nov  5 14:49:37 2024]"utg0 length=99903 nodes=275" init
+[Tue Nov  5 14:49:37 2024]"utg0 length=99903 nodes=275" generate backbone length=100137
+[Tue Nov  5 14:49:40 2024]"utg0 length=99903 nodes=275" align aln_score=5292925
+[Tue Nov  5 14:49:40 2024]"utg0 length=99903 nodes=275" merge nodes
+[Tue Nov  5 14:49:40 2024]"utg0 length=99903 nodes=275" iter1 length=100000 aln_score=5292925 cns_score=1343235.875000
+[Tue Nov  5 14:49:44 2024]"utg0 length=99903 nodes=275" align aln_score=5388030
+[Tue Nov  5 14:49:44 2024]"utg0 length=99903 nodes=275" merge nodes
+[Tue Nov  5 14:49:44 2024]"utg0 length=99903 nodes=275" iter2 length=100000 aln_score=5388030 cns_score=1340105.750000
+[Tue Nov  5 14:49:47 2024]"utg0 length=99903 nodes=275" align aln_score=5388030
+[Tue Nov  5 14:49:47 2024]"utg0 length=99903 nodes=275" merge nodes
+[Tue Nov  5 14:49:47 2024]"utg0 length=99903 nodes=275" iter3 length=100000 aln_score=5388030 cns_score=1340105.750000
+[Tue Nov  5 14:49:51 2024]"utg0 length=99903 nodes=275" align aln_score=5388030
+[Tue Nov  5 14:49:51 2024]"utg0 length=99903 nodes=275" merge nodes
+[Tue Nov  5 14:49:51 2024]"utg0 length=99903 nodes=275" iter4 length=100000 aln_score=5388030 cns_score=1340105.750000
+[Tue Nov  5 14:49:54 2024]"utg0 length=99903 nodes=275" align aln_score=5388030
+[Tue Nov  5 14:49:54 2024]"utg0 length=99903 nodes=275" merge nodes
+[Tue Nov  5 14:49:54 2024]"utg0 length=99903 nodes=275" iter5 length=100000 aln_score=5388030 cns_score=1340105.750000
+[Tue Nov  5 14:49:58 2024]"utg0 length=99903 nodes=275" align aln_score=5388030
+[Tue Nov  5 14:49:58 2024]"utg0 length=99903 nodes=275" merge nodes
+[Tue Nov  5 14:49:58 2024]"utg0 length=99903 nodes=275" iter6 length=100000 aln_score=5388030 cns_score=1340105.750000
+[Tue Nov  5 14:49:58 2024]"utg1 length=100184 nodes=263" init
+[Tue Nov  5 14:49:58 2024]"utg1 length=100184 nodes=263" generate backbone length=100076
+[Tue Nov  5 14:50:01 2024]"utg1 length=100184 nodes=263" align aln_score=4920887
+[Tue Nov  5 14:50:01 2024]"utg1 length=100184 nodes=263" merge nodes
+[Tue Nov  5 14:50:01 2024]"utg1 length=100184 nodes=263" iter1 length=100000 aln_score=4920887 cns_score=1247291.500000
+[Tue Nov  5 14:50:05 2024]"utg1 length=100184 nodes=263" align aln_score=5003348
+[Tue Nov  5 14:50:05 2024]"utg1 length=100184 nodes=263" merge nodes
+[Tue Nov  5 14:50:05 2024]"utg1 length=100184 nodes=263" iter2 length=100000 aln_score=5003348 cns_score=1244487.000000
+[Tue Nov  5 14:50:08 2024]"utg1 length=100184 nodes=263" align aln_score=5003348
+[Tue Nov  5 14:50:08 2024]"utg1 length=100184 nodes=263" merge nodes
+[Tue Nov  5 14:50:08 2024]"utg1 length=100184 nodes=263" iter3 length=100000 aln_score=5003348 cns_score=1244487.000000
+[Tue Nov  5 14:50:11 2024]"utg1 length=100184 nodes=263" align aln_score=5003348
+[Tue Nov  5 14:50:11 2024]"utg1 length=100184 nodes=263" merge nodes
+[Tue Nov  5 14:50:11 2024]"utg1 length=100184 nodes=263" iter4 length=100000 aln_score=5003348 cns_score=1244487.000000
+[Tue Nov  5 14:50:15 2024]"utg1 length=100184 nodes=263" align aln_score=5003348
+[Tue Nov  5 14:50:15 2024]"utg1 length=100184 nodes=263" merge nodes
+[Tue Nov  5 14:50:15 2024]"utg1 length=100184 nodes=263" iter5 length=100000 aln_score=5003348 cns_score=1244487.000000
+[Tue Nov  5 14:50:18 2024]"utg1 length=100184 nodes=263" align aln_score=5003348
+[Tue Nov  5 14:50:18 2024]"utg1 length=100184 nodes=263" merge nodes
+[Tue Nov  5 14:50:18 2024]"utg1 length=100184 nodes=263" iter6 length=100000 aln_score=5003348 cns_score=1244487.000000

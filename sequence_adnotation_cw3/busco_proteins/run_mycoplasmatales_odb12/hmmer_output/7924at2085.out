@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00955       -            153 7924                 -            574   2.3e-76  253.6   0.1   1   1   1.1e-78   2.6e-76  253.4   0.1   159   311     1   153     1   153 1.00 Ribonuclease J 1
+MINDJIJG_00956       -            123 7924                 -            574   4.8e-62  206.3   3.1   1   1   2.2e-64   5.3e-62  206.2   3.1     4   125     1   122     1   123 0.99 Ribonuclease J1
+MINDJIJG_00954       -            136 7924                 -            574   1.6e-49  165.0   0.3   1   1   7.3e-52   1.8e-49  164.9   0.3   387   521     1   135     1   136 0.99 Ribonuclease J 1
+MINDJIJG_00548       -            318 7924                 -            574   1.6e-34  115.5  10.9   1   1     8e-37   1.9e-34  115.2  10.9   238   555     5   316     2   318 0.92 Ribonuclease J2
+MINDJIJG_00550       -             79 7924                 -            574   1.3e-18   63.0   0.1   1   1   5.2e-21   1.3e-18   63.0   0.1     5    72     2    69     1    79 0.94 Ribonuclease J 2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7924at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins/run_mycoplasmatales_odb12/hmmer_output/7924at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7924at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:30:32 2025
+# [ok]

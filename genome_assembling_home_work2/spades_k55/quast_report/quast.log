@@ -1,0 +1,88 @@
+/home/genomika25/miniconda3/envs/dmyboi/opt/quast-4.1/quast.py -R seq.fa -o spades_k55/quast_report spades_k55/contigs.fasta
+
+Version: 4.1, build 26.05.2016 14:25
+
+System information:
+  OS: Linux-6.8.0-79-generic-x86_64-with-debian-trixie-sid (linux_64)
+  Python version: 2.7.15
+  CPUs number: 64
+
+Started: 2025-10-29 01:55:48
+
+Logging to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/quast_report/quast.log
+
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used.
+
+NOTICE: Maximum number of threads is set to 16 (use --threads option to set it manually)
+
+Main parameters: 
+  Threads: 16, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  seq.fa ==> seq
+
+Contigs:
+  spades_k55/contigs.fasta ==> contigs
+
+2025-10-29 01:55:48
+Running Basic statistics processor...
+  Reference genome:
+    seq.fa, Reference length = 200000, Reference GC % = 34.59
+  Contig files: 
+    contigs
+  Calculating N50 and L50...
+    contigs, N50 = 99997, L50 = 1, Total length = 199979, GC % = 33.49, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/quast_report/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/quast_report/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/quast_report/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/quast_report/basic_stats/GC_content_plot.pdf
+Done.
+
+2025-10-29 01:55:48
+Running Contig analyzer...
+WARNING: Previous try of E-MEM compilation was unsuccessful! For forced retrying, please remove /home/genomika25/miniconda3/envs/dmyboi/opt/quast-4.1/libs/E-MEM-linux/make.failed and restart QUAST.
+  contigs
+  Logging to files /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/quast_report/contigs_reports/contigs_report_contigs.stdout and contigs_report_contigs.stderr...
+  Running Nucmer
+  /home/genomika25/miniconda3/envs/dmyboi/opt/quast-4.1/libs/MUMmer3.23-linux/nucmer \
+  -c 65 -l 65 --maxmatch -p spades_k55/quast_report/contigs_reports/nucmer_output/contigs \
+  spades_k55/quast_report/quast_corrected_input/seq.fa spades_k55/quast_report/quast_corrected_input/contigs.fasta \
+  >> spades_k55/quast_report/contigs_reports/contigs_report_contigs.stdout 2>> spades_k55/quast_report/contigs_reports/contigs_report_contigs.stderr
+  /home/genomika25/miniconda3/envs/dmyboi/opt/quast-4.1/libs/MUMmer3.23-linux/delta-filter \
+  -i 95 -l 0 spades_k55/quast_report/contigs_reports/nucmer_output/contigs.delta > \
+  spades_k55/quast_report/contigs_reports/nucmer_output/contigs.fdelta 2> spades_k55/quast_report/contigs_reports/contigs_report_contigs.stderr
+  /home/genomika25/miniconda3/envs/dmyboi/opt/quast-4.1/libs/MUMmer3.23-linux/show-coords \
+  spades_k55/quast_report/contigs_reports/nucmer_output/contigs.delta > spades_k55/quast_report/contigs_reports/nucmer_output/contigs.coords_tmp \
+  2> spades_k55/quast_report/contigs_reports/contigs_report_contigs.stderr
+  Nucmer: nothing aligned for 'contigs'.
+  Drawing misassemblies by types plot...
+    saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/quast_report/contigs_reports/misassemblies_plot.pdf
+Failed aligning the contigs for all the assemblies. Only basic stats are going to be evaluated.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2025-10-29 01:55:49
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2025-10-29 01:55:49
+RESULTS:
+  Text versions of total report are saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/quast_report/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/quast_report/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/quast_report/report.html
+  PDF version (tables and plots) is saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/quast_report/report.pdf
+  Icarus (contig browser) is saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/quast_report/icarus.html
+  Log saved to /home/genomika25/studenci/dmyboi/genome_assembling_home_work2/spades_k55/quast_report/quast.log
+
+Finished: 2025-10-29 01:55:49
+Elapsed time: 0:00:01.227510
+NOTICEs: 3; WARNINGs: 1; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

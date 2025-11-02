@@ -1,0 +1,1 @@
+print("bieda moment")

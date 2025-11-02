@@ -1,0 +1,629 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MINDJIJG_00001	CDS	807	ycsE	3.1.3.104		5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+MINDJIJG_00002	CDS	309	trxA		COG0526	Thioredoxin
+MINDJIJG_00003	CDS	1434	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+MINDJIJG_00004	CDS	1197	deoB	5.4.2.7	COG1015	Phosphopentomutase
+MINDJIJG_00005	CDS	1422	pyk	2.7.1.40		Pyruvate kinase
+MINDJIJG_00006	CDS	1266	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+MINDJIJG_00007	CDS	2244	recD2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+MINDJIJG_00008	CDS	561	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+MINDJIJG_00009	CDS	981	tilS	6.3.4.19		tRNA(Ile)-lysidine synthase
+MINDJIJG_00010	CDS	2220	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+MINDJIJG_00011	CDS	615				hypothetical protein
+MINDJIJG_00012	CDS	609	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+MINDJIJG_00013	CDS	2736	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+MINDJIJG_00014	CDS	2007				hypothetical protein
+MINDJIJG_00015	CDS	864				hypothetical protein
+MINDJIJG_00016	CDS	1374	pepA_1	3.4.11.10		cytosol aminopeptidase
+MINDJIJG_00017	CDS	1365	pepA_2	3.4.11.10		cytosol aminopeptidase
+MINDJIJG_00018	CDS	291				hypothetical protein
+MINDJIJG_00019	CDS	651	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+MINDJIJG_00020	CDS	861	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+MINDJIJG_00021	CDS	1404				hypothetical protein
+MINDJIJG_00022	CDS	846	osmV	3.6.3.-	COG1125	Osmoprotectant import ATP-binding protein OsmV
+MINDJIJG_00023	CDS	675	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+MINDJIJG_00024	CDS	378				hypothetical protein
+MINDJIJG_00025	CDS	1398	gltX	6.1.1.17		Glutamate--tRNA ligase
+MINDJIJG_00026	CDS	852				hypothetical protein
+MINDJIJG_00027	CDS	2019	lagD	3.4.22.-		Lactococcin-G-processing and transport ATP-binding protein LagD
+MINDJIJG_00028	CDS	453	ybeY	3.1.-.-		Endoribonuclease YbeY
+MINDJIJG_00029	CDS	885	era			GTPase Era
+MINDJIJG_00030	CDS	1665				hypothetical protein
+MINDJIJG_00031	CDS	1410	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MINDJIJG_00032	CDS	900				hypothetical protein
+MINDJIJG_00033	CDS	840				hypothetical protein
+MINDJIJG_00034	CDS	1761				hypothetical protein
+MINDJIJG_00035	CDS	1347	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+MINDJIJG_00036	CDS	1005				hypothetical protein
+MINDJIJG_00037	CDS	651				hypothetical protein
+MINDJIJG_00038	CDS	2238	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+MINDJIJG_00039	CDS	1551				hypothetical protein
+MINDJIJG_00040	CDS	1908	pepO	3.4.24.-		Neutral endopeptidase
+MINDJIJG_00041	CDS	912	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+MINDJIJG_00042	CDS	216				hypothetical protein
+MINDJIJG_00043	CDS	1347	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+MINDJIJG_00044	CDS	1332		2.1.1.-	COG2265	putative RNA methyltransferase
+MINDJIJG_00045	CDS	1671				hypothetical protein
+MINDJIJG_00046	CDS	1056	ftsY		COG0552	Signal recognition particle receptor FtsY
+MINDJIJG_00047	CDS	225				hypothetical protein
+MINDJIJG_00048	CDS	729	pyrH	2.7.4.22		Uridylate kinase
+MINDJIJG_00049	CDS	552	frr		COG0233	Ribosome-recycling factor
+MINDJIJG_00050	CDS	954				hypothetical protein
+MINDJIJG_00051	CDS	4314	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+MINDJIJG_00052	CDS	525				hypothetical protein
+MINDJIJG_00053	CDS	1257	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+MINDJIJG_00054	CDS	297				hypothetical protein
+MINDJIJG_00055	CDS	1629				putative protein
+MINDJIJG_00056	CDS	1008	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+MINDJIJG_00057	CDS	696	rnc_1	3.1.26.3	COG0571	Ribonuclease 3
+MINDJIJG_00058	CDS	2937	smc_1		COG1196	Chromosome partition protein Smc
+MINDJIJG_00059	CDS	426				hypothetical protein
+MINDJIJG_00060	CDS	357				hypothetical protein
+MINDJIJG_00061	CDS	1980	yidC			Membrane protein insertase YidC
+MINDJIJG_00062	CDS	330	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+MINDJIJG_00063	CDS	147	rpmH		COG0230	50S ribosomal protein L34
+MINDJIJG_00064	CDS	1392	dnaA			Chromosomal replication initiator protein DnaA
+MINDJIJG_00065	CDS	1098	dnaN		COG0592	Beta sliding clamp
+MINDJIJG_00066	CDS	213				hypothetical protein
+MINDJIJG_00067	CDS	198				hypothetical protein
+MINDJIJG_00068	CDS	774	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+MINDJIJG_00069	CDS	768	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+MINDJIJG_00070	CDS	687	mtnN	3.2.2.9		5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+MINDJIJG_00071	CDS	843				hypothetical protein
+MINDJIJG_00072	tRNA	87				tRNA-Leu(taa)
+MINDJIJG_00073	tRNA	76				tRNA-Lys(ttt)
+MINDJIJG_00074	CDS	618				hypothetical protein
+MINDJIJG_00075	CDS	489				hypothetical protein
+MINDJIJG_00076	CDS	2454				hypothetical protein
+MINDJIJG_00077	CDS	1167				hypothetical protein
+MINDJIJG_00078	CDS	372				hypothetical protein
+MINDJIJG_00079	CDS	1809				hypothetical protein
+MINDJIJG_00080	CDS	462				hypothetical protein
+MINDJIJG_00081	CDS	552				hypothetical protein
+MINDJIJG_00082	CDS	2151	clpB			Chaperone protein ClpB
+MINDJIJG_00083	CDS	459				hypothetical protein
+MINDJIJG_00084	CDS	855	atpB			ATP synthase subunit a
+MINDJIJG_00085	CDS	306	atpH_1			ATP synthase subunit c
+MINDJIJG_00086	CDS	582	atpF			ATP synthase subunit b
+MINDJIJG_00087	CDS	540	atpH_2		COG0712	ATP synthase subunit delta
+MINDJIJG_00088	CDS	1584	atpA_1	7.1.2.2	COG0056	ATP synthase subunit alpha
+MINDJIJG_00089	CDS	882	atpG		COG0224	ATP synthase gamma chain
+MINDJIJG_00090	CDS	1488	atpD_1	7.1.2.2	COG0055	ATP synthase subunit beta
+MINDJIJG_00091	CDS	378	atpC			ATP synthase epsilon chain
+MINDJIJG_00092	CDS	2175				hypothetical protein
+MINDJIJG_00093	CDS	2142				hypothetical protein
+MINDJIJG_00094	CDS	1461				hypothetical protein
+MINDJIJG_00095	CDS	8016				hypothetical protein
+MINDJIJG_00096	CDS	1548	ktrB		COG0168	Ktr system potassium uptake protein B
+MINDJIJG_00097	CDS	693	ktrA		COG0569	Ktr system potassium uptake protein A
+MINDJIJG_00098	CDS	1332	pepC	3.4.22.40	COG3579	Aminopeptidase C
+MINDJIJG_00099	CDS	303				hypothetical protein
+MINDJIJG_00100	CDS	810				hypothetical protein
+MINDJIJG_00101	CDS	825	scpA		COG1354	Segregation and condensation protein A
+MINDJIJG_00102	CDS	633	scpB		COG1386	Segregation and condensation protein B
+MINDJIJG_00103	CDS	837	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+MINDJIJG_00104	CDS	303				hypothetical protein
+MINDJIJG_00105	CDS	1329	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+MINDJIJG_00106	CDS	1422	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+MINDJIJG_00107	CDS	1107				hypothetical protein
+MINDJIJG_00108	CDS	1005				hypothetical protein
+MINDJIJG_00109	CDS	4848				hypothetical protein
+MINDJIJG_00110	CDS	1194	pgk	2.7.2.3		Phosphoglycerate kinase
+MINDJIJG_00111	CDS	411				hypothetical protein
+MINDJIJG_00112	CDS	582	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+MINDJIJG_00113	CDS	1194	tuf		COG0050	Elongation factor Tu
+MINDJIJG_00114	CDS	888				hypothetical protein
+MINDJIJG_00115	CDS	1614				hypothetical protein
+MINDJIJG_00116	CDS	96				hypothetical protein
+MINDJIJG_00117	CDS	2205				hypothetical protein
+MINDJIJG_00118	CDS	555	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+MINDJIJG_00119	CDS	624	gmk	2.7.4.8	COG0194	Guanylate kinase
+MINDJIJG_00120	CDS	756	prpC	3.1.3.16	COG0631	Protein phosphatase PrpC
+MINDJIJG_00121	CDS	1017	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+MINDJIJG_00122	CDS	852	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+MINDJIJG_00123	CDS	648	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+MINDJIJG_00124	CDS	1122				hypothetical protein
+MINDJIJG_00125	CDS	1926				hypothetical protein
+MINDJIJG_00126	CDS	1719				hypothetical protein
+MINDJIJG_00127	CDS	2946				hypothetical protein
+MINDJIJG_00128	CDS	843				hypothetical protein
+MINDJIJG_00129	CDS	1788	dnaK		COG0443	Chaperone protein DnaK
+MINDJIJG_00130	CDS	1833				hypothetical protein
+MINDJIJG_00131	CDS	705	yxlF	3.6.3.-	COG1131	putative ABC transporter ATP-binding protein YxlF
+MINDJIJG_00132	CDS	1281				hypothetical protein
+MINDJIJG_00133	CDS	894				hypothetical protein
+MINDJIJG_00134	CDS	921				hypothetical protein
+MINDJIJG_00135	CDS	900	rpsB			30S ribosomal protein S2
+MINDJIJG_00136	CDS	882	tsf		COG0264	Elongation factor Ts
+MINDJIJG_00137	CDS	828	whiA			cell division protein WhiA
+MINDJIJG_00138	CDS	528				hypothetical protein
+MINDJIJG_00139	CDS	1737				hypothetical protein
+MINDJIJG_00140	CDS	2901		7.2.2.10		Calcium-transporting ATPase 1
+MINDJIJG_00141	CDS	366				hypothetical protein
+MINDJIJG_00142	CDS	885	yegS	2.7.1.-		lipid kinase YegS
+MINDJIJG_00143	CDS	1317		3.4.13.-		Putative dipeptidase
+MINDJIJG_00144	CDS	1017				hypothetical protein
+MINDJIJG_00145	CDS	114				hypothetical protein
+MINDJIJG_00146	CDS	2802	parC	5.6.2.2		DNA topoisomerase 4 subunit A
+MINDJIJG_00147	CDS	1920	parE	5.6.2.2	COG0187	DNA topoisomerase 4 subunit B
+MINDJIJG_00148	CDS	984	agp	3.1.3.10		Glucose-1-phosphatase
+MINDJIJG_00149	CDS	1008	gapA	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+MINDJIJG_00150	CDS	489				hypothetical protein
+MINDJIJG_00151	CDS	765				hypothetical protein
+MINDJIJG_00152	CDS	1743				hypothetical protein
+MINDJIJG_00153	CDS	945	pip	3.4.11.5	COG0596	Proline iminopeptidase
+MINDJIJG_00154	CDS	2154	yhgF		COG2183	Protein YhgF
+MINDJIJG_00155	CDS	306				hypothetical protein
+MINDJIJG_00156	CDS	1479				hypothetical protein
+MINDJIJG_00157	CDS	948				hypothetical protein
+MINDJIJG_00158	CDS	2094	fusA		COG0480	Elongation factor G
+MINDJIJG_00159	CDS	471	rpsG			30S ribosomal protein S7
+MINDJIJG_00160	CDS	417	rpsL		COG0048	30S ribosomal protein S12
+MINDJIJG_00161	CDS	600				hypothetical protein
+MINDJIJG_00162	CDS	1185				hypothetical protein
+MINDJIJG_00163	CDS	966				hypothetical protein
+MINDJIJG_00164	CDS	894	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+MINDJIJG_00165	CDS	357	yigZ		COG1739	IMPACT family member YigZ
+MINDJIJG_00166	CDS	798				hypothetical protein
+MINDJIJG_00167	tRNA	76				tRNA-Phe(gaa)
+MINDJIJG_00168	tRNA	77				tRNA-Asp(gtc)
+MINDJIJG_00169	tRNA	76				tRNA-Met(cat)
+MINDJIJG_00170	tRNA	91				tRNA-Ser(tga)
+MINDJIJG_00171	tRNA	76				tRNA-Met(cat)
+MINDJIJG_00172	tRNA	77				tRNA-Met(cat)
+MINDJIJG_00173	tRNA	73				tRNA-Ala(tgc)
+MINDJIJG_00174	tRNA	77				tRNA-Pro(tgg)
+MINDJIJG_00175	CDS	1275	obg	3.6.5.-	COG0536	GTPase Obg
+MINDJIJG_00176	CDS	1566	metG	6.1.1.10		Methionine--tRNA ligase
+MINDJIJG_00177	CDS	783	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+MINDJIJG_00178	CDS	471	greA		COG0782	Transcription elongation factor GreA
+MINDJIJG_00179	CDS	720				hypothetical protein
+MINDJIJG_00180	CDS	312				hypothetical protein
+MINDJIJG_00181	CDS	435	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+MINDJIJG_00182	CDS	2664	alaS	6.1.1.7		Alanine--tRNA ligase
+MINDJIJG_00183	CDS	1113	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+MINDJIJG_00184	CDS	360	rplT			50S ribosomal protein L20
+MINDJIJG_00185	CDS	189	rpmI			50S ribosomal protein L35
+MINDJIJG_00186	CDS	690	infC			Translation initiation factor IF-3
+MINDJIJG_00187	CDS	1083	nadD	2.7.7.18		nicotinate-nucleotide adenylyltransferase
+MINDJIJG_00188	CDS	1257	dinB	2.7.7.7		DNA polymerase IV
+MINDJIJG_00189	CDS	450				hypothetical protein
+MINDJIJG_00190	CDS	1170	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+MINDJIJG_00191	CDS	735	tlyA		COG1189	Hemolysin A
+MINDJIJG_00192	CDS	474	nusB			Transcription antitermination protein NusB
+MINDJIJG_00193	CDS	807	ymdB	3.1.4.16	COG1692	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+MINDJIJG_00194	CDS	1014	recA		COG0468	Protein RecA
+MINDJIJG_00195	CDS	2175	pheT	6.1.1.20		Phenylalanine--tRNA ligase beta subunit
+MINDJIJG_00196	CDS	942	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+MINDJIJG_00197	CDS	1215	rarA		COG2256	Replication-associated recombination protein A
+MINDJIJG_00198	CDS	381				hypothetical protein
+MINDJIJG_00199	CDS	324				hypothetical protein
+MINDJIJG_00200	CDS	300				hypothetical protein
+MINDJIJG_00201	CDS	468				Single-stranded DNA-binding protein
+MINDJIJG_00202	CDS	441				hypothetical protein
+MINDJIJG_00203	CDS	1305				hypothetical protein
+MINDJIJG_00204	CDS	558	def2	3.5.1.88	COG0242	Peptide deformylase 2
+MINDJIJG_00205	CDS	1194				hypothetical protein
+MINDJIJG_00206	CDS	747				hypothetical protein
+MINDJIJG_00207	CDS	2163				hypothetical protein
+MINDJIJG_00208	CDS	600	rpsD		COG0522	30S ribosomal protein S4
+MINDJIJG_00209	CDS	846				hypothetical protein
+MINDJIJG_00210	CDS	1137				hypothetical protein
+MINDJIJG_00211	CDS	648				hypothetical protein
+MINDJIJG_00212	CDS	168				hypothetical protein
+MINDJIJG_00213	CDS	849	rnc_2	3.1.26.3		Ribonuclease 3
+MINDJIJG_00214	CDS	927				hypothetical protein
+MINDJIJG_00215	CDS	1707	uvrC		COG0322	UvrABC system protein C
+MINDJIJG_00216	tRNA	76				tRNA-Arg(tct)
+MINDJIJG_00217	tRNA	74				tRNA-Gly(tcc)
+MINDJIJG_00218	tRNA	74				tRNA-Gly(gcc)
+MINDJIJG_00219	CDS	594	azoR1	1.7.1.17	COG1182	FMN-dependent NADH-azoreductase 1
+MINDJIJG_00220	CDS	444	rplK		COG0080	50S ribosomal protein L11
+MINDJIJG_00221	CDS	693	rplA			50S ribosomal protein L1
+MINDJIJG_00222	CDS	1374	eno	4.2.1.11		Enolase
+MINDJIJG_00223	CDS	714				hypothetical protein
+MINDJIJG_00224	CDS	1431	tig	5.2.1.8	COG0544	Trigger factor
+MINDJIJG_00225	CDS	2595	secA		COG0653	Protein translocase subunit SecA
+MINDJIJG_00226	CDS	432				hypothetical protein
+MINDJIJG_00227	CDS	504				hypothetical protein
+MINDJIJG_00228	CDS	2004				hypothetical protein
+MINDJIJG_00229	CDS	300			COG0718	Nucleoid-associated protein
+MINDJIJG_00230	CDS	591	recR		COG0353	Recombination protein RecR
+MINDJIJG_00231	CDS	642	tmk	2.7.4.9	COG0125	Thymidylate kinase
+MINDJIJG_00232	CDS	834				hypothetical protein
+MINDJIJG_00233	CDS	714	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+MINDJIJG_00234	CDS	264	rpsT		COG0268	30S ribosomal protein S20
+MINDJIJG_00235	CDS	705				hypothetical protein
+MINDJIJG_00236	CDS	639				hypothetical protein
+MINDJIJG_00237	CDS	585				hypothetical protein
+MINDJIJG_00238	CDS	1740	thrS	6.1.1.3		Threonine--tRNA ligase
+MINDJIJG_00239	CDS	1002	trpS	6.1.1.2		Tryptophan--tRNA ligase
+MINDJIJG_00240	CDS	375				hypothetical protein
+MINDJIJG_00241	CDS	327				hypothetical protein
+MINDJIJG_00242	CDS	468	derI	5.3.1.34	COG0698	D-erythrulose-4-phosphate isomerase
+MINDJIJG_00243	CDS	468	tsaC	2.7.7.87		Threonylcarbamoyl-AMP synthase
+MINDJIJG_00244	CDS	864	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+MINDJIJG_00245	CDS	246				hypothetical protein
+MINDJIJG_00246	CDS	1197	ackA	2.7.2.1	COG0282	Acetate kinase
+MINDJIJG_00247	CDS	1824			COG1132	putative ABC transporter ATP-binding protein
+MINDJIJG_00248	CDS	1878			COG1132	putative ABC transporter ATP-binding protein
+MINDJIJG_00249	CDS	1500	gpmI	5.4.2.12		2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+MINDJIJG_00250	tRNA	90				tRNA-Ser(cga)
+MINDJIJG_00251	CDS	2748				hypothetical protein
+MINDJIJG_00252	CDS	807				hypothetical protein
+MINDJIJG_00253	CDS	1500				hypothetical protein
+MINDJIJG_00254	CDS	750	thiK	2.7.1.89		Thiamine kinase
+MINDJIJG_00255	CDS	1947	gyrB	5.6.2.2		DNA gyrase subunit B
+MINDJIJG_00256	CDS	660				hypothetical protein
+MINDJIJG_00257	CDS	1881				hypothetical protein
+MINDJIJG_00258	CDS	2091				hypothetical protein
+MINDJIJG_00259	CDS	1962				hypothetical protein
+MINDJIJG_00260	CDS	1737				hypothetical protein
+MINDJIJG_00261	CDS	1005				hypothetical protein
+MINDJIJG_00262	CDS	1656	rnjB	3.1.-.-	COG0595	Ribonuclease J2
+MINDJIJG_00263	CDS	516	apt	2.4.2.7		Adenine phosphoribosyltransferase
+MINDJIJG_00264	CDS	1836				hypothetical protein
+MINDJIJG_00265	CDS	198	rpmF		COG0333	50S ribosomal protein L32
+MINDJIJG_00266	CDS	366	rplQ		COG0203	50S ribosomal protein L17
+MINDJIJG_00267	CDS	1035	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+MINDJIJG_00268	CDS	375	rpsK			30S ribosomal protein S11
+MINDJIJG_00269	CDS	369	rpsM			30S ribosomal protein S13
+MINDJIJG_00270	CDS	216	infA			Translation initiation factor IF-1
+MINDJIJG_00271	CDS	753	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+MINDJIJG_00272	CDS	696	adk	2.7.4.3		Adenylate kinase
+MINDJIJG_00273	CDS	1470	secY			Protein translocase subunit SecY
+MINDJIJG_00274	CDS	435	rplO			50S ribosomal protein L15
+MINDJIJG_00275	CDS	669				hypothetical protein
+MINDJIJG_00276	CDS	348	rplR			50S ribosomal protein L18
+MINDJIJG_00277	CDS	540	rplF			50S ribosomal protein L6
+MINDJIJG_00278	CDS	414	rpsH		COG0096	30S ribosomal protein S8
+MINDJIJG_00279	CDS	186	rpsZ			30S ribosomal protein S14 type Z
+MINDJIJG_00280	CDS	564	rplE		COG0094	50S ribosomal protein L5
+MINDJIJG_00281	CDS	336	rplX		COG0198	50S ribosomal protein L24
+MINDJIJG_00282	CDS	369	rplN			50S ribosomal protein L14
+MINDJIJG_00283	CDS	285	rpsQ			30S ribosomal protein S17
+MINDJIJG_00284	CDS	201	rpmC			50S ribosomal protein L29
+MINDJIJG_00285	CDS	450	rplP		COG0197	50S ribosomal protein L16
+MINDJIJG_00286	CDS	732	rpsC		COG0092	30S ribosomal protein S3
+MINDJIJG_00287	CDS	390	rplV		COG0091	50S ribosomal protein L22
+MINDJIJG_00288	CDS	276	rpsS			30S ribosomal protein S19
+MINDJIJG_00289	CDS	846	rplB			50S ribosomal protein L2
+MINDJIJG_00290	CDS	432				hypothetical protein
+MINDJIJG_00291	CDS	969				hypothetical protein
+MINDJIJG_00292	CDS	807				hypothetical protein
+MINDJIJG_00293	CDS	306	rpsJ		COG0051	30S ribosomal protein S10
+MINDJIJG_00294	CDS	801				hypothetical protein
+MINDJIJG_00295	CDS	2391	xpkA	4.1.2.9		Xylulose-5-phosphate phosphoketolase
+MINDJIJG_00296	CDS	216	rpmE		COG0254	50S ribosomal protein L31
+MINDJIJG_00297	CDS	252				hypothetical protein
+MINDJIJG_00298	CDS	627	lspA	3.4.23.36		Lipoprotein signal peptidase
+MINDJIJG_00299	CDS	2667	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+MINDJIJG_00300	CDS	2418	leuS	6.1.1.4		Leucine--tRNA ligase
+MINDJIJG_00301	CDS	1233				hypothetical protein
+MINDJIJG_00302	CDS	1254				hypothetical protein
+MINDJIJG_00303	CDS	1371				hypothetical protein
+MINDJIJG_00304	CDS	444				hypothetical protein
+MINDJIJG_00305	CDS	1797	tkt	2.2.1.1		Transketolase
+MINDJIJG_00306	CDS	312				hypothetical protein
+MINDJIJG_00307	CDS	558	efp			Elongation factor P
+MINDJIJG_00308	CDS	765	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+MINDJIJG_00309	CDS	1131				hypothetical protein
+MINDJIJG_00310	CDS	156				hypothetical protein
+MINDJIJG_00311	CDS	348				hypothetical protein
+MINDJIJG_00312	CDS	549	ppa	3.6.1.1		Inorganic pyrophosphatase
+MINDJIJG_00313	CDS	621	ruvA	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvA
+MINDJIJG_00314	CDS	954	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+MINDJIJG_00315	CDS	2697				hypothetical protein
+MINDJIJG_00316	CDS	1278	hisZ			ATP phosphoribosyltransferase regulatory subunit
+MINDJIJG_00317	CDS	1686	aspS	6.1.1.12		Aspartate--tRNA ligase
+MINDJIJG_00318	CDS	252				hypothetical protein
+MINDJIJG_00319	CDS	2154	rnr	3.1.13.1	COG0557	Ribonuclease R
+MINDJIJG_00320	CDS	432	smpB		COG0691	SsrA-binding protein
+MINDJIJG_00321	tmRNA	371	ssrA			transfer-messenger RNA, SsrA
+MINDJIJG_00322	CDS	183				hypothetical protein
+MINDJIJG_00323	CDS	924	folD		COG0190	Bifunctional protein FolD protein
+MINDJIJG_00324	CDS	660				hypothetical protein
+MINDJIJG_00325	CDS	567	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+MINDJIJG_00326	CDS	783				hypothetical protein
+MINDJIJG_00327	CDS	369				hypothetical protein
+MINDJIJG_00328	CDS	798	ecfA1	7.-.-.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA1
+MINDJIJG_00329	CDS	1038	ecfA2	3.6.3.-		Energy-coupling factor transporter ATP-binding protein EcfA2
+MINDJIJG_00330	CDS	948	ecfT			Energy-coupling factor transporter transmembrane protein EcfT
+MINDJIJG_00331	CDS	2007	ligA	6.5.1.2	COG0272	DNA ligase
+MINDJIJG_00332	CDS	1212				hypothetical protein
+MINDJIJG_00333	CDS	513				hypothetical protein
+MINDJIJG_00334	CDS	732	yebC		COG0217	putative transcriptional regulatory protein YebC
+MINDJIJG_00335	CDS	963				hypothetical protein
+MINDJIJG_00336	CDS	1164	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+MINDJIJG_00337	CDS	1191				hypothetical protein
+MINDJIJG_00338	CDS	966				hypothetical protein
+MINDJIJG_00339	CDS	798				hypothetical protein
+MINDJIJG_00340	CDS	849				hypothetical protein
+MINDJIJG_00341	CDS	2100				hypothetical protein
+MINDJIJG_00342	CDS	504	recU	3.1.22.4	COG3331	Holliday junction resolvase RecU
+MINDJIJG_00343	CDS	282	hup			DNA-binding protein HU
+MINDJIJG_00344	CDS	984	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+MINDJIJG_00345	CDS	1323	der_1			GTPase Der
+MINDJIJG_00346	CDS	684	cmk	2.7.4.25	COG0283	Cytidylate kinase
+MINDJIJG_00347	CDS	330				hypothetical protein
+MINDJIJG_00348	CDS	1032				hypothetical protein
+MINDJIJG_00349	CDS	6090				hypothetical protein
+MINDJIJG_00350	CDS	1839	topA	5.6.2.1		DNA topoisomerase 1
+MINDJIJG_00351	CDS	1134	dnaJ		COG0484	Chaperone protein DnaJ
+MINDJIJG_00352	CDS	708	prmC	2.1.1.297		Release factor glutamine methyltransferase
+MINDJIJG_00353	CDS	1080	prfA		COG0216	Peptide chain release factor 1
+MINDJIJG_00354	tRNA	75				tRNA-Thr(ggt)
+MINDJIJG_00355	tRNA	76				tRNA-Trp(tca)
+MINDJIJG_00356	CDS	225	acpP			Acyl carrier protein
+MINDJIJG_00357	CDS	600				hypothetical protein
+MINDJIJG_00358	CDS	1146				hypothetical protein
+MINDJIJG_00359	CDS	339				hypothetical protein
+MINDJIJG_00360	CDS	723	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+MINDJIJG_00361	CDS	309				hypothetical protein
+MINDJIJG_00362	CDS	732	tpiA	5.3.1.1		Triosephosphate isomerase
+MINDJIJG_00363	CDS	525				hypothetical protein
+MINDJIJG_00364	CDS	1104				hypothetical protein
+MINDJIJG_00365	CDS	624				hypothetical protein
+MINDJIJG_00366	CDS	549				hypothetical protein
+MINDJIJG_00367	CDS	504				hypothetical protein
+MINDJIJG_00368	CDS	2430				hypothetical protein
+MINDJIJG_00369	CDS	945				hypothetical protein
+MINDJIJG_00370	CDS	1914				hypothetical protein
+MINDJIJG_00371	CDS	1020				hypothetical protein
+MINDJIJG_00372	CDS	1071	orr	5.1.1.12	COG3457	Ornithine racemase
+MINDJIJG_00373	CDS	276				hypothetical protein
+MINDJIJG_00374	CDS	603				IS3 family transposase ISMmy2
+MINDJIJG_00375	CDS	1080				hypothetical protein
+MINDJIJG_00376	CDS	396	cdd	3.5.4.5	COG0295	Cytidine deaminase
+MINDJIJG_00377	CDS	258	rpsP		COG0228	30S ribosomal protein S16
+MINDJIJG_00378	CDS	669	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+MINDJIJG_00379	CDS	357	rplS		COG0335	50S ribosomal protein L19
+MINDJIJG_00380	CDS	1374				hypothetical protein
+MINDJIJG_00381	CDS	1236	tyrS1	6.1.1.1	COG0162	Tyrosine--tRNA ligase 1
+MINDJIJG_00382	CDS	882				DegV domain-containing protein
+MINDJIJG_00383	CDS	264	rpmA		COG0211	50S ribosomal protein L27
+MINDJIJG_00384	CDS	303	rplU			50S ribosomal protein L21
+MINDJIJG_00385	CDS	570				hypothetical protein
+MINDJIJG_00386	CDS	768	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+MINDJIJG_00387	CDS	1734				hypothetical protein
+MINDJIJG_00388	CDS	4734				hypothetical protein
+MINDJIJG_00389	CDS	1002				hypothetical protein
+MINDJIJG_00390	CDS	153	rpmG1		COG0267	50S ribosomal protein L33 1
+MINDJIJG_00391	CDS	1047	ypdF	3.4.11.-	COG0006	Aminopeptidase YpdF
+MINDJIJG_00392	CDS	759				hypothetical protein
+MINDJIJG_00393	CDS	852	nfo	3.1.21.2	COG0648	putative endonuclease 4
+MINDJIJG_00394	CDS	1617	rpoD			RNA polymerase sigma factor RpoD
+MINDJIJG_00395	CDS	1860	dnaG	2.7.7.-		DNA primase
+MINDJIJG_00396	CDS	1377	glyQS	6.1.1.14		Glycine--tRNA ligase
+MINDJIJG_00397	CDS	1329	ffh		COG0541	Signal recognition particle protein
+MINDJIJG_00398	CDS	3240	smc_2			Chromosome partition protein Smc
+MINDJIJG_00399	CDS	981	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+MINDJIJG_00400	CDS	1149	metK	2.5.1.6		S-adenosylmethionine synthase
+MINDJIJG_00401	tRNA	74				tRNA-Trp(cca)
+MINDJIJG_00402	CDS	1674				hypothetical protein
+MINDJIJG_00403	CDS	1167				hypothetical protein
+MINDJIJG_00404	CDS	1140				hypothetical protein
+MINDJIJG_00405	CDS	336				hypothetical protein
+MINDJIJG_00406	CDS	1320	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+MINDJIJG_00407	CDS	969	ldh	1.1.1.27		L-lactate dehydrogenase
+MINDJIJG_00408	CDS	744	yusV		COG1120	putative siderophore transport system ATP-binding protein YusV
+MINDJIJG_00409	CDS	2811	mgtA	7.2.2.14	COG0474	Magnesium-transporting ATPase, P-type 1
+MINDJIJG_00410	CDS	975	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+MINDJIJG_00411	CDS	1146	ftsZ			Cell division protein FtsZ
+MINDJIJG_00412	CDS	1068				hypothetical protein
+MINDJIJG_00413	CDS	903	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+MINDJIJG_00414	CDS	441	mraZ			Transcriptional regulator MraZ
+MINDJIJG_00415	tRNA	76				tRNA-Thr(cgt)
+MINDJIJG_00416	tRNA	75				tRNA-Asn(gtt)
+MINDJIJG_00417	tRNA	76				tRNA-Glu(ttc)
+MINDJIJG_00418	tRNA	76				tRNA-Val(tac)
+MINDJIJG_00419	CDS	1824			COG1132	putative ABC transporter ATP-binding protein
+MINDJIJG_00420	CDS	1785	yheI	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+MINDJIJG_00421	CDS	2259				hypothetical protein
+MINDJIJG_00422	tRNA	76				tRNA-Lys(ctt)
+MINDJIJG_00423	tRNA	85				tRNA-Leu(tag)
+MINDJIJG_00424	tRNA	76				tRNA-Thr(tgt)
+MINDJIJG_00425	CDS	864	truB	5.4.99.25		tRNA pseudouridine synthase B
+MINDJIJG_00426	CDS	804		3.1.3.-	COG0561	Putative phosphatase
+MINDJIJG_00427	CDS	726	trmH	2.1.1.34		tRNA (guanosine(18)-2'-O)-methyltransferase
+MINDJIJG_00428	CDS	873				hypothetical protein
+MINDJIJG_00429	CDS	2784				hypothetical protein
+MINDJIJG_00430	CDS	1467	lysS	6.1.1.6		Lysine--tRNA ligase
+MINDJIJG_00431	tRNA	75				tRNA-Arg(cct)
+MINDJIJG_00432	CDS	225				hypothetical protein
+MINDJIJG_00433	CDS	906				hypothetical protein
+MINDJIJG_00434	CDS	1800	lepA	3.6.5.-	COG0481	Elongation factor 4
+MINDJIJG_00435	CDS	2484	lon1	3.4.21.53	COG0466	Lon protease 1
+MINDJIJG_00436	CDS	789	grpE			Protein GrpE
+MINDJIJG_00437	CDS	1053	hrcA			Heat-inducible transcription repressor HrcA
+MINDJIJG_00438	tRNA	77				tRNA-Arg(acg)
+MINDJIJG_00439	tRNA	75				tRNA-Cys(gca)
+MINDJIJG_00440	CDS	903				hypothetical protein
+MINDJIJG_00441	CDS	906				hypothetical protein
+MINDJIJG_00442	CDS	2991	dnaE2	2.7.7.7		Error-prone DNA polymerase
+MINDJIJG_00443	CDS	894	polA	2.7.7.7		DNA polymerase I, thermostable
+MINDJIJG_00444	CDS	1359	atpD_2	7.1.2.2	COG0055	ATP synthase subunit beta
+MINDJIJG_00445	CDS	1539	atpA_2	7.1.2.2		ATP synthase subunit alpha
+MINDJIJG_00446	CDS	2055				hypothetical protein
+MINDJIJG_00447	CDS	468				hypothetical protein
+MINDJIJG_00448	CDS	897				hypothetical protein
+MINDJIJG_00449	CDS	504				hypothetical protein
+MINDJIJG_00450	CDS	1482				hypothetical protein
+MINDJIJG_00451	CDS	2307				hypothetical protein
+MINDJIJG_00452	CDS	2427				Membrane-associated lipoprotein
+MINDJIJG_00453	CDS	1614	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+MINDJIJG_00454	CDS	261				hypothetical protein
+MINDJIJG_00455	CDS	8376				hypothetical protein
+MINDJIJG_00456	CDS	972	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MINDJIJG_00457	CDS	747				hypothetical protein
+MINDJIJG_00458	CDS	2142				hypothetical protein
+MINDJIJG_00459	CDS	1749				hypothetical protein
+MINDJIJG_00460	CDS	321	hit		COG0537	Protein hit
+MINDJIJG_00461	CDS	225				hypothetical protein
+MINDJIJG_00462	CDS	978				hypothetical protein
+MINDJIJG_00463	CDS	1020				hypothetical protein
+MINDJIJG_00464	CDS	1941				Putative ABC transporter ATP-binding protein MG187 
+MINDJIJG_00465	CDS	969				hypothetical protein
+MINDJIJG_00466	CDS	2100				hypothetical protein
+MINDJIJG_00467	CDS	813				hypothetical protein
+MINDJIJG_00468	tRNA	84				tRNA-Leu(caa)
+MINDJIJG_00469	CDS	528				hypothetical protein
+MINDJIJG_00470	CDS	1230	arcA	3.5.3.6		Arginine deiminase
+MINDJIJG_00471	CDS	258				hypothetical protein
+MINDJIJG_00472	CDS	861	fba	4.1.2.13		Fructose-bisphosphate aldolase
+MINDJIJG_00473	CDS	1743	rnj1	3.1.-.-		Ribonuclease J 1
+MINDJIJG_00474	CDS	492				hypothetical protein
+MINDJIJG_00475	CDS	936	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+MINDJIJG_00476	CDS	939	lgt	2.5.1.145		Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+MINDJIJG_00477	CDS	2829	uvrA			UvrABC system protein A
+MINDJIJG_00478	CDS	1176				hypothetical protein
+MINDJIJG_00479	CDS	1422				hypothetical protein
+MINDJIJG_00480	CDS	921	cof	3.6.1.-		HMP-PP phosphatase
+MINDJIJG_00481	CDS	804				hypothetical protein
+MINDJIJG_00482	CDS	498	rplJ		COG0244	50S ribosomal protein L10
+MINDJIJG_00483	CDS	375	rplL		COG0222	50S ribosomal protein L7/L12
+MINDJIJG_00484	CDS	3600	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+MINDJIJG_00485	CDS	4407	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+MINDJIJG_00486	CDS	174				hypothetical protein
+MINDJIJG_00487	CDS	705				hypothetical protein
+MINDJIJG_00488	CDS	396				hypothetical protein
+MINDJIJG_00489	CDS	1086	ysdC	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+MINDJIJG_00490	CDS	399	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+MINDJIJG_00491	CDS	555				hypothetical protein
+MINDJIJG_00492	CDS	936	tsaD	2.3.1.234		tRNA N6-adenosine threonylcarbamoyltransferase
+MINDJIJG_00493	CDS	552	engB			GTP-binding protein EngB
+MINDJIJG_00494	CDS	1974	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+MINDJIJG_00495	CDS	441	rplI			50S ribosomal protein L9
+MINDJIJG_00496	CDS	1398	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+MINDJIJG_00497	CDS	1443				hypothetical protein
+MINDJIJG_00498	CDS	1335				hypothetical protein
+MINDJIJG_00499	CDS	477	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+MINDJIJG_00500	CDS	198				hypothetical protein
+MINDJIJG_00501	CDS	2886				hypothetical protein
+MINDJIJG_00502	CDS	1146	oppB		COG0601	Oligopeptide transport system permease protein OppB
+MINDJIJG_00503	CDS	1275				hypothetical protein
+MINDJIJG_00504	CDS	1167	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+MINDJIJG_00505	CDS	2529	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MINDJIJG_00506	CDS	432	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+MINDJIJG_00507	CDS	1821	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+MINDJIJG_00508	CDS	342	rbfA			Ribosome-binding factor A
+MINDJIJG_00509	CDS	1818	infB			Translation initiation factor IF-2
+MINDJIJG_00510	CDS	303				hypothetical protein
+MINDJIJG_00511	CDS	1641	nusA			Transcription termination/antitermination protein NusA
+MINDJIJG_00512	CDS	3084	hsdR	3.1.21.3		Type I restriction enzyme EcoR124II R protein
+MINDJIJG_00513	CDS	615				hypothetical protein
+MINDJIJG_00514	CDS	282				hypothetical protein
+MINDJIJG_00515	CDS	201				hypothetical protein
+MINDJIJG_00516	CDS	492				hypothetical protein
+MINDJIJG_00517	CDS	5514				hypothetical protein
+MINDJIJG_00518	CDS	501				hypothetical protein
+MINDJIJG_00519	tRNA	77				tRNA-His(gtg)
+MINDJIJG_00520	CDS	1407				hypothetical protein
+MINDJIJG_00521	CDS	297				hypothetical protein
+MINDJIJG_00522	CDS	1680				hypothetical protein
+MINDJIJG_00523	CDS	693				hypothetical protein
+MINDJIJG_00524	CDS	1104	ychF		COG0012	Ribosome-binding ATPase YchF
+MINDJIJG_00525	CDS	588	tdk	2.7.1.21	COG1435	Thymidine kinase
+MINDJIJG_00526	CDS	1737				hypothetical protein
+MINDJIJG_00527	CDS	1896				hypothetical protein
+MINDJIJG_00528	CDS	672	recO			DNA repair protein RecO
+MINDJIJG_00529	CDS	717	deoD	2.4.2.1	COG0813	Purine nucleoside phosphorylase DeoD-type
+MINDJIJG_00530	CDS	1299	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+MINDJIJG_00531	CDS	663	deoC1	4.1.2.4		Deoxyribose-phosphate aldolase 1
+MINDJIJG_00532	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+MINDJIJG_00533	CDS	963	yitU	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+MINDJIJG_00534	CDS	699	rnhC	3.1.26.4	COG1039	Ribonuclease HIII
+MINDJIJG_00535	CDS	1101				hypothetical protein
+MINDJIJG_00536	CDS	240				hypothetical protein
+MINDJIJG_00537	CDS	1626	argS	6.1.1.19		Arginine--tRNA ligase
+MINDJIJG_00538	CDS	1206	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+MINDJIJG_00539	CDS	693		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+MINDJIJG_00540	CDS	936	arcC1	2.7.2.2		Carbamate kinase 1
+MINDJIJG_00541	CDS	1044	arcB	2.1.3.3	COG0078	Ornithine carbamoyltransferase, catabolic
+MINDJIJG_00542	CDS	519	mscL			Large-conductance mechanosensitive channel
+MINDJIJG_00543	tRNA	93				tRNA-Ser(gct)
+MINDJIJG_00544	CDS	681				hypothetical protein
+MINDJIJG_00545	tRNA	77				tRNA-Ile(gat)
+MINDJIJG_00546	CDS	399	rpsI		COG0103	30S ribosomal protein S9
+MINDJIJG_00547	CDS	435	rplM			50S ribosomal protein L13
+MINDJIJG_00548	CDS	663	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+MINDJIJG_00549	CDS	1794				hypothetical protein
+MINDJIJG_00550	CDS	1218				hypothetical protein
+MINDJIJG_00551	CDS	2136				hypothetical protein
+MINDJIJG_00552	CDS	828	der_2			GTPase Der
+MINDJIJG_00553	CDS	558	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+MINDJIJG_00554	CDS	267	rpsO		COG0184	30S ribosomal protein S15
+MINDJIJG_00555	CDS	696				hypothetical protein
+MINDJIJG_00556	CDS	597				hypothetical protein
+MINDJIJG_00557	CDS	363				hypothetical protein
+MINDJIJG_00558	tRNA	84				tRNA-Tyr(gta)
+MINDJIJG_00559	tRNA	75				tRNA-Gln(ttg)
+MINDJIJG_00560	CDS	1350				hypothetical protein
+MINDJIJG_00561	CDS	1869				hypothetical protein
+MINDJIJG_00562	CDS	180				hypothetical protein
+MINDJIJG_00563	CDS	252				hypothetical protein
+MINDJIJG_00564	CDS	309				hypothetical protein
+MINDJIJG_00565	CDS	378				hypothetical protein
+MINDJIJG_00566	CDS	708				hypothetical protein
+MINDJIJG_00567	CDS	555	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+MINDJIJG_00568	CDS	1563		2.1.1.72	COG0286	putative type I restriction enzymeP M protein
+MINDJIJG_00569	CDS	2916				hypothetical protein
+MINDJIJG_00570	CDS	642				hypothetical protein
+MINDJIJG_00571	CDS	1011				hypothetical protein
+MINDJIJG_00572	CDS	1551				hypothetical protein
+MINDJIJG_00573	CDS	2202				hypothetical protein
+MINDJIJG_00574	CDS	525				hypothetical protein
+MINDJIJG_00575	CDS	507				hypothetical protein
+MINDJIJG_00576	CDS	591				hypothetical protein
+MINDJIJG_00577	CDS	588	nusG			Transcription termination/antitermination protein NusG
+MINDJIJG_00578	CDS	240				hypothetical protein
+MINDJIJG_00579	CDS	1656				hypothetical protein
+MINDJIJG_00580	CDS	1149	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+MINDJIJG_00581	CDS	306	vapD	3.1.-.-	COG3309	Endoribonuclease VapD
+MINDJIJG_00582	CDS	864				hypothetical protein
+MINDJIJG_00583	CDS	1971	uvrB		COG0556	UvrABC system protein B
+MINDJIJG_00584	CDS	618				hypothetical protein
+MINDJIJG_00585	CDS	1530				hypothetical protein
+MINDJIJG_00586	CDS	1722				hypothetical protein
+MINDJIJG_00587	CDS	504				hypothetical protein
+MINDJIJG_00588	CDS	618				hypothetical protein
+MINDJIJG_00589	CDS	2187				hypothetical protein
+MINDJIJG_00590	CDS	294				hypothetical protein
+MINDJIJG_00591	CDS	432				hypothetical protein
+MINDJIJG_00592	CDS	219				hypothetical protein
+MINDJIJG_00593	CDS	672				hypothetical protein
+MINDJIJG_00594	CDS	681				hypothetical protein
+MINDJIJG_00595	CDS	987	nrnA_1	3.1.-.-		Bifunctional oligoribonuclease and PAP phosphatase NrnA
+MINDJIJG_00596	CDS	978	nrnA_2	3.1.-.-		Bifunctional oligoribonuclease and PAP phosphatase NrnA
+MINDJIJG_00597	CDS	1080				hypothetical protein
+MINDJIJG_00598	CDS	819				hypothetical protein
+MINDJIJG_00599	CDS	891				hypothetical protein
+MINDJIJG_00600	CDS	534				hypothetical protein
+MINDJIJG_00601	CDS	465				hypothetical protein
+MINDJIJG_00602	CDS	819				hypothetical protein
+MINDJIJG_00603	CDS	1089				hypothetical protein
+MINDJIJG_00604	CDS	483				hypothetical protein
+MINDJIJG_00605	CDS	1185				hypothetical protein
+MINDJIJG_00606	rRNA	1514				16S ribosomal RNA
+MINDJIJG_00607	CDS	714				hypothetical protein
+MINDJIJG_00608	CDS	1107				hypothetical protein
+MINDJIJG_00609	CDS	843				hypothetical protein
+MINDJIJG_00610	CDS	1269				IS3 family transposase ISMmy2
+MINDJIJG_00611	CDS	546				hypothetical protein
+MINDJIJG_00612	CDS	90				hypothetical protein
+MINDJIJG_00613	rRNA	1037				23S ribosomal RNA (partial)
+MINDJIJG_00614	CDS	462				hypothetical protein
+MINDJIJG_00615	CDS	438				hypothetical protein
+MINDJIJG_00616	CDS	786				hypothetical protein
+MINDJIJG_00617	CDS	633				hypothetical protein
+MINDJIJG_00618	CDS	504				hypothetical protein
+MINDJIJG_00619	CDS	252				hypothetical protein
+MINDJIJG_00620	tRNA	71				tRNA-Glu(ttc)
+MINDJIJG_00621	CDS	495				hypothetical protein
+MINDJIJG_00622	CDS	159				hypothetical protein
+MINDJIJG_00623	tRNA	78				tRNA-Leu(taa)
+MINDJIJG_00624	CDS	216				hypothetical protein
+MINDJIJG_00625	tRNA	72				tRNA-Cys(gca)
+MINDJIJG_00626	CDS	243				hypothetical protein
+MINDJIJG_00627	CDS	129				hypothetical protein
+MINDJIJG_00628	CDS	144				hypothetical protein

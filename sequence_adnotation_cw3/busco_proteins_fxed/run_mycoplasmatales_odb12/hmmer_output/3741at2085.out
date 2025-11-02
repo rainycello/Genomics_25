@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00539       -            230 3741                 -            220   3.3e-82  270.5   7.7   1   1     2e-84   3.8e-82  270.3   7.7     1   218     2   226     2   228 0.92 Putative TrmH family tRNA/rRNA methyltransferase
+MINDJIJG_00427       -            241 3741                 -            220   1.2e-32  108.5  15.5   1   1   8.6e-35   1.7e-32  108.0  15.5     5   218    32   236    28   238 0.85 tRNA (guanosine(18)-2'-O)-methyltransferase
+MINDJIJG_00553       -            185 3741                 -            220     3e-09   32.0   0.0   1   1     2e-11     4e-09   31.6   0.0    88   218    22   159     9   161 0.76 tRNA (cytidine(34)-2'-O)-methyltransferase
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/3741at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins_fxed/run_mycoplasmatales_odb12/hmmer_output/3741at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/3741at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:33:13 2025
+# [ok]

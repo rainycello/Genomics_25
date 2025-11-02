@@ -1,0 +1,111 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/bacteria_odb12/hmms/9815296at2.hmm
+# target sequence database:        /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa
+# per-dom hits tabular output:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins_fxed_bact/run_bacteria_odb12/hmmer_output/9815296at2.out
+# number of worker threads:        1
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       9815296  [M=873]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+          0 1027.4  25.0   1.6e-147  488.0   0.5    5.4  5  MINDJIJG_00485  DNA-directed RNA polymerase subunit beta'
+
+
+Domain annotation for each sequence (and alignments):
+>> MINDJIJG_00485  DNA-directed RNA polymerase subunit beta'
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  123.4   0.1   4.4e-40   2.6e-37       2     147 ..      15     179 ..      14     205 .. 0.82
+   2 !  488.0   0.5  2.7e-150  1.6e-147     133     449 ..     272     595 ..     243     617 .. 0.92
+   3 !  195.8   0.4   5.4e-62   3.2e-59     469     662 ..     808    1023 ..     796    1041 .. 0.88
+   4 !  104.6   1.3   2.1e-34   1.2e-31     665     728 ..    1084    1147 ..    1063    1166 .. 0.90
+   5 !  130.4   0.5   3.3e-42     2e-39     726     872 ..    1227    1387 ..    1218    1388 .. 0.88
+
+  Alignments for each domain:
+  == domain 1  score: 123.4 bits;  conditional E-value: 4.4e-40
+         9815296   2 fdkikislaspekirsws.GevkkpetinyrtlkpekdGLfcerifGpvkdyeC.lCg.kykrkykg.......vCercgvevtkskvrrermgh 86 
+                     ++ki+++la+p+++++ws Gev+kpetiny+++kpe+ GLf e ifGp+ dy+C +Cg kyk+  +g       +C++  v++  +  rr +mgh
+  MINDJIJG_00485  15 ISKISLALATPQDVETWShGEVTKPETINYKSYKPERGGLFDEIIFGPMIDYRCpVCGfKYKKVNEGsyctrteLCKQEHVQILPKIARRTHMGH 109
+                     6799*************99***********************************6699899998876433333356667899999********** PP
+
+         9815296  87 ielaapvahiWylkslpsrlgllldlsl.........kdlekvlyfesyvvvdeakmGaeaikellelee 147
+                     i+l +pv+h Wy+k  +s +  ll+l++         ++le+++y+++++v+++ ++ +   ++++e++e
+  MINDJIJG_00485 110 IKLNSPVVHFWYFKVDHSIIYKLLGLKSsngsdvvkrEELENLIYYKNHIVLEDGGLKSLPKNQIIEINE 179
+                     ************************986422222222268*************998877666666666655 PP
+
+  == domain 2  score: 488.0 bits;  conditional E-value: 2.7e-150
+         9815296 133 kmGaeaikelleleeel.ekkkkllkrlkvveafle.gnkpewmilevlpvippdlrPlvqldggrfatsdlndlYrrvinrnnrLkrllel.kp 224
+                     ++ ae i++  ++ ++  + ++kl+krl+v++af+e +++p+ m++  lpvip+dlrPl+qldggr++tsd+n+lYrrvi+rnnrL++++e   p
+  MINDJIJG_00485 272 RLNAEEINNPERFATTAkQTREKLYKRLQVINAFIEsKQDPTSMLIYNLPVIPADLRPLIQLDGGRHSTSDINELYRRVIIRNNRLQQWQEKdAP 366
+                     55666666666655544156899***********872568*************************************************997369 PP
+
+         9815296 225 eiivrnekrmlqeavdalldngrrg.ravtgankrplkslsdmlkGkqGrfrqnlLGkrvdysgrsvivvgpelklhqcGlPkkmalelfkPfvi 318
+                      ++++ne rm+qeavdal+dn+rr+ ++v ++++rp+ks+sd+l Gk+GrfrqnlLGkrvdysgrsvi vgp+lk+hqcG+P++ma +lf+P++i
+  MINDJIJG_00485 367 TLVIQNELRMIQEAVDALIDNQRRTpNPVLSKDNRPFKSISDALTGKKGRFRQNLLGKRVDYSGRSVIAVGPSLKMHQCGIPREMAAKLFEPWII 461
+                     **********************997489******************************************************************* PP
+
+         9815296 319 kkle.kglaktiksakklve..rpevwdvleevikehpvllnraPtLhrlgiqafepvlvegkaiqlhPlvctafnaDfDGdqmavhvplsleaq 410
+                     ++l+ k++a+tiksakk++e  +p +w  + e ik++ vllnraPtLhrl+iqafepvlv gkai+lhPlvct fnaDfDGdqmavhvp+s++a 
+  MINDJIJG_00485 462 ERLIeKEVATTIKSAKKIIEdqNPVIWPHVAEAIKGRLVLLNRAPTLHRLSIQAFEPVLVRGKAIRLHPLVCTPFNADFDGDQMAVHVPVSEQAL 556
+                     **86267899*********933468********************************************************************** PP
+
+         9815296 411 learvlmlssnnilspadGkpiivpsqdivlGlyyltke 449
+                     le+r lml+++nil p+dG+pii psqd+vlG+yylt e
+  MINDJIJG_00485 557 LESRELMLANKNILGPKDGEPIINPSQDMVLGIYYLTIE 595
+                     *************************************87 PP
+
+  == domain 3  score: 195.8 bits;  conditional E-value: 5.4e-62
+         9815296  469 sklieevlkklgketaelldklkelgfklatkagisisvedlvvpeekkeileeaekeveeiekqyekGliteeerynkvidiwskateevae 561 
+                      ++++++v  ++++ +a++ld++k+lgf+++t +gisis++d+  +++k+e++++ ++ ++++++ ye+G it+++ry+ +i+ w+++++ ++e
+  MINDJIJG_00485  808 AEILDTVWFRYTNIVASILDSIKQLGFDYSTYSGISISFSDILETNKKQEYIAQGDEYIAKLKHYYEQGWITDDDRYSLTIKKWAEVKDLIQE 900 
+                      6799999999******************************************************************************99988 PP
+
+         9815296  562 almk.......lsiymmadsgargsaeqirqlagmrGlmakp...............eiietpiksnfreGlsvleyfisthGarkgladtal 632 
+                      +l+k       +++++m++sgarg++++  qlagmrGlma++               +++e+p+ks+f eGl+ +e++ sthGarkgl+dtal
+  MINDJIJG_00485  901 DLQKiikenpqNPVITMINSGARGNISNYVQLAGMRGLMANNtkttkadakndrvvrSTVEVPVKSSFIEGLTAFEFYSSTHGARKGLTDTAL 993 
+                      7764222222269**************************975233333333333333479********************************* PP
+
+         9815296  633 ktadsGyltrrlvdvaqdvivreedcgtel 662 
+                      +ta+sGyltrrlvdvaq+++vree+cgt+ 
+  MINDJIJG_00485  994 NTAKSGYLTRRLVDVAQNIVVREENCGTDY 1023
+                      ***************************985 PP
+
+  == domain 4  score: 104.6 bits;  conditional E-value: 2.1e-34
+         9815296  665 eevkvrsvltceskkgvcakcyGrdlatgklvevgeavGviaaqsiGePGtqLtlrtfhiGGvk 728 
+                      eev++rs+l c++++gvc++c+G+dlat+++v++geavG+iaaqsiGePGtqLt+rtfh+GGv 
+  MINDJIJG_00485 1084 EEVEIRSILGCNTRNGVCKMCFGKDLATNRIVNIGEAVGIIAAQSIGEPGTQLTMRTFHTGGVA 1147
+                      79************************************************************85 PP
+
+  == domain 5  score: 130.4 bits;  conditional E-value: 3.3e-42
+         9815296  726 GvkveageklteGsvepkdilvve...avqeylvkevqevyrlqgvkindkhievivrqm.rkveiedsgdt.llegelvdkaeleeene... 810 
+                      G +++ g+k++eG++  k++l  +   +vq+yl+ke+q++yr+qg+ i+dk+ie+i+rqm +k+ i+++gd+ +++g +vd+++++een+   
+  MINDJIJG_00485 1227 GDELRIGQKISEGPIILKELLALTdviTVQNYLLKEIQRIYRIQGIAISDKYIEIIIRQMmSKLVISEPGDSkFFAGAIVDIFDYQEENAill 1319
+                      677899***************976222579*****************************637999******86889************97333 PP
+
+         9815296  811 ......akaekvllgitkaslatesflsaasfqettrvlteaaikgkvdeleglkenvivGklipagt 872 
+                            a  + v+ g ++  l ++sfl+aas+qet+++l +aai+++ d+l+glken+i+Gk+ip+gt
+  MINDJIJG_00485 1320 skglkpAYGKVVIKGAKQVPLLSDSFLAAASYQETSKILVHAAISSRIDNLSGLKENIILGKKIPSGT 1387
+                      33333345677899*****************************************************9 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (873 nodes)
+Target sequences:                        589  (207714 residues searched)
+Passed MSV filter:                        37  (0.0628183); expected 11.8 (0.02)
+Passed bias filter:                       12  (0.0203735); expected 11.8 (0.02)
+Passed Vit filter:                         1  (0.00169779); expected 0.6 (0.001)
+Passed Fwd filter:                         1  (0.00169779); expected 0.0 (1e-05)
+Initial search space (Z):                589  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.03u 0.00s 00:00:00.03 Elapsed: 00:00:00.02
+# Mc/sec: 6400.03
+//
+[ok]

@@ -1,0 +1,2 @@
+Assembly	# misassemblies	    # relocations	    # translocations	    # inversions	# misassembled contigs	Misassembled contigs length	# local misassemblies	# mismatches	# indels	    # short indels	    # long indels	Indels length
+smart_nanopore_10	95	95	0	0	39	900541	62	2240	4371	4303	68	6013

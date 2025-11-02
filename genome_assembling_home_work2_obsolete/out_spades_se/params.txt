@@ -1,0 +1,32 @@
+Command line: /home/genomika24/miniconda3/envs/dmytro_boi/bin/spades.py	-s	/home/genomika24/dmytro_boi/genome_assembling_home_work2/illumina_se.fq	-o	/home/genomika24/dmytro_boi/genome_assembling_home_work2/out_spades_se	--isolate	
+
+System information:
+  SPAdes version: 4.0.0
+  Python version: 3.13.0
+  OS: Linux-5.15.0-124-generic-x86_64-with-glibc2.35
+
+Output dir: /home/genomika24/dmytro_boi/genome_assembling_home_work2/out_spades_se
+Mode: ONLY assembling (without read error correction)
+Debug mode is turned OFF
+
+Dataset parameters:
+  Isolate mode
+  Reads:
+    Library number: 1, library type: single
+      left reads: not specified
+      right reads: not specified
+      interlaced reads: not specified
+      single reads: ['/home/genomika24/dmytro_boi/genome_assembling_home_work2/illumina_se.fq']
+      merged reads: not specified
+Assembly parameters:
+  k: automatic selection based on read length
+  Repeat resolution is enabled
+  Mismatch careful mode is turned OFF
+  MismatchCorrector will be SKIPPED
+  Coverage cutoff is turned OFF
+  Assembly graph output will use GFA v1.2 format
+Other parameters:
+  Dir for temp files: /home/genomika24/dmytro_boi/genome_assembling_home_work2/out_spades_se/tmp
+  Threads: 16
+  Memory limit (in Gb): 250
+

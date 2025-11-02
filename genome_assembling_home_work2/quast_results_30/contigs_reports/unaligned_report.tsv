@@ -1,0 +1,8 @@
+Assembly	smart_nanopore_30
+# fully unaligned contigs	84
+Fully unaligned length	1482493
+# partially unaligned contigs	67
+    # with misassembly	20
+    # both parts are significant	46
+Partially unaligned length	907190
+# N's	0

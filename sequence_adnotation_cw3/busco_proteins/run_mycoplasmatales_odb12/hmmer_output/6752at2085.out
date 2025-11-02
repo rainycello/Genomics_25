@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00174       -            403 6752                 -            715    8e-190  628.9  22.1   1   1  3.7e-192  8.9e-190  628.8  22.1     1   400     1   403     1   403 0.98 Chaperone protein ClpB
+MINDJIJG_00173       -            294 6752                 -            715  4.8e-141  467.7   7.1   1   1  2.2e-143  5.2e-141  467.6   7.1   421   710     2   290     1   294 0.98 Chaperone protein ClpB
+MINDJIJG_00860       -            495 6752                 -            715   1.3e-07   26.7   3.6   1   1   1.2e-08   2.9e-06   22.2   3.5   428   695    37   284    22   295 0.77 Lon protease 1
+MINDJIJG_00414       -            242 6752                 -            715   0.00014   16.6   0.4   1   2   0.00045      0.11    7.0   0.0   453   480    33    60    22    67 0.86 Replication-associated recombination protein A
+MINDJIJG_00414       -            242 6752                 -            715   0.00014   16.6   0.4   2   2   0.00037     0.088    7.3   0.1   126   206    83   150    67   159 0.77 Replication-associated recombination protein A
+MINDJIJG_00990       -             98 6752                 -            715    0.0024   12.5   0.0   1   1     1e-05    0.0024   12.5   0.0    38    79    10    52     2    96 0.84 hypothetical protein
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/6752at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins/run_mycoplasmatales_odb12/hmmer_output/6752at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/6752at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:30:30 2025
+# [ok]

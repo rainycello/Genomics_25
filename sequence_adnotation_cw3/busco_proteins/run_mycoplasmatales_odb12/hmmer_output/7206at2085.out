@@ -1,0 +1,30 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00064       -            281 7206                 -            289  2.8e-106  350.9  16.9   1   1  3.2e-108  3.2e-106  350.7  16.9     1   276     2   281     2   281 0.97 GTPase Era
+MINDJIJG_00100       -            251 7206                 -            289   4.3e-24   81.2   3.5   1   2      0.33        34   -0.5   1.9   145   167    42    64    11   108 0.50 tRNA modification GTPase MnmE
+MINDJIJG_00100       -            251 7206                 -            289   4.3e-24   81.2   3.5   2   2   4.2e-26   4.3e-24   81.2   3.5     2   127   112   236   111   249 0.92 tRNA modification GTPase MnmE
+MINDJIJG_00687       -            179 7206                 -            289   7.6e-24   80.3   1.1   1   2    0.0031      0.31    6.1   0.0   128   169    11    52     3    60 0.83 GTPase Der
+MINDJIJG_00687       -            179 7206                 -            289   7.6e-24   80.3   1.1   2   2   2.3e-23   2.3e-21   72.2   1.6     4   119    60   179    57   179 0.84 GTPase Der
+MINDJIJG_00688       -             47 7206                 -            289   4.7e-14   48.2   0.1   1   1   4.8e-16   4.8e-14   48.2   0.1     1    42     1    42     1    46 0.94 GTPase Der
+MINDJIJG_00859       -            254 7206                 -            289   1.5e-09   33.5   2.0   1   1   1.6e-10   1.6e-08   30.1   2.0     4   168     7   179     4   191 0.74 Elongation factor 4
+MINDJIJG_00375       -            383 7206                 -            289   1.8e-08   29.9   0.3   1   1   3.2e-10   3.3e-08   29.0   0.1     6   176   159   333   154   345 0.69 GTPase Obg
+MINDJIJG_01033       -            247 7206                 -            289     5e-07   25.2   0.5   1   2         1     1e+02   -2.1   0.5   128   161    68   101    40   109 0.48 Translation initiation factor IF-2
+MINDJIJG_01033       -            247 7206                 -            289     5e-07   25.2   0.5   2   2     5e-09     5e-07   25.2   0.5     5   136   117   238   114   244 0.80 Translation initiation factor IF-2
+MINDJIJG_00994       -             94 7206                 -            289   1.3e-06   23.8   4.6   1   1   1.5e-08   1.5e-06   23.6   4.6    81   160    10    90     3    93 0.92 GTP-binding protein EngB
+MINDJIJG_01115       -            149 7206                 -            289   1.9e-06   23.3   0.4   1   2     0.023       2.3    3.3   4.4    85   174    17   101     6   110 0.65 Ribosome biogenesis GTPase A
+MINDJIJG_01115       -            149 7206                 -            289   1.9e-06   23.3   0.4   2   2   1.8e-08   1.9e-06   23.3   0.4     6    39   113   146   108   148 0.88 Ribosome biogenesis GTPase A
+MINDJIJG_01060       -            296 7206                 -            289   4.2e-05   18.8   5.5   1   1   3.4e-06   0.00034   15.8   4.8     5   154     4   168     1   209 0.58 Ribosome-binding ATPase YchF
+MINDJIJG_00811       -             76 7206                 -            289   0.00013   17.2   0.1   1   1   1.6e-06   0.00016   16.9   0.1     5    26    33    54    29    68 0.91 putative ABC transporter ATP-binding protein
+MINDJIJG_00263       -            283 7206                 -            289   0.00014   17.1   3.1   1   2      0.14        14    0.7   0.2   100   128    92   120    56   137 0.62 Small ribosomal subunit biogenesis GTPase RsgA
+MINDJIJG_00263       -            283 7206                 -            289   0.00014   17.1   3.1   2   2   2.2e-06   0.00022   16.4   0.1     8    68   155   217   148   232 0.81 Small ribosomal subunit biogenesis GTPase RsgA
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7206at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins/run_mycoplasmatales_odb12/hmmer_output/7206at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7206at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:30:31 2025
+# [ok]

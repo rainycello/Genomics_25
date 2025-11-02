@@ -1,0 +1,38 @@
+æ---
+max read length: 100
+nomerge max read length: 100
+average read length: 99.9568
+average coverage: 10.0356
+libraries:
+  - type:            paired-end
+    number:          1
+    orientation:     fr
+    left reads:
+      - '/home/genomika24/dmytro_boi/genome_assembling_home_work2/out_spades_25x/corrected/illumina_mp100.0_0.cor.fastq.gz'
+    right reads:
+      - '/home/genomika24/dmytro_boi/genome_assembling_home_work2/out_spades_25x/corrected/illumina_mp200.0_0.cor.fastq.gz'
+    single reads:
+      - '/home/genomika24/dmytro_boi/genome_assembling_home_work2/out_spades_25x/corrected/illumina_mp_unpaired00.0_0.cor.fastq.gz'
+    data:
+      unmerged read length: 100
+      merged read length: 0
+      insert size mean: 0
+      insert size deviation: 0
+      insert size left quantile: 0
+      insert size right quantile: 0
+      insert size median: 0
+      insert size mad: 0
+      insert size distribution: {  }
+      pi threshold:    0
+      binary reads info:
+        binary converted: true
+        bin reads info file: '/home/genomika24/dmytro_boi/genome_assembling_home_work2/out_spades_25x/.bin_reads/INFO_0'
+        paired read prefix: '/home/genomika24/dmytro_boi/genome_assembling_home_work2/out_spades_25x/.bin_reads/paired_0'
+        merged read prefix: '/home/genomika24/dmytro_boi/genome_assembling_home_work2/out_spades_25x/.bin_reads/merged_0'
+        single read prefix: '/home/genomika24/dmytro_boi/genome_assembling_home_work2/out_spades_25x/.bin_reads/single_0'
+        chunk num:       16
+      single reads mapped: false
+      library index:   0
+      number of reads: 41624
+      total nucleotides: 4160601
+...

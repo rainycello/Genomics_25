@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00181       -            248 7035                 -            498  6.1e-128  423.7   5.7   1   1  2.8e-130  6.9e-128  423.5   5.7     3   247     4   248     2   248 0.99 ATP synthase subunit alpha
+MINDJIJG_00182       -            233 7035                 -            498  1.9e-127  422.1   0.3   1   1  8.5e-130  2.1e-127  422.0   0.3   249   466     1   218     1   233 0.97 ATP synthase subunit alpha
+MINDJIJG_00877       -            314 7035                 -            498   1.6e-96  320.1   3.2   1   1   8.8e-99   2.1e-96  319.7   3.2   124   428     4   302     2   311 0.96 ATP synthase subunit alpha
+MINDJIJG_00185       -            495 7035                 -            498   1.2e-32  109.3   0.4   1   1   6.4e-35   1.6e-32  109.0   0.4    56   422    67   433     7   466 0.89 ATP synthase subunit beta
+MINDJIJG_00874       -            349 7035                 -            498   5.8e-12   41.1   0.1   1   1   2.9e-14   7.1e-12   40.9   0.1   142   422    15   297     8   346 0.79 ATP synthase subunit beta
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7035at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins/run_mycoplasmatales_odb12/hmmer_output/7035at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7035at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:30:31 2025
+# [ok]

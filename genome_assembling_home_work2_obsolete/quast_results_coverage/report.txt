@@ -1,0 +1,25 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    spades_output_25x_contigs  spades_output_50x_contigs  spades_output_100x_contigs
+# contigs (>= 0 bp)         2                          2                          2                         
+# contigs (>= 1000 bp)      2                          2                          2                         
+# contigs (>= 5000 bp)      2                          2                          2                         
+# contigs (>= 10000 bp)     2                          2                          2                         
+# contigs (>= 25000 bp)     2                          2                          2                         
+# contigs (>= 50000 bp)     2                          2                          2                         
+Total length (>= 0 bp)      199982                     199978                     199985                    
+Total length (>= 1000 bp)   199982                     199978                     199985                    
+Total length (>= 5000 bp)   199982                     199978                     199985                    
+Total length (>= 10000 bp)  199982                     199978                     199985                    
+Total length (>= 25000 bp)  199982                     199978                     199985                    
+Total length (>= 50000 bp)  199982                     199978                     199985                    
+# contigs                   2                          2                          2                         
+Largest contig              99996                      99995                      99994                     
+Total length                199982                     199978                     199985                    
+GC (%)                      36.17                      36.16                      36.17                     
+N50                         99996                      99995                      99994                     
+N90                         99986                      99983                      99991                     
+auN                         99991.0                    99989.0                    99992.5                   
+L50                         1                          1                          1                         
+L90                         2                          2                          2                         
+# N's per 100 kbp           0.00                       0.00                       0.00                      

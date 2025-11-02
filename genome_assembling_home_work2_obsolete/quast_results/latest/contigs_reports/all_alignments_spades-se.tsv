@@ -1,0 +1,137 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+183866	184914	1049	1	1	NODE_1_length_99993_cov_18.981364	99.93		True
+relocation, inconsistency = 13880
+162726	169985	8304	1050	1	NODE_1_length_99993_cov_18.981364	99.63		True
+relocation, inconsistency = 3223
+156469	159502	11338	8305	1	NODE_1_length_99993_cov_18.981364	99.7		True
+relocation, inconsistency = 4517
+151104	151951	12186	11339	1	NODE_1_length_99993_cov_18.981364	99.83		True
+local misassembly
+148076	150158	14269	12187	1	NODE_1_length_99993_cov_18.981364	99.76		True
+relocation, inconsistency = 3899
+142420	144099	16026	14347	1	NODE_1_length_99993_cov_18.981364	99.78		True
+relocation, inconsistency = 4046
+133454	138373	20894	16027	1	NODE_1_length_99993_cov_18.981364	98.56		True
+relocation, inconsistency = 4011
+119237	129442	30834	20895	1	NODE_1_length_99993_cov_18.981364	96.01		True
+relocation, inconsistency = 5305
+112234	113931	32532	30835	1	NODE_1_length_99993_cov_18.981364	99.75		True
+relocation, inconsistency = 1004
+109969	111229	33807	32533	1	NODE_1_length_99993_cov_18.981364	98.67		True
+relocation, inconsistency = 1881
+107589	108087	34306	33808	1	NODE_1_length_99993_cov_18.981364	99.82		True
+local misassembly
+103862	106733	37164	34307	1	NODE_1_length_99993_cov_18.981364	99.41		True
+indel: indel (> 5bp)
+101844	103861	39230	37213	1	NODE_1_length_99993_cov_18.981364	99.65		True
+relocation, inconsistency = 1043
+97987	100800	42028	39231	1	NODE_1_length_99993_cov_18.981364	99.29		True
+indel: indel (> 5bp)
+96111	97926	43844	42029	1	NODE_1_length_99993_cov_18.981364	99.61		True
+indel: indel (> 5bp)
+95707	96061	44199	43845	1	NODE_1_length_99993_cov_18.981364	100.0		True
+relocation, inconsistency = 6612
+87633	88966	45661	44328	1	NODE_1_length_99993_cov_18.981364	99.48		True
+indel: indel (> 5bp)
+86865	87611	46390	45662	1	NODE_1_length_99993_cov_18.981364	97.32		True
+local misassembly
+83338	86446	49499	46391	1	NODE_1_length_99993_cov_18.981364	99.42		True
+indel: indel (> 5bp)
+81663	83300	51141	49500	1	NODE_1_length_99993_cov_18.981364	99.45		True
+indel: indel (> 5bp)
+79932	81662	52904	51174	1	NODE_1_length_99993_cov_18.981364	99.65		True
+local misassembly
+79093	79541	53357	52905	1	NODE_1_length_99993_cov_18.981364	98.91		True
+local misassembly
+75772	78282	55868	53358	1	NODE_1_length_99993_cov_18.981364	99.8		True
+indel: indel (> 5bp)
+71624	75729	59974	55869	1	NODE_1_length_99993_cov_18.981364	99.83		True
+indel: indel (> 5bp)
+69786	71520	61701	59975	1	NODE_1_length_99993_cov_18.981364	99.02		True
+indel: indel (> 5bp)
+66452	69743	64992	61702	1	NODE_1_length_99993_cov_18.981364	99.67		True
+relocation, inconsistency = 1780
+64269	64585	65395	65079	1	NODE_1_length_99993_cov_18.981364	99.68		True
+indel: indel (> 5bp)
+62834	64217	66794	65396	1	NODE_1_length_99993_cov_18.981364	98.76		True
+relocation, inconsistency = 1445
+53821	61388	74355	66795	1	NODE_1_length_99993_cov_18.981364	99.71		True
+relocation, inconsistency = 1013
+50717	52807	76446	74356	1	NODE_1_length_99993_cov_18.981364	99.62		True
+indel: indel (> 5bp)
+49027	50672	78092	76447	1	NODE_1_length_99993_cov_18.981364	99.66		True
+relocation, inconsistency = 7726
+34692	41300	84725	78093	1	NODE_1_length_99993_cov_18.981364	98.39		True
+relocation, inconsistency = 4290
+26669	30401	88402	84726	1	NODE_1_length_99993_cov_18.981364	97.56		True
+relocation, inconsistency = 3864
+21926	22804	89281	88403	1	NODE_1_length_99993_cov_18.981364	98.95		True
+indel: indel (> 5bp)
+21564	21925	89746	89385	1	NODE_1_length_99993_cov_18.981364	99.48		True
+relocation, inconsistency = 11133
+4	10430	99993	89747	1	NODE_1_length_99993_cov_18.981364	98.0		True
+CONTIG	NODE_1_length_99993_cov_18.981364	99993	misassembled
+5	3161	1	3159	0	NODE_2_length_99979_cov_19.069929	99.78		True
+relocation, inconsistency = 1005
+4167	5417	3160	4410	0	NODE_2_length_99979_cov_19.069929	99.76		True
+indel: indel (> 5bp)
+5418	8494	4570	7660	0	NODE_2_length_99979_cov_19.069929	99.32		True
+indel: indel (> 5bp)
+8675	11349	7661	10333	0	NODE_2_length_99979_cov_19.069929	99.66		True
+indel: indel (> 5bp)
+11397	12132	10334	11069	0	NODE_2_length_99979_cov_19.069929	99.77		True
+relocation, inconsistency = 2038
+14171	18161	11070	15060	0	NODE_2_length_99979_cov_19.069929	99.65		True
+relocation, inconsistency = 14905
+33067	38734	15061	20738	0	NODE_2_length_99979_cov_19.069929	99.26		True
+relocation, inconsistency = 1020
+39755	56904	20739	37837	0	NODE_2_length_99979_cov_19.069929	97.86		True
+relocation, inconsistency = 9589
+66494	67140	37838	38484	0	NODE_2_length_99979_cov_19.069929	99.58		True
+indel: indel (> 5bp)
+67141	67338	38652	38849	0	NODE_2_length_99979_cov_19.069929	99.4		True
+relocation, inconsistency = 3885
+71224	74229	38850	41861	0	NODE_2_length_99979_cov_19.069929	99.6		True
+local misassembly
+75014	76915	41862	43741	0	NODE_2_length_99979_cov_19.069929	98.58		True
+local misassembly
+77566	78360	43742	44536	0	NODE_2_length_99979_cov_19.069929	99.62		True
+indel: indel (> 5bp)
+78465	79842	44537	45914	0	NODE_2_length_99979_cov_19.069929	99.77		True
+relocation, inconsistency = 33996
+113839	116061	45915	48073	0	NODE_2_length_99979_cov_19.069929	96.76		True
+relocation, inconsistency = 3446
+119508	120590	48074	49156	0	NODE_2_length_99979_cov_19.069929	99.81		True
+indel: indel (> 5bp)
+120591	121659	49186	50254	0	NODE_2_length_99979_cov_19.069929	99.72		True
+indel: indel (> 5bp)
+121772	122192	50255	50675	0	NODE_2_length_99979_cov_19.069929	99.52		True
+indel: indel (> 5bp)
+122193	123819	50711	52337	0	NODE_2_length_99979_cov_19.069929	99.69		True
+indel: indel (> 5bp)
+123820	125879	52489	54543	0	NODE_2_length_99979_cov_19.069929	99.47		True
+indel: indel (> 5bp)
+125880	127173	54591	55884	0	NODE_2_length_99979_cov_19.069929	99.61		True
+indel: indel (> 5bp)
+127214	130438	55885	59109	0	NODE_2_length_99979_cov_19.069929	99.53		True
+relocation, inconsistency = 1134
+131573	131987	59110	59524	0	NODE_2_length_99979_cov_19.069929	100.0		True
+relocation, inconsistency = 1296
+133284	134638	59525	60879	0	NODE_2_length_99979_cov_19.069929	99.76		True
+relocation, inconsistency = 3120
+137759	141439	60880	64533	0	NODE_2_length_99979_cov_19.069929	98.96		True
+local misassembly
+141950	150383	64534	72825	0	NODE_2_length_99979_cov_19.069929	98.0		True
+relocation, inconsistency = 4430
+154814	157584	72826	75596	0	NODE_2_length_99979_cov_19.069929	99.78		True
+local misassembly
+158213	160631	75597	78023	0	NODE_2_length_99979_cov_19.069929	99.43		True
+relocation, inconsistency = 2170
+162802	179541	78024	94802	0	NODE_2_length_99979_cov_19.069929	98.94		True
+relocation, inconsistency = 39639
+219598	220494	95220	96116	0	NODE_2_length_99979_cov_19.069929	99.55		True
+local misassembly
+220719	223436	96117	98834	0	NODE_2_length_99979_cov_19.069929	99.82		True
+relocation, inconsistency = 4721
+228158	229249	98835	99979	0	NODE_2_length_99979_cov_19.069929	95.82		True
+CONTIG	NODE_2_length_99979_cov_19.069929	99979	misassembled

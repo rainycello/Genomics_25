@@ -1,0 +1,21 @@
+Assembly	spades se	spades pe	spades mp
+# misassemblies	33	33	33
+  # contig misassemblies	33	33	33
+    # c. relocations	33	33	33
+    # c. translocations	0	0	0
+    # c. inversions	0	0	0
+  # scaffold misassemblies	0	0	0
+    # s. relocations	0	0	0
+    # s. translocations	0	0	0
+    # s. inversions	0	0	0
+# misassembled contigs	2	2	2
+Misassembled contigs length	199972	199972	199972
+# local misassemblies	10	10	10
+# scaffold gap ext. mis.	0	0	0
+# scaffold gap loc. mis.	0	0	0
+# unaligned mis. contigs	0	0	0
+# mismatches	582	582	582
+# indels	103	103	103
+    # indels (<= 5 bp)	34	34	34
+    # indels (> 5 bp)	69	69	69
+Indels length	3418	3418	3418

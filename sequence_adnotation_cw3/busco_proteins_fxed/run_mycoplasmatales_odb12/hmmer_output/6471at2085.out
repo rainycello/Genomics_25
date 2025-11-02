@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00317       -            561 6471                 -            570  2.9e-241  796.9  10.4   1   1  1.8e-243  3.5e-241  796.6  10.4     3   568     2   557     1   559 0.96 Aspartate--tRNA ligase
+MINDJIJG_00430       -            488 6471                 -            570     1e-36  121.5   4.2   1   2   1.9e-24   3.8e-22   73.4   4.5     9   266    46   303    38   356 0.79 Lysine--tRNA ligase
+MINDJIJG_00430       -            488 6471                 -            570     1e-36  121.5   4.2   2   2   4.9e-16   9.6e-14   45.7   0.0   495   540   437   483   411   486 0.80 Lysine--tRNA ligase
+MINDJIJG_00035       -            448 6471                 -            570   2.2e-32  107.2   1.5   1   2   4.6e-22     9e-20   65.6   0.9     7   274     7   274     1   334 0.83 Asparagine--tRNA ligase
+MINDJIJG_00035       -            448 6471                 -            570   2.2e-32  107.2   1.5   2   2   1.9e-14   3.7e-12   40.5   0.0   453   545   357   446   338   448 0.80 Asparagine--tRNA ligase
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/6471at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins_fxed/run_mycoplasmatales_odb12/hmmer_output/6471at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/6471at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:33:13 2025
+# [ok]

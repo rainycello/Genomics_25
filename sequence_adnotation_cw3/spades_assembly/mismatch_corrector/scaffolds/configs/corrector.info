@@ -1,0 +1,7 @@
+"bwa": "/home/genomika25/miniconda3/envs/genomika/bin/spades-bwa"
+"dataset": "/home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/spades_assembly/input_dataset.yaml"
+"log_filename": "log.properties"
+"max_nthreads": !!int "16"
+"output_dir": "/home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/spades_assembly/mismatch_corrector/scaffolds"
+"strategy": "mapped_squared"
+"work_dir": "/home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/spades_assembly/tmp/corrector_jn1bqw22"

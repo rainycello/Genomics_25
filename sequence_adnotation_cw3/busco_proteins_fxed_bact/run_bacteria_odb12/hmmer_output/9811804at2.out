@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00509       -            605 9811804              -            669    2e-208  689.2  12.1   1   1    2e-210  2.4e-208  689.0  12.1    69   665     9   601     1   604 0.95 Translation initiation factor IF-2
+MINDJIJG_00434       -            599 9811804              -            669   3.1e-23   77.3   1.9   1   1   1.4e-24   1.7e-22   74.9   1.9   175   376     9   221     2   244 0.85 Elongation factor 4
+MINDJIJG_00113       -            397 9811804              -            669     1e-20   69.0   8.5   1   2   5.2e-21   6.1e-19   63.1   7.3   177   372    17   242     4   250 0.77 Elongation factor Tu
+MINDJIJG_00113       -            397 9811804              -            669     1e-20   69.0   8.5   2   2   0.00014     0.017    8.8   0.2   567   650   205   287   174   295 0.77 Elongation factor Tu
+MINDJIJG_00158       -            697 9811804              -            669   2.6e-13   44.5   0.1   1   2      0.41        48   -2.6   0.0   176   187    14    25     5    30 0.83 Elongation factor G
+MINDJIJG_00158       -            697 9811804              -            669   2.6e-13   44.5   0.1   2   2   6.1e-15   7.2e-13   43.0   0.0   205   288    61   146    50   157 0.83 Elongation factor G
+MINDJIJG_00345       -            440 9811804              -            669   4.3e-06   20.7   0.7   1   2    0.0036      0.42    4.2   0.0   302   331   140   163    91   170 0.79 GTPase Der
+MINDJIJG_00345       -            440 9811804              -            669   4.3e-06   20.7   0.7   2   2   3.1e-06   0.00037   14.3   0.5   233   341   247   355   229   365 0.82 GTPase Der
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/bacteria_odb12/hmms/9811804at2.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins_fxed_bact/run_bacteria_odb12/hmmer_output/9811804at2.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/bacteria_odb12/hmms/9811804at2.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:33:49 2025
+# [ok]

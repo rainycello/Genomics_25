@@ -1,0 +1,27 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00314       -            317 9804478              -            303   1.1e-92  305.5   0.1   1   1   1.6e-94   1.2e-92  305.3   0.1     5   302     7   311     3   312 0.95 Holliday junction ATP-dependent DNA helicase RuvB
+MINDJIJG_00197       -            404 9804478              -            303   3.3e-21   70.7   0.0   1   1   1.1e-21     8e-20   66.2   0.0     3   121     9   118     7   233 0.93 Replication-associated recombination protein A
+MINDJIJG_00010       -            739 9804478              -            303   4.2e-13   44.1   0.0   1   1   1.2e-14   8.7e-13   43.1   0.0     5   201   211   419   207   451 0.74 ATP-dependent zinc metalloprotease FtsH
+MINDJIJG_00228       -            667 9804478              -            303   5.8e-12   40.4   0.4   1   2   4.3e-08   3.1e-06   21.5   0.0     2    60    13    67    12    72 0.89 hypothetical protein
+MINDJIJG_00228       -            667 9804478              -            303   5.8e-12   40.4   0.4   2   2   0.00012    0.0086   10.2   0.4    80   212   115   229    93   261 0.61 hypothetical protein
+MINDJIJG_00435       -            827 9804478              -            303   4.9e-09   30.8   3.3   1   2       2.5   1.9e+02   -4.0   0.1    97   125   221   249   219   253 0.78 Lon protease 1
+MINDJIJG_00435       -            827 9804478              -            303   4.9e-09   30.8   3.3   2   2   2.9e-10   2.2e-08   28.6   0.6    39   173   401   552   388   614 0.79 Lon protease 1
+MINDJIJG_00082       -            716 9804478              -            303   5.5e-07   24.0   5.9   1   5    0.0099      0.73    3.9   0.0    38    58    56    76    29    93 0.82 Chaperone protein ClpB
+MINDJIJG_00082       -            716 9804478              -            303   5.5e-07   24.0   5.9   2   5     0.002      0.15    6.2   0.4    72    98   111   137    99   232 0.92 Chaperone protein ClpB
+MINDJIJG_00082       -            716 9804478              -            303   5.5e-07   24.0   5.9   3   5       1.9   1.4e+02   -3.6   0.1   170   207   379   414   372   419 0.56 Chaperone protein ClpB
+MINDJIJG_00082       -            716 9804478              -            303   5.5e-07   24.0   5.9   4   5   9.6e-06    0.0007   13.8   0.0    11    59   431   483   422   490 0.79 Chaperone protein ClpB
+MINDJIJG_00082       -            716 9804478              -            303   5.5e-07   24.0   5.9   5   5      0.64        47   -2.0   0.0    85   110   530   555   523   561 0.81 Chaperone protein ClpB
+MINDJIJG_00490       -            132 9804478              -            303   0.00028   15.1   0.1   1   1   5.4e-06    0.0004   14.6   0.1    34    67    26    59    21    65 0.87 tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+MINDJIJG_00346       -            227 9804478              -            303   0.00093   13.4   0.0   1   1   1.7e-05    0.0013   13.0   0.0    38    64     9    35     1    53 0.88 Cytidylate kinase
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/bacteria_odb12/hmms/9804478at2.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins_fxed_bact/run_bacteria_odb12/hmmer_output/9804478at2.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/bacteria_odb12/hmms/9804478at2.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic_fixed/prokka_basic_fixed.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:33:48 2025
+# [ok]

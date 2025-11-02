@@ -1,0 +1,13 @@
+Assembly	smart_nanopore_30
+# misassemblies	249
+    # relocations	249
+    # translocations	0
+    # inversions	0
+# misassembled contigs	113
+Misassembled contigs length	2141882
+# local misassemblies	147
+# mismatches	2600
+# indels	4939
+    # short indels	4870
+    # long indels	69
+Indels length	6633

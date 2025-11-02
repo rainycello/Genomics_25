@@ -1,0 +1,7 @@
+- "left reads":
+  - "/home/genomika24/dmytro_boi/genome_assembling_home_work2/read1_50x.1.fastq"
+  "number": !!int "1"
+  "orientation": "fr"
+  "right reads":
+  - "/home/genomika24/dmytro_boi/genome_assembling_home_work2/read1_50x.2.fastq"
+  "type": "paired-end"

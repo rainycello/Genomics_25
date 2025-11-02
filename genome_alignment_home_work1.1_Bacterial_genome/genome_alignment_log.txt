@@ -1,0 +1,2 @@
+gnuplot 6.0 patchlevel 0
+gnuplot 6.0 patchlevel 0

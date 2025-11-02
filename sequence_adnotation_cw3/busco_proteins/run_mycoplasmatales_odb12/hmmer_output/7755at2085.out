@@ -1,0 +1,30 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00687       -            179 7755                 -            433   2.8e-75  249.7   3.4   1   1   3.1e-77   3.1e-75  249.5   3.4   113   289     1   179     1   179 0.98 GTPase Der
+MINDJIJG_00686       -            117 7755                 -            433   3.4e-47  157.1   2.7   1   1   3.9e-49   3.9e-47  156.9   2.7   320   432     1   113     1   114 0.99 GTPase Der
+MINDJIJG_00100       -            251 7755                 -            433   5.9e-29   97.0   3.3   1   2      0.29        30   -0.8   1.1   323   357    45    79    20   105 0.66 tRNA modification GTPase MnmE
+MINDJIJG_00100       -            251 7755                 -            433   5.9e-29   97.0   3.3   2   2   5.8e-31   5.9e-29   97.0   3.3   152   298    97   237    90   248 0.88 tRNA modification GTPase MnmE
+MINDJIJG_00064       -            281 7755                 -            433   4.5e-26   87.5   0.6   1   2   4.4e-28   4.5e-26   87.5   0.6     4   159     7   169     4   179 0.86 GTPase Era
+MINDJIJG_00064       -            281 7755                 -            433   4.5e-26   87.5   0.6   2   2       1.7   1.7e+02   -3.4   0.2    97   114   224   244   213   270 0.59 GTPase Era
+MINDJIJG_00688       -             47 7755                 -            433   9.7e-24   79.8   0.5   1   1     1e-25     1e-23   79.8   0.5     2    44     4    46     3    47 0.96 GTPase Der
+MINDJIJG_00859       -            254 7755                 -            433   4.1e-12   41.5   3.9   1   1   5.7e-14   5.8e-12   41.0   3.9   166   350     3   187     1   200 0.78 Elongation factor 4
+MINDJIJG_01115       -            149 7755                 -            433   7.7e-12   40.6   2.2   1   2   1.4e-06   0.00014   16.7   0.3   248   305    11    68     3    86 0.81 Ribosome biogenesis GTPase A
+MINDJIJG_01115       -            149 7755                 -            433   7.7e-12   40.6   2.2   2   2   7.6e-09   7.7e-07   24.1   0.1   156   205    97   146    80   148 0.79 Ribosome biogenesis GTPase A
+MINDJIJG_01033       -            247 7755                 -            433   1.5e-07   26.5   2.0   1   1     6e-09     6e-07   24.5   2.0   167   293   113   227    48   241 0.73 Translation initiation factor IF-2
+MINDJIJG_00994       -             94 7755                 -            433   0.00011   17.0   3.0   1   1   1.7e-06   0.00017   16.4   3.0   252   334    12    89     6    92 0.75 GTP-binding protein EngB
+MINDJIJG_00811       -             76 7755                 -            433   0.00018   16.3   0.2   1   1   2.2e-06   0.00022   16.1   0.2     3    24    33    54    31    69 0.87 putative ABC transporter ATP-binding protein
+MINDJIJG_01060       -            296 7755                 -            433   0.00032   15.5   5.8   1   3   6.1e-05    0.0061   11.3   0.1     5    21     6    22     2    29 0.78 Ribosome-binding ATPase YchF
+MINDJIJG_01060       -            296 7755                 -            433   0.00032   15.5   5.8   2   3    0.0028      0.28    5.8   0.1   267   342    24    99    20   141 0.77 Ribosome-binding ATPase YchF
+MINDJIJG_01060       -            296 7755                 -            433   0.00032   15.5   5.8   3   3      0.08         8    1.0   0.3   267   373   187   291   160   295 0.61 Ribosome-binding ATPase YchF
+MINDJIJG_00109       -            141 7755                 -            433    0.0023   12.7   0.2   1   1   2.7e-05    0.0027   12.5   0.2   213   298    15    99     5   122 0.79 Signal recognition particle receptor FtsY
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7755at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins/run_mycoplasmatales_odb12/hmmer_output/7755at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/7755at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:30:32 2025
+# [ok]

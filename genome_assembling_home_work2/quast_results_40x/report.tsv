@@ -1,0 +1,31 @@
+Assembly	asm_40x
+# contigs (>= 0 bp)	668
+# contigs (>= 1000 bp)	668
+# contigs (>= 5000 bp)	668
+# contigs (>= 10000 bp)	488
+# contigs (>= 25000 bp)	130
+# contigs (>= 50000 bp)	17
+Total length (>= 0 bp)	11970083
+Total length (>= 1000 bp)	11970083
+Total length (>= 5000 bp)	11970083
+Total length (>= 10000 bp)	10602242
+Total length (>= 25000 bp)	4861505
+Total length (>= 50000 bp)	1034722
+# contigs	668
+Largest contig	102528
+Total length	11970083
+Reference length	200000
+GC (%)	36.43
+Reference GC (%)	34.59
+N50	21627
+NG50	102528
+N75	13975
+NG75	86717
+L50	179
+LG50	1
+L75	351
+LG75	2
+# unaligned contigs	668 + 0 part
+Unaligned length	11970083
+# N's per 100 kbp	0.00
+NGA50	-

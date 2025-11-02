@@ -1,0 +1,2 @@
+@HD	VN:1.4	SO:unsorted
+@PG	ID:01	PN:ART_Illumina	CL:art_illumina -ss HSXt -sam -i seq.fa -p -l 150 -f 50 -m 350 -s 10 -o illumina -rs 1730073531

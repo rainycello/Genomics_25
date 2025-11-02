@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MINDJIJG_00216       -             85 10966                -            236   6.4e-32  106.7   0.0   1   1   1.7e-34   6.9e-32  106.6   0.0   109   191     2    85     1    85 0.96 hypothetical protein
+MINDJIJG_00215       -             87 10966                -            236   3.3e-22   74.9   0.1   1   1   8.9e-25   3.6e-22   74.8   0.1     1    86     1    87     1    87 0.97 hypothetical protein
+MINDJIJG_00217       -             58 10966                -            236     2e-07   26.6   0.1   1   2   4.9e-10     2e-07   26.6   0.1   203   235     2    34     1    35 0.95 hypothetical protein
+MINDJIJG_00217       -             58 10966                -            236     2e-07   26.6   0.1   2   2      0.24        96   -1.9   0.2   187   197    43    53    36    57 0.40 hypothetical protein
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/10966at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_proteins/run_mycoplasmatales_odb12/hmmer_output/10966at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/10966at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/prokka_basic/prokka_basic.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:30:29 2025
+# [ok]

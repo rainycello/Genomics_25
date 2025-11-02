@@ -1,0 +1,187 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+132367	138345	5979	1	0	NODE_1_length_21407_cov_26.007689	100.0		True
+fake: scaffold gap size wrong estimation (extensive)
+125826	126660	7014	6080	0	NODE_1_length_21407_cov_26.007689	100.0		True
+indel: indel (> 5bp)
+122086	125653	10624	7015	0	NODE_1_length_21407_cov_26.007689	99.97		True
+local misassembly
+115581	121241	16285	10625	0	NODE_1_length_21407_cov_26.007689	99.98		True
+fake: scaffold gap size wrong estimation (local)
+114204	114580	16762	16386	0	NODE_1_length_21407_cov_26.007689	99.73		True
+fake: scaffold gap size wrong estimation (local)
+109135	113679	21407	16863	0	NODE_1_length_21407_cov_26.007689	99.98		True
+CONTIG	NODE_1_length_21407_cov_26.007689	21407	correct
+233325	235085	1761	1	1	NODE_2_length_18282_cov_27.898819	99.94		True
+fake: scaffold gap size wrong estimation (extensive)
+228917	230363	3349	1903	1	NODE_2_length_18282_cov_27.898819	100.0		True
+fake: scaffold gap size wrong estimation (extensive)
+216558	227772	14729	3450	1	NODE_2_length_18282_cov_27.898819	99.27		True
+relocation, inconsistency = 2176
+210829	214381	18282	14730	1	NODE_2_length_18282_cov_27.898819	99.98		True
+CONTIG	NODE_2_length_18282_cov_27.898819	18282	misassembled
+343142	345556	1	2415	0	NODE_3_length_12028_cov_52.915405	100.0		True
+local misassembly
+346025	348181	2416	4672	0	NODE_3_length_12028_cov_52.915405	99.96		True
+relocation, inconsistency = 8580
+356762	363095	4673	11019	0	NODE_3_length_12028_cov_52.915405	99.95		True
+relocation, inconsistency = 13706, scaffold gap is present
+376902	377810	11120	12028	0	NODE_3_length_12028_cov_52.915405	100.0		True
+CONTIG	NODE_3_length_12028_cov_52.915405	12028	misassembled
+194707	201086	1	6380	1	NODE_4_length_10744_cov_28.037780	99.98		True
+fake: scaffold gap size wrong estimation (local)
+201912	206175	6481	10744	1	NODE_4_length_10744_cov_28.037780	99.98		True
+CONTIG	NODE_4_length_10744_cov_28.037780	10744	correct
+15582	17459	1878	1	1	NODE_5_length_9169_cov_23.351408	100.0		True
+fake: scaffold gap size wrong estimation (local)
+11453	15581	6177	2049	1	NODE_5_length_9169_cov_23.351408	99.93		True
+fake: scaffold gap size wrong estimation (local)
+10218	11112	7172	6278	1	NODE_5_length_9169_cov_23.351408	100.0		True
+fake: scaffold gap size wrong estimation (local)
+7789	9685	9169	7273	1	NODE_5_length_9169_cov_23.351408	100.0		True
+CONTIG	NODE_5_length_9169_cov_23.351408	9169	correct
+40334	49404	9071	1	1	NODE_6_length_9071_cov_31.530465	99.99		True
+CONTIG	NODE_6_length_9071_cov_31.530465	9071	correct
+216622	216883	1	262	0	NODE_7_length_8779_cov_26.722248	100.0		True
+local misassembly
+217876	226746	263	8779	0	NODE_7_length_8779_cov_26.722248	95.88		True
+CONTIG	NODE_7_length_8779_cov_26.722248	8779	correct
+353239	360914	1	7676	1	NODE_8_length_7676_cov_30.198710	100.0		True
+CONTIG	NODE_8_length_7676_cov_30.198710	7676	correct
+142073	148458	6416	1	0	NODE_9_length_7460_cov_25.729785	100.0		True
+relocation, inconsistency = 1494
+139921	140578	7074	6417	0	NODE_9_length_7460_cov_25.729785	100.0		True
+fake: scaffold gap size wrong estimation (local)
+139461	139746	7460	7175	0	NODE_9_length_7460_cov_25.729785	100.0		True
+CONTIG	NODE_9_length_7460_cov_25.729785	7460	misassembled
+80286	87457	1	7268	0	NODE_10_length_7268_cov_27.099708	99.99		True
+CONTIG	NODE_10_length_7268_cov_27.099708	7268	correct
+72973	73335	1	363	0	NODE_11_length_7069_cov_20.270881	100.0		True
+fake: scaffold gap size wrong estimation (local)
+73498	80027	464	7069	0	NODE_11_length_7069_cov_20.270881	100.0		True
+CONTIG	NODE_11_length_7069_cov_20.270881	7069	correct
+236893	238157	1365	1	0	NODE_12_length_6186_cov_31.022590	99.84		True
+local misassembly
+235854	236559	2171	1366	0	NODE_12_length_6186_cov_31.022590	99.91		True
+local misassembly
+231530	235544	6186	2172	0	NODE_12_length_6186_cov_31.022590	99.98		True
+CONTIG	NODE_12_length_6186_cov_31.022590	6186	correct
+54429	60589	6156	1	1	NODE_13_length_6156_cov_45.823984	99.9		True
+CONTIG	NODE_13_length_6156_cov_45.823984	6156	correct
+37684	38729	1	1046	0	NODE_14_length_5716_cov_30.517113	100.0		True
+fake: scaffold gap size wrong estimation (local)
+39201	43074	1147	5020	0	NODE_14_length_5716_cov_30.517113	100.0		True
+fake: scaffold gap size wrong estimation (extensive)
+45758	46353	5121	5716	0	NODE_14_length_5716_cov_30.517113	100.0		True
+CONTIG	NODE_14_length_5716_cov_30.517113	5716	correct
+65415	66246	1	832	1	NODE_15_length_4691_cov_34.996749	100.0		True
+fake: scaffold gap size wrong estimation (extensive)
+67491	69028	934	2471	1	NODE_15_length_4691_cov_34.996749	99.93		True
+fake: scaffold gap size wrong estimation (extensive)
+71580	73699	2572	4691	1	NODE_15_length_4691_cov_34.996749	100.0		True
+CONTIG	NODE_15_length_4691_cov_34.996749	4691	correct
+152413	156933	4521	1	0	NODE_16_length_4521_cov_23.316832	100.0		True
+CONTIG	NODE_16_length_4521_cov_23.316832	4521	correct
+169439	173662	1	4224	0	NODE_17_length_4224_cov_22.970340	100.0		True
+CONTIG	NODE_17_length_4224_cov_22.970340	4224	correct
+55042	59180	4132	1	0	NODE_18_length_4132_cov_42.414797	99.81		True
+CONTIG	NODE_18_length_4132_cov_42.414797	4132	correct
+434856	437321	2466	1	1	NODE_19_length_4077_cov_43.621000	99.72		True
+fake: scaffold gap size wrong estimation (extensive)
+431749	433259	4077	2567	1	NODE_19_length_4077_cov_43.621000	100.0		True
+CONTIG	NODE_19_length_4077_cov_43.621000	4077	correct
+105252	109036	1	3863	1	NODE_20_length_3863_cov_18.953513	100.0		True
+CONTIG	NODE_20_length_3863_cov_18.953513	3863	correct
+100500	104292	3793	1	1	NODE_21_length_3793_cov_34.219053	99.95		True
+CONTIG	NODE_21_length_3793_cov_34.219053	3793	correct
+146464	149932	3371	1	1	NODE_22_length_3371_cov_19.019126	97.06		True
+CONTIG	NODE_22_length_3371_cov_19.019126	3371	correct
+336793	339845	1	3053	0	NODE_23_length_3053_cov_24.027890	100.0		True
+CONTIG	NODE_23_length_3053_cov_24.027890	3053	correct
+62324	64881	1	2558	0	NODE_24_length_2972_cov_65.394128	99.84		True
+fake: scaffold gap size wrong estimation (extensive)
+71853	72166	2659	2972	0	NODE_24_length_2972_cov_65.394128	100.0		True
+CONTIG	NODE_24_length_2972_cov_65.394128	2972	correct
+80918	83768	2851	1	1	NODE_25_length_2851_cov_23.378875	100.0		True
+CONTIG	NODE_25_length_2851_cov_23.378875	2851	correct
+163978	166648	1	2671	1	NODE_26_length_2671_cov_65.975713	99.85		True
+CONTIG	NODE_26_length_2671_cov_65.975713	2671	correct
+253201	255858	1	2658	1	NODE_27_length_2658_cov_75.808601	99.96		True
+CONTIG	NODE_27_length_2658_cov_75.808601	2658	correct
+333577	335682	2106	1	1	NODE_28_length_2106_cov_37.120749	100.0		True
+CONTIG	NODE_28_length_2106_cov_37.120749	2106	correct
+206751	208746	2002	1	0	NODE_29_length_2061_cov_130.589718	99.55		True
+CONTIG	NODE_29_length_2061_cov_130.589718	2061	correct
+140027	141883	1857	1	1	NODE_30_length_1857_cov_28.842697	100.0		True
+CONTIG	NODE_30_length_1857_cov_28.842697	1857	correct
+78204	79968	1	1765	1	NODE_31_length_1765_cov_42.415284	99.94		True
+CONTIG	NODE_31_length_1765_cov_42.415284	1765	correct
+441437	442325	881	1	1	NODE_32_length_1717_cov_168.861585	98.99		True
+local misassembly
+439669	440512	1717	882	1	NODE_32_length_1717_cov_168.861585	98.7		True
+CONTIG	NODE_32_length_1717_cov_168.861585	1717	correct
+60830	62368	1539	1	1	NODE_33_length_1539_cov_19.080027	100.0		True
+CONTIG	NODE_33_length_1539_cov_19.080027	1539	correct
+195545	196025	1	481	0	NODE_34_length_1340_cov_110.149644	100.0		True
+fake: scaffold gap size wrong estimation (local)
+196026	196705	661	1340	0	NODE_34_length_1340_cov_110.149644	99.85		True
+CONTIG	NODE_34_length_1340_cov_110.149644	1340	correct
+214087	215336	1250	1	0	NODE_35_length_1250_cov_83.427962	99.92		True
+CONTIG	NODE_35_length_1250_cov_83.427962	1250	correct
+240697	241613	917	1	0	NODE_36_length_923_cov_234.041371	99.67		True
+CONTIG	NODE_36_length_923_cov_234.041371	923	correct
+155209	156122	1	914	1	NODE_37_length_914_cov_179.592593	100.0		True
+CONTIG	NODE_37_length_914_cov_179.592593	914	correct
+18	852	1	835	1	NODE_38_length_835_cov_13.862797	100.0		True
+CONTIG	NODE_38_length_835_cov_13.862797	835	correct
+112772	113594	1	823	1	NODE_39_length_823_cov_173.187668	100.0		True
+CONTIG	NODE_39_length_823_cov_173.187668	823	correct
+163116	163930	815	1	0	NODE_40_length_815_cov_18.479675	100.0		True
+CONTIG	NODE_40_length_815_cov_18.479675	815	correct
+253421	254193	1	765	0	NODE_41_length_765_cov_228.196221	98.58		True
+CONTIG	NODE_41_length_765_cov_228.196221	765	correct
+132953	133645	679	1	1	NODE_42_length_737_cov_164.790909	97.13		True
+CONTIG	NODE_42_length_737_cov_164.790909	737	correct
+343582	344314	733	1	1	NODE_43_length_733_cov_181.689024	100.0		True
+CONTIG	NODE_43_length_733_cov_181.689024	733	correct
+37043	37760	1	718	0	NODE_44_length_718_cov_94.987520	100.0		True
+CONTIG	NODE_44_length_718_cov_94.987520	718	correct
+91214	91867	695	44	0	NODE_45_length_695_cov_120.263754	99.46		True
+CONTIG	NODE_45_length_695_cov_120.263754	695	correct
+73955	74642	1	688	1	NODE_46_length_688_cov_26.252046	100.0		True
+CONTIG	NODE_46_length_688_cov_26.252046	688	correct
+327394	328072	679	1	0	NODE_47_length_679_cov_259.481728	100.0		True
+CONTIG	NODE_47_length_679_cov_259.481728	679	correct
+35713	36331	619	1	0	NODE_48_length_619_cov_128.238007	100.0		True
+CONTIG	NODE_48_length_619_cov_128.238007	619	correct
+89	696	612	1	0	NODE_49_length_612_cov_90.155140	99.02		True
+CONTIG	NODE_49_length_612_cov_90.155140	612	correct
+108239	108844	606	1	0	NODE_50_length_606_cov_144.829868	99.83		True
+CONTIG	NODE_50_length_606_cov_144.829868	606	correct
+194726	195314	589	1	0	NODE_51_length_589_cov_125.931641	99.66		True
+CONTIG	NODE_51_length_589_cov_125.931641	589	correct
+26162	26749	588	1	0	NODE_52_length_588_cov_129.853229	99.83		True
+CONTIG	NODE_52_length_588_cov_129.853229	588	correct
+160941	161527	587	1	1	NODE_53_length_587_cov_166.694118	100.0		True
+CONTIG	NODE_53_length_587_cov_166.694118	587	correct
+283089	283674	1	586	1	NODE_54_length_586_cov_619.174853	100.0		True
+CONTIG	NODE_54_length_586_cov_619.174853	586	correct
+4925	5018	1	94	1	NODE_55_length_586_cov_130.642436	100.0		True
+fake: scaffold gap size wrong estimation (local)
+5139	5530	195	586	1	NODE_55_length_586_cov_130.642436	99.74		True
+CONTIG	NODE_55_length_586_cov_130.642436	586	correct
+104751	104822	72	1	1	NODE_56_length_582_cov_71.891089	98.61		True
+fake: scaffold gap size wrong estimation (local)
+104216	104625	582	173	1	NODE_56_length_582_cov_71.891089	99.76		True
+CONTIG	NODE_56_length_582_cov_71.891089	582	correct
+110522	111073	1	552	1	NODE_57_length_552_cov_18.675789	100.0		True
+CONTIG	NODE_57_length_552_cov_18.675789	552	correct
+151377	151923	1	547	0	NODE_58_length_547_cov_62.778723	100.0		True
+CONTIG	NODE_58_length_547_cov_62.778723	547	correct
+351696	352234	539	1	1	NODE_59_length_539_cov_198.878788	100.0		True
+CONTIG	NODE_59_length_539_cov_198.878788	539	correct
+303180	303718	1	539	1	NODE_60_length_539_cov_147.824675	100.0		True
+CONTIG	NODE_60_length_539_cov_147.824675	539	correct
+38902	39431	530	1	1	NODE_61_length_530_cov_38.233996	100.0		True
+CONTIG	NODE_61_length_530_cov_38.233996	530	correct
+182504	182964	1	506	0	NODE_62_length_506_cov_17.340326	100.0		True
+CONTIG	NODE_62_length_506_cov_17.340326	506	correct

@@ -1,0 +1,1360 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous
+CONTIG	pb000000000000_0_-strand_53225-64998_length_11796_error-free_length_11806_read_identity_94.504_	11769	unaligned
+4457	11861	7418	3	0	pb000000000001_0_-strand_91796-99175_length_7437_error-free_length_7410_read_identity_96.546_	96.18	
+CONTIG	pb000000000001_0_-strand_91796-99175_length_7437_error-free_length_7410_read_identity_96.546_	7418	correct
+CONTIG	pb000000000002_0_-strand_12329-22272_length_9975_error-free_length_9985_read_identity_92.505_	9944	unaligned
+CONTIG	pb000000000003_0__strand_77503-95594_length_18114_error-free_length_18118_read_identity_92.478_	18084	unaligned
+CONTIG	pb000000000004_0_-strand_64214-90239_length_26022_error-free_length_26001_read_identity_92.608_	26022	unaligned
+77439	78896	1	1441	0	pb000000000005_0__strand_42305-62989_length_20733_error-free_length_20701_read_identity_96.374_	95.26	
+local misassembly
+79009	83080	1569	5636	0	pb000000000005_0__strand_42305-62989_length_20733_error-free_length_20701_read_identity_96.374_	96.32	
+relocation, inconsistency = 7935
+90455	106018	5076	20711	0	pb000000000005_0__strand_42305-62989_length_20733_error-free_length_20701_read_identity_96.374_	95.49	
+CONTIG	pb000000000005_0__strand_42305-62989_length_20733_error-free_length_20701_read_identity_96.374_	20714	misassembled
+4520	5212	4026	4726	1	pb000000000006_1__strand_67127-100000_length_32905_error-free_length_32910_read_identity_94.253_	95.48	
+127344	128345	23807	24804	1	pb000000000006_1__strand_67127-100000_length_32905_error-free_length_32910_read_identity_94.253_	95.26	
+137167	138184	31874	32891	1	pb000000000006_1__strand_67127-100000_length_32905_error-free_length_32910_read_identity_94.253_	95.25	
+124672	126151	1	1475	0	pb000000000007_0__strand_67416-88142_length_20722_error-free_length_20733_read_identity_95.916_	95.87	
+local misassembly
+126763	131718	1475	6424	0	pb000000000007_0__strand_67416-88142_length_20722_error-free_length_20733_read_identity_95.916_	96.25	
+relocation, inconsistency = 10048
+146293	147989	10951	12643	0	pb000000000007_0__strand_67416-88142_length_20722_error-free_length_20733_read_identity_95.916_	96.56	
+relocation, inconsistency = 6930
+154433	163007	12157	20713	0	pb000000000007_0__strand_67416-88142_length_20722_error-free_length_20733_read_identity_95.916_	96.04	
+CONTIG	pb000000000007_0__strand_67416-88142_length_20722_error-free_length_20733_read_identity_95.916_	20713	misassembled
+166646	168769	392	2502	0	pb000000000008_0__strand_87563-100000_length_12437_error-free_length_12444_read_identity_95.717_	95.34	
+relocation, inconsistency = 5526
+173899	175448	2106	3651	0	pb000000000008_0__strand_87563-100000_length_12437_error-free_length_12444_read_identity_95.717_	95.98	
+relocation, inconsistency = 9815
+185266	193755	3654	12144	0	pb000000000008_0__strand_87563-100000_length_12437_error-free_length_12444_read_identity_95.717_	95.88	
+relocation, inconsistency = 3569
+197028	197611	11848	12427	0	pb000000000008_0__strand_87563-100000_length_12437_error-free_length_12444_read_identity_95.717_	96.6	
+CONTIG	pb000000000008_0__strand_87563-100000_length_12437_error-free_length_12444_read_identity_95.717_	12428	misassembled
+CONTIG	pb000000000009_0_-strand_55945-74841_length_18924_error-free_length_18922_read_identity_93.281_	18900	unaligned
+24532	26480	1943	5	1	pb000000000010_1_-strand_80219-100000_length_19800_error-free_length_19816_read_identity_97.175_	96.6	
+relocation, inconsistency = 3785
+18908	21226	3782	1464	1	pb000000000010_1_-strand_80219-100000_length_19800_error-free_length_19816_read_identity_97.175_	97.43	
+relocation, inconsistency = 1024
+11451	17964	10219	3702	1	pb000000000010_1_-strand_80219-100000_length_19800_error-free_length_19816_read_identity_97.175_	97.16	
+local misassembly
+5213	11323	16208	10220	1	pb000000000010_1_-strand_80219-100000_length_19800_error-free_length_19816_read_identity_97.175_	95.27	
+local misassembly
+1830	4523	18898	16209	1	pb000000000010_1_-strand_80219-100000_length_19800_error-free_length_19816_read_identity_97.175_	97.24	
+local misassembly
+568	1195	19402	18779	1	pb000000000010_1_-strand_80219-100000_length_19800_error-free_length_19816_read_identity_97.175_	96.83	
+CONTIG	pb000000000010_1_-strand_80219-100000_length_19800_error-free_length_19816_read_identity_97.175_	19800	misassembled
+75523	79594	1726	5789	1	pb000000000011_1__strand_59150-87631_length_28484_error-free_length_28499_read_identity_97.695_	97.97	
+relocation, inconsistency = 3961
+83063	99655	5297	21914	1	pb000000000011_1__strand_59150-87631_length_28484_error-free_length_28499_read_identity_97.695_	96.93	
+local misassembly
+99988	100876	21877	22761	1	pb000000000011_1__strand_59150-87631_length_28484_error-free_length_28499_read_identity_97.695_	97.88	
+relocation, inconsistency = 2659
+103208	104699	22434	23897	1	pb000000000011_1__strand_59150-87631_length_28484_error-free_length_28499_read_identity_97.695_	96.53	
+local misassembly
+105359	107423	23804	25864	1	pb000000000011_1__strand_59150-87631_length_28484_error-free_length_28499_read_identity_97.695_	97.35	
+relocation, inconsistency = 1075
+108499	110220	25865	27587	1	pb000000000011_1__strand_59150-87631_length_28484_error-free_length_28499_read_identity_97.695_	97.98	
+local misassembly
+110807	111774	27495	28457	1	pb000000000011_1__strand_59150-87631_length_28484_error-free_length_28499_read_identity_97.695_	97.12	
+CONTIG	pb000000000011_1__strand_59150-87631_length_28484_error-free_length_28499_read_identity_97.695_	28458	misassembled
+185264	193460	91	8260	0	pb000000000012_0__strand_91139-99416_length_8290_error-free_length_8305_read_identity_96.258_	96.32	
+CONTIG	pb000000000012_0__strand_91139-99416_length_8290_error-free_length_8305_read_identity_96.258_	8261	correct
+CONTIG	pb000000000013_random_seq_length_37308_error-free_length_37523_read_identity_96.871_	37291	unaligned
+73271	82302	9001	1	0	pb000000000014_0_-strand_52850-68962_length_16136_error-free_length_16130_read_identity_96.721_	96.48	
+relocation, inconsistency = 31324
+34751	44160	16112	6788	0	pb000000000014_0_-strand_52850-68962_length_16136_error-free_length_16130_read_identity_96.721_	95.85	
+CONTIG	pb000000000014_0_-strand_52850-68962_length_16136_error-free_length_16130_read_identity_96.721_	16112	misassembled
+CONTIG	pb000000000015_0_-strand_31364-43245_length_11880_error-free_length_11881_read_identity_93.137_	11880	unaligned
+106001	109052	3	3045	0	pb000000000016_0__strand_62960-95610_length_32627_error-free_length_32643_read_identity_95.808_	95.95	
+relocation, inconsistency = 14211
+122108	126151	1890	5922	0	pb000000000016_0__strand_62960-95610_length_32627_error-free_length_32643_read_identity_95.808_	95.25	
+local misassembly
+126763	131718	5922	10870	0	pb000000000016_0__strand_62960-95610_length_32627_error-free_length_32643_read_identity_95.808_	95.94	
+relocation, inconsistency = 10047
+146298	147975	15403	17077	0	pb000000000016_0__strand_62960-95610_length_32627_error-free_length_32643_read_identity_95.808_	96.47	
+relocation, inconsistency = 6932
+154433	163153	16603	25339	0	pb000000000016_0__strand_62960-95610_length_32627_error-free_length_32643_read_identity_95.808_	95.87	
+relocation, inconsistency = 3826
+166646	168774	25006	27148	0	pb000000000016_0__strand_62960-95610_length_32627_error-free_length_32643_read_identity_95.808_	95.52	
+relocation, inconsistency = 15396
+185264	189652	28242	32612	0	pb000000000016_0__strand_62960-95610_length_32627_error-free_length_32643_read_identity_95.808_	95.73	
+CONTIG	pb000000000016_0__strand_62960-95610_length_32627_error-free_length_32643_read_identity_95.808_	32612	misassembled
+90455	106367	15958	1	0	pb000000000017_0_-strand_36664-53086_length_16434_error-free_length_16430_read_identity_96.805_	95.97	
+relocation, inconsistency = 7941
+82069	83080	16406	15392	0	pb000000000017_0_-strand_36664-53086_length_16434_error-free_length_16430_read_identity_96.805_	97.46	
+CONTIG	pb000000000017_0_-strand_36664-53086_length_16434_error-free_length_16430_read_identity_96.805_	16406	misassembled
+75239	83080	1	7839	0	pb000000000018_0__strand_40103-72634_length_32535_error-free_length_32576_read_identity_96.211_	95.82	
+relocation, inconsistency = 7934
+90453	109052	7278	25906	0	pb000000000018_0__strand_40103-72634_length_32535_error-free_length_32576_read_identity_96.211_	95.67	
+relocation, inconsistency = 14216
+122108	126151	24746	28785	0	pb000000000018_0__strand_40103-72634_length_32535_error-free_length_32576_read_identity_96.211_	96.58	
+local misassembly
+126766	130499	28788	32506	0	pb000000000018_0__strand_40103-72634_length_32535_error-free_length_32576_read_identity_96.211_	96.21	
+CONTIG	pb000000000018_0__strand_40103-72634_length_32535_error-free_length_32576_read_identity_96.211_	32506	misassembled
+174333	175448	1	1119	0	pb000000000019_0__strand_90114-96684_length_6638_error-free_length_6618_read_identity_97.372_	97.6	
+relocation, inconsistency = 9815
+185268	190721	1124	6602	0	pb000000000019_0__strand_90114-96684_length_6638_error-free_length_6618_read_identity_97.372_	96.75	
+CONTIG	pb000000000019_0__strand_90114-96684_length_6638_error-free_length_6618_read_identity_97.372_	6602	misassembled
+174725	175448	1	724	0	pb000000000020_0__strand_90508-100000_length_9484_error-free_length_9503_read_identity_94.885_	95.1	
+175837	176169	727	1061	0	pb000000000020_0__strand_90508-100000_length_9484_error-free_length_9503_read_identity_94.885_	95.87	
+160889	163153	1	2267	0	pb000000000021_0__strand_86021-100000_length_14026_error-free_length_14024_read_identity_95.679_	96.16	
+relocation, inconsistency = 3824
+166646	168769	1936	4070	0	pb000000000021_0__strand_86021-100000_length_14026_error-free_length_14024_read_identity_95.679_	95.2	
+relocation, inconsistency = 5537
+173899	175445	3663	5214	0	pb000000000021_0__strand_86021-100000_length_14026_error-free_length_14024_read_identity_95.679_	96.12	
+relocation, inconsistency = 9817
+185264	193755	5216	13713	0	pb000000000021_0__strand_86021-100000_length_14026_error-free_length_14024_read_identity_95.679_	95.66	
+relocation, inconsistency = 3573
+197101	197613	13486	13999	0	pb000000000021_0__strand_86021-100000_length_14026_error-free_length_14024_read_identity_95.679_	97.3	
+CONTIG	pb000000000021_0__strand_86021-100000_length_14026_error-free_length_14024_read_identity_95.679_	13999	misassembled
+CONTIG	pb000000000022_1_-strand_86338-93821_length_7582_error-free_length_7562_read_identity_94.150_	7562	unaligned
+15929	22038	6102	1	0	pb000000000023_0_-strand_81767-88889_length_7183_error-free_length_7188_read_identity_98.002_	96.32	
+local misassembly
+14771	15829	7152	6103	0	pb000000000023_0_-strand_81767-88889_length_7183_error-free_length_7188_read_identity_98.002_	97.65	
+CONTIG	pb000000000023_0_-strand_81767-88889_length_7183_error-free_length_7188_read_identity_98.002_	7152	correct
+106715	109052	1	2344	0	pb000000000024_0__strand_63679-69887_length_6261_error-free_length_6251_read_identity_97.657_	97.21	
+relocation, inconsistency = 14222
+122108	126154	1178	5230	0	pb000000000024_0__strand_63679-69887_length_6261_error-free_length_6251_read_identity_97.657_	97.89	
+local misassembly
+126765	127750	5230	6221	0	pb000000000024_0__strand_63679-69887_length_6261_error-free_length_6251_read_identity_97.657_	97.69	
+CONTIG	pb000000000024_0__strand_63679-69887_length_6261_error-free_length_6251_read_identity_97.657_	6221	misassembled
+41722	43666	3539	1593	1	pb000000000025_1_-strand_68025-79046_length_11037_error-free_length_11029_read_identity_97.575_	97.35	
+40102	40381	3539	3259	1	pb000000000025_1_-strand_68025-79046_length_11037_error-free_length_11029_read_identity_97.575_	97.88	
+27654	30237	11022	8426	1	pb000000000025_1_-strand_68025-79046_length_11037_error-free_length_11029_read_identity_97.575_	95.9	
+6686	11321	1	4584	1	pb000000000026_1__strand_4967-30319_length_25438_error-free_length_25445_read_identity_98.258_	97.36	
+local misassembly
+11449	17988	4584	11138	1	pb000000000026_1__strand_4967-30319_length_25438_error-free_length_25445_read_identity_98.258_	98.03	
+relocation, inconsistency = 1026
+18908	21226	11032	13405	1	pb000000000026_1__strand_4967-30319_length_25438_error-free_length_25445_read_identity_98.258_	96.1	
+relocation, inconsistency = 3787
+24532	30250	12924	18626	1	pb000000000026_1__strand_4967-30319_length_25438_error-free_length_25445_read_identity_98.258_	97.23	
+relocation, inconsistency = 4066
+33892	36584	18202	20887	1	pb000000000026_1__strand_4967-30319_length_25438_error-free_length_25445_read_identity_98.258_	98.04	
+fake misassembly (gap in the contig is small or filled with Ns)
+36569	39465	20935	23837	1	pb000000000026_1__strand_4967-30319_length_25438_error-free_length_25445_read_identity_98.258_	97.88	
+relocation, inconsistency = 2592
+41709	43616	23489	25412	1	pb000000000026_1__strand_4967-30319_length_25438_error-free_length_25445_read_identity_98.258_	97.11	
+CONTIG	pb000000000026_1__strand_4967-30319_length_25438_error-free_length_25445_read_identity_98.258_	25416	misassembled
+117368	119304	3935	5871	1	pb000000000027_1__strand_85999-100000_length_13967_error-free_length_13986_read_identity_94.598_	95.07	
+CONTIG	pb000000000027_1__strand_85999-100000_length_13967_error-free_length_13986_read_identity_94.598_	13945	correct
+97085	99655	1	2570	1	pb000000000028_1__strand_78480-93812_length_15350_error-free_length_15342_read_identity_95.967_	96.27	
+local misassembly
+100025	100876	2570	3429	1	pb000000000028_1__strand_78480-93812_length_15350_error-free_length_15342_read_identity_95.967_	96.08	
+relocation, inconsistency = 2665
+103208	104701	3096	4589	1	pb000000000028_1__strand_78480-93812_length_15350_error-free_length_15342_read_identity_95.967_	96.63	
+local misassembly
+105454	107423	4590	6550	1	pb000000000028_1__strand_78480-93812_length_15350_error-free_length_15342_read_identity_95.967_	96.09	
+relocation, inconsistency = 1074
+108500	110220	6553	8283	1	pb000000000028_1__strand_78480-93812_length_15350_error-free_length_15342_read_identity_95.967_	96.23	
+local misassembly
+110900	114470	8283	11858	1	pb000000000028_1__strand_78480-93812_length_15350_error-free_length_15342_read_identity_95.967_	95.84	
+relocation, inconsistency = 3218
+117688	119306	11858	13476	1	pb000000000028_1__strand_78480-93812_length_15350_error-free_length_15342_read_identity_95.967_	96.64	
+relocation, inconsistency = 10039
+128346	131213	12477	15338	1	pb000000000028_1__strand_78480-93812_length_15350_error-free_length_15342_read_identity_95.967_	96.45	
+CONTIG	pb000000000028_1__strand_78480-93812_length_15350_error-free_length_15342_read_identity_95.967_	15338	misassembled
+175449	175824	6463	6837	0	pb000000000029_0__strand_50204-71433_length_21175_error-free_length_21231_read_identity_93.291_	95.01	
+CONTIG	pb000000000029_0__strand_50204-71433_length_21175_error-free_length_21231_read_identity_93.291_	21175	correct
+15928	23606	7620	1	0	pb000000000030_0_-strand_80199-88865_length_8660_error-free_length_8668_read_identity_97.860_	97.27	
+local misassembly
+14793	15828	8645	7621	0	pb000000000030_0_-strand_80199-88865_length_8660_error-free_length_8668_read_identity_97.860_	96.74	
+CONTIG	pb000000000030_0_-strand_80199-88865_length_8660_error-free_length_8668_read_identity_97.860_	8645	correct
+22574	28088	1	5483	0	pb000000000031_0__strand_18766-24281_length_5483_error-free_length_5487_read_identity_96.000_	95.74	
+CONTIG	pb000000000031_0__strand_18766-24281_length_5483_error-free_length_5487_read_identity_96.000_	5483	correct
+3799	14267	10467	1	0	pb000000000032_0_-strand_89387-100000_length_10644_error-free_length_10633_read_identity_97.680_	97.19	
+CONTIG	pb000000000032_0_-strand_89387-100000_length_10644_error-free_length_10633_read_identity_97.680_	10629	correct
+73271	82888	9544	1	0	pb000000000033_0_-strand_52264-62585_length_10308_error-free_length_10326_read_identity_97.018_	95.72	
+relocation, inconsistency = 31320
+41182	44163	10289	7332	0	pb000000000033_0_-strand_52264-62585_length_10308_error-free_length_10326_read_identity_97.018_	96.57	
+CONTIG	pb000000000033_0_-strand_52264-62585_length_10308_error-free_length_10326_read_identity_97.018_	10289	misassembled
+CONTIG	pb000000000034_1__strand_27159-46300_length_19082_error-free_length_19131_read_identity_92.565_	19054	unaligned
+75523	79590	6476	10547	1	pb000000000035_1__strand_54254-68627_length_14222_error-free_length_14227_read_identity_97.832_	98.07	
+relocation, inconsistency = 3963
+83061	87233	10055	14222	1	pb000000000035_1__strand_54254-68627_length_14222_error-free_length_14227_read_identity_97.832_	97.07	
+CONTIG	pb000000000035_1__strand_54254-68627_length_14222_error-free_length_14227_read_identity_97.832_	14222	misassembled
+8438	11321	1	2896	1	pb000000000036_1__strand_6673-21866_length_15220_error-free_length_15231_read_identity_98.693_	98.18	
+local misassembly
+11449	18011	2896	9481	1	pb000000000036_1__strand_6673-21866_length_15220_error-free_length_15231_read_identity_98.693_	98.23	
+relocation, inconsistency = 1023
+18908	21226	9355	11663	1	pb000000000036_1__strand_6673-21866_length_15220_error-free_length_15231_read_identity_98.693_	98.54	
+relocation, inconsistency = 3783
+24532	28544	11186	15196	1	pb000000000036_1__strand_6673-21866_length_15220_error-free_length_15231_read_identity_98.693_	97.92	
+CONTIG	pb000000000036_1__strand_6673-21866_length_15220_error-free_length_15231_read_identity_98.693_	15199	misassembled
+3134	4527	4	1397	1	pb000000000037_1__strand_2176-26767_length_24608_error-free_length_24602_read_identity_96.014_	96.81	
+local misassembly
+11449	18011	7387	13965	1	pb000000000037_1__strand_2176-26767_length_24608_error-free_length_24602_read_identity_96.014_	95.76	
+relocation, inconsistency = 1025
+18908	21199	13837	16133	1	pb000000000037_1__strand_2176-26767_length_24608_error-free_length_24602_read_identity_96.014_	96.0	
+relocation, inconsistency = 3783
+24532	30250	15683	21377	1	pb000000000037_1__strand_2176-26767_length_24608_error-free_length_24602_read_identity_96.014_	95.45	
+CONTIG	pb000000000037_1__strand_2176-26767_length_24608_error-free_length_24602_read_identity_96.014_	24600	misassembled
+48518	50123	1	1611	1	pb000000000038_1__strand_34771-54955_length_20263_error-free_length_20237_read_identity_95.749_	96.07	
+relocation, inconsistency = 52181
+107423	108498	6730	7816	1	pb000000000038_1__strand_34771-54955_length_20263_error-free_length_20237_read_identity_95.749_	95.89	
+relocation, inconsistency = -51526
+58872	61138	9716	11974	1	pb000000000038_1__strand_34771-54955_length_20263_error-free_length_20237_read_identity_95.749_	95.43	
+local misassembly
+61320	69562	11975	20232	1	pb000000000038_1__strand_34771-54955_length_20263_error-free_length_20237_read_identity_95.749_	95.8	
+CONTIG	pb000000000038_1__strand_34771-54955_length_20263_error-free_length_20237_read_identity_95.749_	20235	misassembled
+75523	79594	10856	14931	1	pb000000000039_1__strand_49972-87938_length_37946_error-free_length_37969_read_identity_95.601_	95.51	
+99988	100876	31024	31912	1	pb000000000039_1__strand_49972-87938_length_37946_error-free_length_37969_read_identity_95.601_	96.01	
+103208	104700	31582	33073	1	pb000000000039_1__strand_49972-87938_length_37946_error-free_length_37969_read_identity_95.601_	95.77	
+105359	107423	32979	35051	1	pb000000000039_1__strand_49972-87938_length_37946_error-free_length_37969_read_identity_95.601_	95.58	
+108499	110220	35052	36764	1	pb000000000039_1__strand_49972-87938_length_37946_error-free_length_37969_read_identity_95.601_	95.3	
+110814	112081	36677	37946	1	pb000000000039_1__strand_49972-87938_length_37946_error-free_length_37969_read_identity_95.601_	96.04	
+34596	39451	1	4914	1	pb000000000040_1__strand_23825-32665_length_8851_error-free_length_8860_read_identity_97.164_	96.17	
+relocation, inconsistency = 2587
+41688	43666	4564	6540	1	pb000000000040_1__strand_23825-32665_length_8851_error-free_length_8860_read_identity_97.164_	97.25	
+CONTIG	pb000000000040_1__strand_23825-32665_length_8851_error-free_length_8860_read_identity_97.164_	8823	misassembled
+90452	103004	12593	1	0	pb000000000041_0_-strand_40032-59233_length_19066_error-free_length_19082_read_identity_96.399_	95.9	
+relocation, inconsistency = 7932
+79022	83080	16072	12033	0	pb000000000041_0_-strand_40032-59233_length_19066_error-free_length_19082_read_identity_96.399_	96.01	
+local misassembly
+75899	78869	19054	16101	0	pb000000000041_0_-strand_40032-59233_length_19066_error-free_length_19082_read_identity_96.399_	95.39	
+CONTIG	pb000000000041_0_-strand_40032-59233_length_19066_error-free_length_19082_read_identity_96.399_	19054	misassembled
+22918	40484	1	17580	0	pb000000000042_0__strand_19108-36772_length_17604_error-free_length_17619_read_identity_97.090_	96.18	
+CONTIG	pb000000000042_0__strand_19108-36772_length_17604_error-free_length_17619_read_identity_97.090_	17580	correct
+73271	83080	10884	1130	0	pb000000000043_0_-strand_50953-67609_length_16732_error-free_length_16741_read_identity_96.321_	95.99	
+CONTIG	pb000000000043_0_-strand_50953-67609_length_16732_error-free_length_16741_read_identity_96.321_	16717	correct
+75523	79594	2647	6745	1	pb000000000044_1__strand_58241-72265_length_14026_error-free_length_14008_read_identity_96.492_	95.97	
+relocation, inconsistency = 3962
+83061	90442	6250	13590	1	pb000000000044_1__strand_58241-72265_length_14026_error-free_length_14008_read_identity_96.492_	95.43	
+CONTIG	pb000000000044_1__strand_58241-72265_length_14026_error-free_length_14008_read_identity_96.492_	14017	misassembled
+23925	28825	5003	1	0	pb000000000045_0_-strand_74980-85460_length_10707_error-free_length_10726_read_identity_97.854_	95.62	
+local misassembly
+18348	23894	10684	5140	0	pb000000000045_0_-strand_74980-85460_length_10707_error-free_length_10726_read_identity_97.854_	97.69	
+CONTIG	pb000000000045_0_-strand_74980-85460_length_10707_error-free_length_10726_read_identity_97.854_	10684	correct
+CONTIG	pb000000000046_1__strand_67672-82428_length_14736_error-free_length_14724_read_identity_91.391_	14736	unaligned
+CONTIG	pb000000000047_junk_seq_length_10753_error-free_length_11030_read_identity_93.386_	10725	unaligned
+CONTIG	pb000000000048_1_-strand_3118-13136_length_10040_error-free_length_10045_read_identity_93.335_	10009	unaligned
+31454	31887	4019	3587	1	pb000000000049_1_-strand_72853-80841_length_7988_error-free_length_7997_read_identity_95.582_	95.24	
+CONTIG	pb000000000049_1_-strand_72853-80841_length_7988_error-free_length_7997_read_identity_95.582_	7960	correct
+83082	83647	11415	10844	0	pb000000000050_0_-strand_41239-60161_length_18922_error-free_length_18888_read_identity_93.846_	95.32	
+CONTIG	pb000000000050_0_-strand_41239-60161_length_18922_error-free_length_18888_read_identity_93.846_	18913	correct
+CONTIG	pb000000000051_1_-strand_66520-100000_length_33433_error-free_length_33488_read_identity_93.075_	33425	unaligned
+CONTIG	pb000000000052_1__strand_94-15620_length_15409_error-free_length_15431_read_identity_91.715_	15386	unaligned
+41010	44163	13181	10061	0	pb000000000053_0_-strand_49543-62757_length_13181_error-free_length_13216_read_identity_94.896_	95.24	
+CONTIG	pb000000000053_0_-strand_49543-62757_length_13181_error-free_length_13216_read_identity_94.896_	13181	correct
+CONTIG	pb000000000054_1__strand_47973-56960_length_8986_error-free_length_9010_read_identity_92.904_	8961	unaligned
+CONTIG	pb000000000055_0__strand_62141-72800_length_10741_error-free_length_10695_read_identity_93.316_	10715	unaligned
+28114	37278	9296	1	0	pb000000000056_0_-strand_66432-75695_length_9328_error-free_length_9292_read_identity_96.051_	95.41	
+CONTIG	pb000000000056_0_-strand_66432-75695_length_9328_error-free_length_9292_read_identity_96.051_	9301	correct
+131720	132514	27857	28654	0	pb000000000057_1_-strand_33068-34618_chimera_0__strand_46695-100000_length_54838_error-free_length_54871_read_identity_93.613_	95.3	
+197324	197613	54526	54819	0	pb000000000057_1_-strand_33068-34618_chimera_0__strand_46695-100000_length_54838_error-free_length_54871_read_identity_93.613_	95.96	
+108934	110219	2	1285	1	pb000000000058_1__strand_85471-100000_length_14481_error-free_length_14502_read_identity_95.617_	96.08	
+local misassembly
+110814	114468	1201	4830	1	pb000000000058_1__strand_85471-100000_length_14481_error-free_length_14502_read_identity_95.617_	95.34	
+relocation, inconsistency = 3220
+117368	119306	4510	6441	1	pb000000000058_1__strand_85471-100000_length_14481_error-free_length_14502_read_identity_95.617_	95.02	
+relocation, inconsistency = 10035
+128346	135501	5446	12577	1	pb000000000058_1__strand_85471-100000_length_14481_error-free_length_14502_read_identity_95.617_	95.39	
+local misassembly
+136210	138186	12534	14480	1	pb000000000058_1__strand_85471-100000_length_14481_error-free_length_14502_read_identity_95.617_	95.14	
+CONTIG	pb000000000058_1__strand_85471-100000_length_14481_error-free_length_14502_read_identity_95.617_	14481	misassembled
+CONTIG	pb000000000059_junk_seq_length_5202_error-free_length_5302_read_identity_97.780_	5202	unaligned
+CONTIG	pb000000000060_junk_seq_length_13004_error-free_length_13383_read_identity_93.628_	13004	unaligned
+CONTIG	pb000000000061_junk_seq_length_19289_error-free_length_19837_read_identity_93.884_	19282	unaligned
+83061	83940	880	1	1	pb000000000062_1_-strand_34666-42313_length_7668_error-free_length_7660_read_identity_96.066_	95.85	
+relocation, inconsistency = 3961
+75523	79594	4452	386	1	pb000000000062_1_-strand_34666-42313_length_7668_error-free_length_7660_read_identity_96.066_	96.29	
+CONTIG	pb000000000062_1_-strand_34666-42313_length_7668_error-free_length_7660_read_identity_96.066_	7652	misassembled
+CONTIG	pb000000000063_random_seq_length_5217_error-free_length_5244_read_identity_98.106_	5189	unaligned
+35492	39451	1	4031	1	pb000000000064_1__strand_24721-40108_length_15394_error-free_length_15387_read_identity_97.535_	96.13	
+relocation, inconsistency = 2590
+41686	43663	3676	5648	1	pb000000000064_1__strand_24721-40108_length_15394_error-free_length_15387_read_identity_97.535_	97.49	
+local misassembly
+50397	54163	11623	15359	1	pb000000000064_1__strand_24721-40108_length_15394_error-free_length_15387_read_identity_97.535_	96.74	
+CONTIG	pb000000000064_1__strand_24721-40108_length_15394_error-free_length_15387_read_identity_97.535_	15359	misassembled
+CONTIG	pb000000000065_0__strand_24802-36846_length_12041_error-free_length_12041_read_identity_93.440_	12002	unaligned
+CONTIG	pb000000000066_1__strand_35653-44792_length_9136_error-free_length_9138_read_identity_93.298_	9136	unaligned
+CONTIG	pb000000000067_1__strand_45962-54972_length_9019_error-free_length_9019_read_identity_93.388_	9000	unaligned
+105452	106388	935	2	1	pb000000000068_1_-strand_16001-21383_length_5397_error-free_length_5398_read_identity_97.981_	97.66	
+local misassembly
+103209	104700	2425	935	1	pb000000000068_1_-strand_16001-21383_length_5397_error-free_length_5398_read_identity_97.981_	98.27	
+relocation, inconsistency = 2662
+99988	100876	2985	2096	1	pb000000000068_1_-strand_16001-21383_length_5397_error-free_length_5398_read_identity_97.981_	98.33	
+local misassembly
+97222	99655	5381	2948	1	pb000000000068_1_-strand_16001-21383_length_5397_error-free_length_5398_read_identity_97.981_	97.84	
+CONTIG	pb000000000068_1_-strand_16001-21383_length_5397_error-free_length_5398_read_identity_97.981_	5381	misassembled
+125181	126151	1	970	0	pb000000000069_0__strand_67925-78492_length_10585_error-free_length_10584_read_identity_95.637_	95.83	
+local misassembly
+126713	131711	920	5917	0	pb000000000069_0__strand_67925-78492_length_10585_error-free_length_10584_read_identity_95.637_	95.84	
+CONTIG	pb000000000069_0__strand_67925-78492_length_10585_error-free_length_10584_read_identity_95.637_	10566	correct
+175834	176169	3254	2914	0	pb000000000070_0_-strand_5517-18889_length_13358_error-free_length_13383_read_identity_92.954_	95.35	
+CONTIG	pb000000000070_0_-strand_5517-18889_length_13358_error-free_length_13383_read_identity_92.954_	13331	correct
+75523	79594	4154	68	1	pb000000000071_1_-strand_34982-41175_length_6228_error-free_length_6209_read_identity_98.088_	98.25	
+CONTIG	pb000000000071_1_-strand_34982-41175_length_6228_error-free_length_6209_read_identity_98.088_	6205	correct
+146330	147989	8954	10605	0	pb000000000072_0__strand_69424-94765_length_25289_error-free_length_25330_read_identity_94.249_	95.77	
+166656	168769	18500	20605	0	pb000000000072_0__strand_69424-94765_length_25289_error-free_length_25330_read_identity_94.249_	95.11	
+43318	43666	1	351	1	pb000000000073_1__strand_30018-35992_length_6007_error-free_length_6013_read_identity_95.600_	96.34	
+CONTIG	pb000000000073_1__strand_30018-35992_length_6007_error-free_length_6013_read_identity_95.600_	5980	correct
+146293	147096	807	1	0	pb000000000074_0_-strand_20821-26944_length_6137_error-free_length_6131_read_identity_96.019_	96.67	
+130922	131718	6127	5323	0	pb000000000074_0_-strand_20821-26944_length_6137_error-free_length_6131_read_identity_96.019_	95.82	
+166646	168561	97	2014	0	pb000000000075_0__strand_87862-99432_length_11617_error-free_length_11614_read_identity_97.425_	97.82	
+relocation, inconsistency = 15310
+185264	193476	3407	11607	0	pb000000000075_0__strand_87862-99432_length_11617_error-free_length_11614_read_identity_97.425_	96.39	
+CONTIG	pb000000000075_0__strand_87862-99432_length_11617_error-free_length_11614_read_identity_97.425_	11607	misassembled
+CONTIG	pb000000000076_0_-strand_24992-39266_length_14202_error-free_length_14251_read_identity_91.255_	14202	unaligned
+CONTIG	pb000000000077_1_-strand_45933-68540_length_22658_error-free_length_22678_read_identity_93.094_	22630	unaligned
+146293	147611	1324	1	0	pb000000000078_0_-strand_20306-33623_length_13367_error-free_length_13358_read_identity_94.738_	95.24	
+123631	126151	13342	10818	0	pb000000000078_0_-strand_20306-33623_length_13367_error-free_length_13358_read_identity_94.738_	95.2	
+108499	110220	1975	256	1	pb000000000079_1_-strand_12984-22017_length_9087_error-free_length_9063_read_identity_95.778_	96.38	
+relocation, inconsistency = 1075
+105454	107423	3953	1976	1	pb000000000079_1_-strand_12984-22017_length_9087_error-free_length_9063_read_identity_95.778_	96.1	
+local misassembly
+103208	104703	5455	3953	1	pb000000000079_1_-strand_12984-22017_length_9087_error-free_length_9063_read_identity_95.778_	95.34	
+relocation, inconsistency = 2667
+99994	100876	6002	5120	1	pb000000000079_1_-strand_12984-22017_length_9087_error-free_length_9063_read_identity_95.778_	96.31	
+local misassembly
+96586	99624	9055	6003	1	pb000000000079_1_-strand_12984-22017_length_9087_error-free_length_9063_read_identity_95.778_	95.6	
+CONTIG	pb000000000079_1_-strand_12984-22017_length_9087_error-free_length_9063_read_identity_95.778_	9058	misassembled
+37242	44163	1	6867	0	pb000000000080_0__strand_33527-41569_length_8085_error-free_length_8083_read_identity_96.799_	95.45	
+relocation, inconsistency = 31353
+73271	76698	4622	8049	0	pb000000000080_0__strand_33527-41569_length_8085_error-free_length_8083_read_identity_96.799_	95.1	
+CONTIG	pb000000000080_0__strand_33527-41569_length_8085_error-free_length_8083_read_identity_96.799_	8049	misassembled
+145093	145798	5	710	0	pb000000000081_0__strand_77700-100000_length_22328_error-free_length_22338_read_identity_97.308_	97.61	
+local misassembly
+146293	147989	673	2370	0	pb000000000081_0__strand_77700-100000_length_22328_error-free_length_22338_read_identity_97.308_	97.32	
+relocation, inconsistency = 6935
+154433	163153	1879	10597	0	pb000000000081_0__strand_77700-100000_length_22328_error-free_length_22338_read_identity_97.308_	97.29	
+relocation, inconsistency = 3822
+166975	168769	10597	12395	0	pb000000000081_0__strand_77700-100000_length_22328_error-free_length_22338_read_identity_97.308_	97.35	
+relocation, inconsistency = 5534
+173899	175448	11991	13544	0	pb000000000081_0__strand_77700-100000_length_22328_error-free_length_22338_read_identity_97.308_	96.3	
+relocation, inconsistency = 9816
+185264	193755	13544	22012	0	pb000000000081_0__strand_77700-100000_length_22328_error-free_length_22338_read_identity_97.308_	97.34	
+relocation, inconsistency = 3568
+197027	197613	21716	22300	0	pb000000000081_0__strand_77700-100000_length_22328_error-free_length_22338_read_identity_97.308_	98.98	
+CONTIG	pb000000000081_0__strand_77700-100000_length_22328_error-free_length_22338_read_identity_97.308_	22302	misassembled
+146293	147989	8202	9894	0	pb000000000082_0__strand_70182-100000_length_29804_error-free_length_29852_read_identity_95.368_	95.97	
+relocation, inconsistency = 6938
+154433	163153	9400	18129	0	pb000000000082_0__strand_70182-100000_length_29804_error-free_length_29852_read_identity_95.368_	95.44	
+relocation, inconsistency = 3822
+166975	168766	18129	19916	0	pb000000000082_0__strand_70182-100000_length_29804_error-free_length_29852_read_identity_95.368_	95.97	
+relocation, inconsistency = 5525
+173899	175448	19524	21074	0	pb000000000082_0__strand_70182-100000_length_29804_error-free_length_29852_read_identity_95.368_	95.62	
+relocation, inconsistency = 9816
+185264	193755	21074	29525	0	pb000000000082_0__strand_70182-100000_length_29804_error-free_length_29852_read_identity_95.368_	95.68	
+CONTIG	pb000000000082_0__strand_70182-100000_length_29804_error-free_length_29852_read_identity_95.368_	29786	misassembled
+CONTIG	pb000000000083_0_-strand_8785-37342_length_28538_error-free_length_28560_read_identity_92.683_	28512	unaligned
+CONTIG	pb000000000084_0_-strand_81207-100000_length_18976_error-free_length_18977_read_identity_92.709_	18950	unaligned
+44162	50122	6103	21	1	pb000000000085_1_-strand_63599-87973_length_24421_error-free_length_24414_read_identity_98.477_	96.43	
+local misassembly
+41686	43666	8014	6029	1	pb000000000085_1_-strand_63599-87973_length_24421_error-free_length_24414_read_identity_98.477_	98.19	
+relocation, inconsistency = 2593
+33892	39465	13295	7642	1	pb000000000085_1_-strand_63599-87973_length_24421_error-free_length_24414_read_identity_98.477_	97.08	
+relocation, inconsistency = 4066
+24532	30250	18610	12871	1	pb000000000085_1_-strand_63599-87973_length_24421_error-free_length_24414_read_identity_98.477_	96.31	
+relocation, inconsistency = 3783
+18975	21176	20380	18183	1	pb000000000085_1_-strand_63599-87973_length_24421_error-free_length_24414_read_identity_98.477_	98.28	
+relocation, inconsistency = 1025
+13918	17950	24402	20380	1	pb000000000085_1_-strand_63599-87973_length_24421_error-free_length_24414_read_identity_98.477_	97.61	
+CONTIG	pb000000000085_1_-strand_63599-87973_length_24421_error-free_length_24414_read_identity_98.477_	24402	misassembled
+122450	126151	2	3712	0	pb000000000086_0__strand_65193-71082_length_5914_error-free_length_5934_read_identity_97.427_	97.12	
+local misassembly
+126763	128947	3712	5891	0	pb000000000086_0__strand_65193-71082_length_5914_error-free_length_5934_read_identity_97.427_	97.14	
+CONTIG	pb000000000086_0__strand_65193-71082_length_5914_error-free_length_5934_read_identity_97.427_	5891	correct
+50435	53936	3439	1	1	pb000000000087_1_-strand_60118-67945_length_7786_error-free_length_7794_read_identity_97.108_	95.5	
+local misassembly
+45875	50123	7760	3439	1	pb000000000087_1_-strand_60118-67945_length_7786_error-free_length_7794_read_identity_97.108_	95.4	
+CONTIG	pb000000000087_1_-strand_60118-67945_length_7786_error-free_length_7794_read_identity_97.108_	7760	correct
+50378	50604	232	1	1	pb000000000088_1_-strand_63450-96780_length_33330_error-free_length_33331_read_identity_98.487_	96.55	
+local misassembly
+44162	50123	6242	171	1	pb000000000088_1_-strand_63450-96780_length_33330_error-free_length_33331_read_identity_98.487_	96.25	
+local misassembly
+41686	43666	8144	6170	1	pb000000000088_1_-strand_63450-96780_length_33330_error-free_length_33331_read_identity_98.487_	97.69	
+relocation, inconsistency = 2590
+33892	39465	13414	7775	1	pb000000000088_1_-strand_63450-96780_length_33330_error-free_length_33331_read_identity_98.487_	97.3	
+relocation, inconsistency = 4062
+24532	30198	18698	13046	1	pb000000000088_1_-strand_63450-96780_length_33330_error-free_length_33331_read_identity_98.487_	97.38	
+relocation, inconsistency = 3786
+18908	21226	20536	18218	1	pb000000000088_1_-strand_63450-96780_length_33330_error-free_length_33331_read_identity_98.487_	98.5	
+relocation, inconsistency = 1025
+11449	18011	26989	20408	1	pb000000000088_1_-strand_63450-96780_length_33330_error-free_length_33331_read_identity_98.487_	98.19	
+local misassembly
+5208	11321	32963	26989	1	pb000000000088_1_-strand_63450-96780_length_33330_error-free_length_33331_read_identity_98.487_	96.48	
+local misassembly
+4174	4527	33309	32956	1	pb000000000088_1_-strand_63450-96780_length_33330_error-free_length_33331_read_identity_98.487_	98.88	
+CONTIG	pb000000000088_1_-strand_63450-96780_length_33330_error-free_length_33331_read_identity_98.487_	33309	misassembled
+91174	102674	11545	1	0	pb000000000089_0_-strand_40362-51922_length_11554_error-free_length_11565_read_identity_97.330_	96.85	
+CONTIG	pb000000000089_0_-strand_40362-51922_length_11554_error-free_length_11565_read_identity_97.330_	11547	correct
+CONTIG	pb000000000090_0_-strand_70162-79410_length_9314_error-free_length_9266_read_identity_95.331_	9294	unaligned
+92496	99655	1	7106	1	pb000000000091_1__strand_73929-81105_length_7164_error-free_length_7181_read_identity_96.996_	96.51	
+CONTIG	pb000000000091_1__strand_73929-81105_length_7164_error-free_length_7181_read_identity_96.996_	7157	correct
+129840	131718	1	1881	0	pb000000000092_0__strand_71972-84138_length_12115_error-free_length_12115_read_identity_97.806_	98.36	
+relocation, inconsistency = 9556
+140473	145798	1080	6439	0	pb000000000092_0__strand_71972-84138_length_12115_error-free_length_12115_read_identity_97.806_	95.39	
+relocation, inconsistency = 7530
+154433	158993	7544	12097	0	pb000000000092_0__strand_71972-84138_length_12115_error-free_length_12115_read_identity_97.806_	98.19	
+CONTIG	pb000000000092_0__strand_71972-84138_length_12115_error-free_length_12115_read_identity_97.806_	12098	misassembled
+25255	33765	1	8624	0	pb000000000093_0__strand_21447-30055_length_8639_error-free_length_8641_read_identity_97.673_	96.42	
+CONTIG	pb000000000093_0__strand_21447-30055_length_8639_error-free_length_8641_read_identity_97.673_	8624	correct
+9751	15831	1	6011	0	pb000000000094_0__strand_6090-16206_length_10066_error-free_length_10082_read_identity_96.529_	95.86	
+local misassembly
+15931	20013	6013	10042	0	pb000000000094_0__strand_6090-16206_length_10066_error-free_length_10082_read_identity_96.529_	95.47	
+CONTIG	pb000000000094_0__strand_6090-16206_length_10066_error-free_length_10082_read_identity_96.529_	10042	correct
+3045	4527	1	1480	1	pb000000000095_1__strand_2089-7894_length_5810_error-free_length_5816_read_identity_96.907_	96.4	
+CONTIG	pb000000000095_1__strand_2089-7894_length_5810_error-free_length_5816_read_identity_96.907_	5797	correct
+185264	188276	3010	1	0	pb000000000096_0_-strand_5752-11699_length_5975_error-free_length_5972_read_identity_95.089_	95.13	
+relocation, inconsistency = 9816
+173901	175448	4558	3010	0	pb000000000096_0_-strand_5752-11699_length_5975_error-free_length_5972_read_identity_95.089_	95.37	
+relocation, inconsistency = 5528
+166989	168769	5948	4162	0	pb000000000096_0_-strand_5752-11699_length_5975_error-free_length_5972_read_identity_95.089_	95.74	
+CONTIG	pb000000000096_0_-strand_5752-11699_length_5975_error-free_length_5972_read_identity_95.089_	5948	misassembled
+90452	106179	15830	1	0	pb000000000097_0_-strand_36854-58765_length_21936_error-free_length_21908_read_identity_98.052_	97.06	
+relocation, inconsistency = 7939
+76367	83080	21936	15263	0	pb000000000097_0_-strand_36854-58765_length_21936_error-free_length_21908_read_identity_98.052_	97.54	
+CONTIG	pb000000000097_0_-strand_36854-58765_length_21936_error-free_length_21908_read_identity_98.052_	21936	misassembled
+61323	72517	11192	1	1	pb000000000098_1_-strand_42100-53941_length_11843_error-free_length_11856_read_identity_97.858_	97.54	
+local misassembly
+60489	61141	11843	11195	1	pb000000000098_1_-strand_42100-53941_length_11843_error-free_length_11856_read_identity_97.858_	97.4	
+CONTIG	pb000000000098_1_-strand_42100-53941_length_11843_error-free_length_11856_read_identity_97.858_	11843	correct
+63580	73291	9724	1	1	pb000000000099_1_-strand_41333-51024_length_9738_error-free_length_9703_read_identity_95.417_	95.41	
+CONTIG	pb000000000099_1_-strand_41333-51024_length_9738_error-free_length_9703_read_identity_95.417_	9724	correct
+CONTIG	pb000000000100_1_-strand_2903-10999_length_8063_error-free_length_8080_read_identity_94.350_	8051	unaligned
+148491	148984	1687	2173	0	pb000000000101_0__strand_77987-85025_length_7195_error-free_length_7184_read_identity_94.598_	95.4	
+CONTIG	pb000000000101_0__strand_77987-85025_length_7195_error-free_length_7184_read_identity_94.598_	7169	correct
+CONTIG	pb000000000102_0_-strand_26227-89551_length_63289_error-free_length_63316_read_identity_91.808_	63263	unaligned
+187616	193755	1	6099	0	pb000000000103_0__strand_93583-100000_length_6410_error-free_length_6411_read_identity_97.040_	96.38	
+relocation, inconsistency = 3566
+197027	197613	5805	6391	0	pb000000000103_0__strand_93583-100000_length_6410_error-free_length_6411_read_identity_97.040_	96.97	
+CONTIG	pb000000000103_0__strand_93583-100000_length_6410_error-free_length_6411_read_identity_97.040_	6391	misassembled
+CONTIG	pb000000000104_0_-strand_9597-31018_length_21451_error-free_length_21464_read_identity_93.248_	21425	unaligned
+CONTIG	pb000000000105_0_-strand_29573-53933_length_24381_error-free_length_24387_read_identity_93.110_	24359	unaligned
+83061	99655	1404	18012	1	pb000000000106_1__strand_63074-86742_length_23621_error-free_length_23614_read_identity_96.061_	95.55	
+local misassembly
+99988	100876	17975	18867	1	pb000000000106_1__strand_63074-86742_length_23621_error-free_length_23614_read_identity_96.061_	96.35	
+relocation, inconsistency = 2668
+103208	104497	18531	19823	1	pb000000000106_1__strand_63074-86742_length_23621_error-free_length_23614_read_identity_96.061_	96.03	
+local misassembly
+105362	107423	19828	21896	1	pb000000000106_1__strand_63074-86742_length_23621_error-free_length_23614_read_identity_96.061_	95.95	
+relocation, inconsistency = 1075
+108499	110205	21897	23596	1	pb000000000106_1__strand_63074-86742_length_23621_error-free_length_23614_read_identity_96.061_	95.32	
+CONTIG	pb000000000106_1__strand_63074-86742_length_23621_error-free_length_23614_read_identity_96.061_	23596	misassembled
+76791	83080	4	6253	0	pb000000000107_0__strand_41653-54865_length_13204_error-free_length_13217_read_identity_95.503_	95.68	
+relocation, inconsistency = 7939
+90452	97930	5686	13189	0	pb000000000107_0__strand_41653-54865_length_13204_error-free_length_13217_read_identity_95.503_	95.15	
+CONTIG	pb000000000107_0__strand_41653-54865_length_13204_error-free_length_13217_read_identity_95.503_	13189	misassembled
+33892	39451	3090	8694	1	pb000000000108_1__strand_20036-44787_length_24755_error-free_length_24769_read_identity_95.880_	95.24	
+relocation, inconsistency = 2589
+41686	43666	8340	10314	1	pb000000000108_1__strand_20036-44787_length_24755_error-free_length_24769_read_identity_95.880_	95.85	
+local misassembly
+50378	58597	16270	24436	1	pb000000000108_1__strand_20036-44787_length_24755_error-free_length_24769_read_identity_95.880_	95.14	
+local misassembly
+58873	59206	24400	24735	1	pb000000000108_1__strand_20036-44787_length_24755_error-free_length_24769_read_identity_95.880_	96.17	
+CONTIG	pb000000000108_1__strand_20036-44787_length_24755_error-free_length_24769_read_identity_95.880_	24735	misassembled
+10800	15832	1	5037	0	pb000000000109_0__strand_7140-15751_length_8775_error-free_length_8761_read_identity_94.663_	95.19	
+CONTIG	pb000000000109_0__strand_7140-15751_length_8775_error-free_length_8761_read_identity_94.663_	8760	correct
+CONTIG	pb000000000110_1_-strand_63660-87385_length_23864_error-free_length_23857_read_identity_93.595_	23864	unaligned
+117688	118588	902	1	1	pb000000000111_1_-strand_8771-16247_length_7512_error-free_length_7490_read_identity_94.360_	95.2	
+CONTIG	pb000000000111_1_-strand_8771-16247_length_7512_error-free_length_7490_read_identity_94.360_	7496	correct
+CONTIG	pb000000000112_1_-strand_24589-39921_length_15333_error-free_length_15351_read_identity_92.285_	15310	unaligned
+83931	99647	466	16203	1	pb000000000113_1__strand_64811-88980_length_24157_error-free_length_24142_read_identity_96.208_	95.59	
+local misassembly
+100020	100847	16209	17037	1	pb000000000113_1__strand_64811-88980_length_24157_error-free_length_24142_read_identity_96.208_	95.71	
+relocation, inconsistency = 2667
+103208	104700	16731	18222	1	pb000000000113_1__strand_64811-88980_length_24157_error-free_length_24142_read_identity_96.208_	97.02	
+local misassembly
+105452	107423	18222	20205	1	pb000000000113_1__strand_64811-88980_length_24157_error-free_length_24142_read_identity_96.208_	96.85	
+relocation, inconsistency = 1075
+108499	110218	20206	21927	1	pb000000000113_1__strand_64811-88980_length_24157_error-free_length_24142_read_identity_96.208_	96.61	
+local misassembly
+110900	113123	21928	24143	1	pb000000000113_1__strand_64811-88980_length_24157_error-free_length_24142_read_identity_96.208_	96.75	
+CONTIG	pb000000000113_1__strand_64811-88980_length_24157_error-free_length_24142_read_identity_96.208_	24145	misassembled
+89888	90451	8403	8968	0	pb000000000114_0__strand_38924-49287_length_10354_error-free_length_10371_read_identity_94.158_	95.3	
+CONTIG	pb000000000114_0__strand_38924-49287_length_10354_error-free_length_10371_read_identity_94.158_	10336	correct
+173899	175448	231	1804	0	pb000000000115_0__strand_89449-94846_length_5433_error-free_length_5431_read_identity_97.017_	95.84	
+relocation, inconsistency = 9816
+185264	188890	1804	5416	0	pb000000000115_0__strand_89449-94846_length_5433_error-free_length_5431_read_identity_97.017_	96.86	
+CONTIG	pb000000000115_0__strand_89449-94846_length_5433_error-free_length_5431_read_identity_97.017_	5416	misassembled
+90452	93003	2588	1	0	pb000000000116_0_-strand_50058-68322_length_18174_error-free_length_18178_read_identity_98.051_	97.12	
+relocation, inconsistency = 7936
+73271	83080	11723	2024	0	pb000000000116_0_-strand_50058-68322_length_18174_error-free_length_18178_read_identity_98.051_	96.89	
+relocation, inconsistency = 31340
+35391	43763	18155	9891	0	pb000000000116_0_-strand_50058-68322_length_18174_error-free_length_18178_read_identity_98.051_	96.94	
+CONTIG	pb000000000116_0_-strand_50058-68322_length_18174_error-free_length_18178_read_identity_98.051_	18155	misassembled
+99368	109052	1	9706	0	pb000000000117_0__strand_56300-100000_length_43738_error-free_length_43765_read_identity_97.020_	96.01	
+relocation, inconsistency = 14220
+122108	126151	8542	12585	0	pb000000000117_0__strand_56300-100000_length_43738_error-free_length_43765_read_identity_97.020_	96.92	
+local misassembly
+126763	131718	12585	17516	0	pb000000000117_0__strand_56300-100000_length_43738_error-free_length_43765_read_identity_97.020_	96.23	
+relocation, inconsistency = 9967
+146330	147989	22161	23820	0	pb000000000117_0__strand_56300-100000_length_43738_error-free_length_43765_read_identity_97.020_	97.73	
+relocation, inconsistency = 6936
+154433	163153	23328	32021	0	pb000000000117_0__strand_56300-100000_length_43738_error-free_length_43765_read_identity_97.020_	96.97	
+relocation, inconsistency = 3816
+166646	168769	31698	33811	0	pb000000000117_0__strand_56300-100000_length_43738_error-free_length_43765_read_identity_97.020_	96.78	
+relocation, inconsistency = 5529
+173899	175448	33412	34962	0	pb000000000117_0__strand_56300-100000_length_43738_error-free_length_43765_read_identity_97.020_	97.25	
+relocation, inconsistency = 9816
+185264	193755	34962	43426	0	pb000000000117_0__strand_56300-100000_length_43738_error-free_length_43765_read_identity_97.020_	96.93	
+relocation, inconsistency = 3564
+197027	197613	43134	43717	0	pb000000000117_0__strand_56300-100000_length_43738_error-free_length_43765_read_identity_97.020_	97.96	
+CONTIG	pb000000000117_0__strand_56300-100000_length_43738_error-free_length_43765_read_identity_97.020_	43717	misassembled
+34678	44160	1	9442	0	pb000000000118_0__strand_30963-43966_length_13073_error-free_length_13055_read_identity_96.711_	96.04	
+relocation, inconsistency = 31328
+73271	79119	7225	13049	0	pb000000000118_0__strand_30963-43966_length_13073_error-free_length_13055_read_identity_96.711_	96.15	
+CONTIG	pb000000000118_0__strand_30963-43966_length_13073_error-free_length_13055_read_identity_96.711_	13049	misassembled
+CONTIG	pb000000000119_0_-strand_35885-45057_length_9251_error-free_length_9245_read_identity_94.042_	9207	unaligned
+75729	79591	1	3856	1	pb000000000120_1__strand_61080-68980_length_7850_error-free_length_7864_read_identity_97.355_	96.85	
+relocation, inconsistency = 3957
+83061	87559	3369	7833	1	pb000000000120_1__strand_61080-68980_length_7850_error-free_length_7864_read_identity_97.355_	96.15	
+CONTIG	pb000000000120_1__strand_61080-68980_length_7850_error-free_length_7864_read_identity_97.355_	7833	misassembled
+131719	132514	3710	4505	0	pb000000000121_0__strand_69290-87457_length_18146_error-free_length_18156_read_identity_94.375_	95.06	
+146293	147989	9033	10731	0	pb000000000121_0__strand_69290-87457_length_18146_error-free_length_18156_read_identity_94.375_	95.6	
+38714	44163	1	5372	0	pb000000000122_0__strand_35001-42964_length_7944_error-free_length_7950_read_identity_96.894_	95.93	
+relocation, inconsistency = 31326
+73271	78095	3154	7944	0	pb000000000122_0__strand_35001-42964_length_7944_error-free_length_7950_read_identity_96.894_	96.29	
+CONTIG	pb000000000122_0__strand_35001-42964_length_7944_error-free_length_7950_read_identity_96.894_	7944	misassembled
+15931	38930	23047	1	0	pb000000000123_0_-strand_64780-89778_length_25027_error-free_length_25013_read_identity_97.689_	97.0	
+local misassembly
+13882	15828	25001	23051	0	pb000000000123_0_-strand_64780-89778_length_25027_error-free_length_25013_read_identity_97.689_	97.05	
+CONTIG	pb000000000123_0_-strand_64780-89778_length_25027_error-free_length_25013_read_identity_97.689_	25001	correct
+36222	44163	4	7878	0	pb000000000124_0__strand_32503-79923_length_47479_error-free_length_47495_read_identity_95.650_	95.03	
+relocation, inconsistency = 31335
+73275	83080	5655	15421	0	pb000000000124_0__strand_32503-79923_length_47479_error-free_length_47495_read_identity_95.650_	95.57	
+relocation, inconsistency = 7934
+90455	109051	14862	33537	0	pb000000000124_0__strand_32503-79923_length_47479_error-free_length_47495_read_identity_95.650_	95.09	
+relocation, inconsistency = 14245
+122108	126151	32349	36422	0	pb000000000124_0__strand_32503-79923_length_47479_error-free_length_47495_read_identity_95.650_	95.49	
+local misassembly
+126763	131718	36422	41375	0	pb000000000124_0__strand_32503-79923_length_47479_error-free_length_47495_read_identity_95.650_	95.66	
+relocation, inconsistency = 10046
+146293	147842	45904	47452	0	pb000000000124_0__strand_32503-79923_length_47479_error-free_length_47495_read_identity_95.650_	96.3	
+CONTIG	pb000000000124_0__strand_32503-79923_length_47479_error-free_length_47495_read_identity_95.650_	47452	misassembled
+CONTIG	pb000000000125_0__strand_22860-55122_length_32219_error-free_length_32258_read_identity_93.358_	32219	unaligned
+18908	20590	1698	1	1	pb000000000126_1_-strand_82309-93323_length_11074_error-free_length_11016_read_identity_95.818_	96.5	
+relocation, inconsistency = 1025
+11444	18009	8172	1572	1	pb000000000126_1_-strand_82309-93323_length_11074_error-free_length_11016_read_identity_95.818_	95.85	
+local misassembly
+8440	11312	11072	8176	1	pb000000000126_1_-strand_82309-93323_length_11074_error-free_length_11016_read_identity_95.818_	96.07	
+CONTIG	pb000000000126_1_-strand_82309-93323_length_11074_error-free_length_11016_read_identity_95.818_	11074	misassembled
+166646	167746	1097	1	0	pb000000000127_0_-strand_10939-27008_length_16023_error-free_length_16032_read_identity_97.367_	97.83	
+relocation, inconsistency = 3818
+154433	163153	9493	772	0	pb000000000127_0_-strand_10939-27008_length_16023_error-free_length_16032_read_identity_97.367_	97.16	
+relocation, inconsistency = 6937
+146293	147989	10696	9000	0	pb000000000127_0_-strand_10939-27008_length_16023_error-free_length_16032_read_identity_97.367_	97.54	
+relocation, inconsistency = 10142
+130858	131718	15995	15129	0	pb000000000127_0_-strand_10939-27008_length_16023_error-free_length_16032_read_identity_97.367_	98.16	
+CONTIG	pb000000000127_0_-strand_10939-27008_length_16023_error-free_length_16032_read_identity_97.367_	15995	misassembled
+122109	125106	2988	1	0	pb000000000128_0_-strand_32145-51688_length_19516_error-free_length_19538_read_identity_95.751_	96.17	
+relocation, inconsistency = 14217
+91379	109051	19487	1829	0	pb000000000128_0_-strand_32145-51688_length_19516_error-free_length_19538_read_identity_95.751_	95.18	
+CONTIG	pb000000000128_0_-strand_32145-51688_length_19516_error-free_length_19538_read_identity_95.751_	19491	misassembled
+4525	5212	1340	2029	1	pb000000000129_1__strand_69803-100000_length_30179_error-free_length_30195_read_identity_95.129_	96.56	
+relocation, inconsistency = 85627
+100014	100876	11204	12069	1	pb000000000129_1__strand_69803-100000_length_30179_error-free_length_30195_read_identity_95.129_	95.67	
+relocation, inconsistency = 2664
+103540	104698	12069	13228	1	pb000000000129_1__strand_69803-100000_length_30179_error-free_length_30195_read_identity_95.129_	95.32	
+local misassembly
+105452	107423	13232	15211	1	pb000000000129_1__strand_69803-100000_length_30179_error-free_length_30195_read_identity_95.129_	96.0	
+relocation, inconsistency = 1075
+108499	110220	15212	16944	1	pb000000000129_1__strand_69803-100000_length_30179_error-free_length_30195_read_identity_95.129_	95.32	
+local misassembly
+110900	114470	16944	20505	1	pb000000000129_1__strand_69803-100000_length_30179_error-free_length_30195_read_identity_95.129_	95.02	
+relocation, inconsistency = 3220
+117366	119306	20181	22122	1	pb000000000129_1__strand_69803-100000_length_30179_error-free_length_30195_read_identity_95.129_	95.08	
+relocation, inconsistency = 10042
+129348	135558	22122	28311	1	pb000000000129_1__strand_69803-100000_length_30179_error-free_length_30195_read_identity_95.129_	95.63	
+CONTIG	pb000000000129_1__strand_69803-100000_length_30179_error-free_length_30195_read_identity_95.129_	30167	misassembled
+11449	12038	594	3	1	pb000000000130_1_-strand_89847-100000_length_10189_error-free_length_10187_read_identity_98.847_	98.82	
+local misassembly
+5208	11321	6584	594	1	pb000000000130_1_-strand_89847-100000_length_10189_error-free_length_10187_read_identity_98.847_	96.89	
+local misassembly
+1830	4527	9274	6577	1	pb000000000130_1_-strand_89847-100000_length_10189_error-free_length_10187_read_identity_98.847_	98.71	
+local misassembly
+590	1195	9763	9153	1	pb000000000130_1_-strand_89847-100000_length_10189_error-free_length_10187_read_identity_98.847_	97.88	
+CONTIG	pb000000000130_1_-strand_89847-100000_length_10189_error-free_length_10187_read_identity_98.847_	10176	correct
+18908	19903	996	1	1	pb000000000131_1_-strand_82994-88379_length_5428_error-free_length_5405_read_identity_97.515_	97.81	
+relocation, inconsistency = 1023
+13512	18011	5407	870	1	pb000000000131_1_-strand_82994-88379_length_5428_error-free_length_5405_read_identity_97.515_	97.43	
+CONTIG	pb000000000131_1_-strand_82994-88379_length_5428_error-free_length_5405_read_identity_97.515_	5407	misassembled
+7198	15822	1	8576	0	pb000000000132_0__strand_3566-27317_length_23758_error-free_length_23780_read_identity_96.493_	96.41	
+local misassembly
+15920	31027	8576	23727	0	pb000000000132_0__strand_3566-27317_length_23758_error-free_length_23780_read_identity_96.493_	95.58	
+CONTIG	pb000000000132_0__strand_3566-27317_length_23758_error-free_length_23780_read_identity_96.493_	23727	correct
+CONTIG	pb000000000133_0_-strand_83362-90742_length_7394_error-free_length_7404_read_identity_94.747_	7368	unaligned
+CONTIG	pb000000000134_0__strand_11508-42811_length_31245_error-free_length_31248_read_identity_94.162_	31224	unaligned
+158691	163150	1	4444	0	pb000000000135_0__strand_83834-100000_length_16188_error-free_length_16178_read_identity_95.726_	95.51	
+relocation, inconsistency = 9362
+173899	175448	5831	7389	0	pb000000000135_0__strand_83834-100000_length_16188_error-free_length_16178_read_identity_95.726_	95.88	
+relocation, inconsistency = 9816
+185264	193755	7389	15873	0	pb000000000135_0__strand_83834-100000_length_16188_error-free_length_16178_read_identity_95.726_	96.03	
+relocation, inconsistency = 3571
+197027	197613	15574	16160	0	pb000000000135_0__strand_83834-100000_length_16188_error-free_length_16178_read_identity_95.726_	96.46	
+CONTIG	pb000000000135_0__strand_83834-100000_length_16188_error-free_length_16178_read_identity_95.726_	16160	misassembled
+15929	28562	3036	15572	0	pb000000000136_0__strand_9171-24755_length_15598_error-free_length_15612_read_identity_95.754_	95.33	
+CONTIG	pb000000000136_0__strand_9171-24755_length_15598_error-free_length_15612_read_identity_95.754_	15572	correct
+83061	91074	8106	1	1	pb000000000137_1_-strand_27491-60462_length_33033_error-free_length_33069_read_identity_97.162_	95.84	
+relocation, inconsistency = 3967
+75523	79594	11681	7606	1	pb000000000137_1_-strand_27491-60462_length_33033_error-free_length_33069_read_identity_97.162_	97.2	
+local misassembly
+61304	75406	25853	11681	1	pb000000000137_1_-strand_27491-60462_length_33033_error-free_length_33069_read_identity_97.162_	96.03	
+local misassembly
+58870	61141	28100	25836	1	pb000000000137_1_-strand_27491-60462_length_33033_error-free_length_33069_read_identity_97.162_	97.08	
+local misassembly
+53595	58597	33004	28061	1	pb000000000137_1_-strand_27491-60462_length_33033_error-free_length_33069_read_identity_97.162_	96.06	
+CONTIG	pb000000000137_1_-strand_27491-60462_length_33033_error-free_length_33069_read_identity_97.162_	33004	misassembled
+96061	99655	1	3595	1	pb000000000138_1__strand_77455-100000_length_22540_error-free_length_22568_read_identity_97.065_	97.22	
+relocation, inconsistency = 3035
+103208	104700	4113	5596	1	pb000000000138_1__strand_77455-100000_length_22540_error-free_length_22568_read_identity_97.065_	97.2	
+local misassembly
+105359	107423	5502	7565	1	pb000000000138_1__strand_77455-100000_length_22540_error-free_length_22568_read_identity_97.065_	97.36	
+relocation, inconsistency = 1075
+108499	110217	7566	9286	1	pb000000000138_1__strand_77455-100000_length_22540_error-free_length_22568_read_identity_97.065_	98.03	
+local misassembly
+110898	114470	9286	12860	1	pb000000000138_1__strand_77455-100000_length_22540_error-free_length_22568_read_identity_97.065_	97.28	
+relocation, inconsistency = 3221
+117368	119306	12537	14483	1	pb000000000138_1__strand_77455-100000_length_22540_error-free_length_22568_read_identity_97.065_	96.94	
+relocation, inconsistency = 10047
+128346	135558	13476	20668	1	pb000000000138_1__strand_77455-100000_length_22540_error-free_length_22568_read_identity_97.065_	96.9	
+local misassembly
+136233	138184	20594	22513	1	pb000000000138_1__strand_77455-100000_length_22540_error-free_length_22568_read_identity_97.065_	96.03	
+CONTIG	pb000000000138_1__strand_77455-100000_length_22540_error-free_length_22568_read_identity_97.065_	22518	misassembled
+CONTIG	pb000000000139_0_-strand_14068-34800_length_20725_error-free_length_20737_read_identity_92.845_	20710	unaligned
+41686	43666	5384	3412	1	pb000000000140_1_-strand_66211-83700_length_17498_error-free_length_17512_read_identity_96.526_	96.85	
+relocation, inconsistency = 2594
+33892	39451	10642	5025	1	pb000000000140_1_-strand_66211-83700_length_17498_error-free_length_17512_read_identity_96.526_	95.64	
+relocation, inconsistency = 4064
+24532	29937	15927	10533	1	pb000000000140_1_-strand_66211-83700_length_17498_error-free_length_17512_read_identity_96.526_	95.61	
+relocation, inconsistency = 3789
+19200	21226	17471	15444	1	pb000000000140_1_-strand_66211-83700_length_17498_error-free_length_17512_read_identity_96.526_	96.4	
+CONTIG	pb000000000140_1_-strand_66211-83700_length_17498_error-free_length_17512_read_identity_96.526_	17472	misassembled
+98797	106066	7342	1	0	pb000000000141_0_-strand_36965-44269_length_7354_error-free_length_7338_read_identity_97.052_	95.55	
+CONTIG	pb000000000141_0_-strand_36965-44269_length_7354_error-free_length_7338_read_identity_97.052_	7344	correct
+37469	39451	1	1985	1	pb000000000142_1__strand_26752-50422_length_23691_error-free_length_23662_read_identity_95.393_	96.37	
+41712	43666	1653	3617	1	pb000000000142_1__strand_26752-50422_length_23691_error-free_length_23662_read_identity_95.393_	96.27	
+50397	58594	9586	17732	1	pb000000000142_1__strand_26752-50422_length_23691_error-free_length_23662_read_identity_95.393_	95.07	
+CONTIG	pb000000000143_1__strand_44817-69563_length_24698_error-free_length_24756_read_identity_94.918_	24698	unaligned
+CONTIG	pb000000000144_0_-strand_72524-78566_length_6087_error-free_length_6066_read_identity_95.498_	6066	unaligned
+132045	135558	1	3518	1	pb000000000145_1__strand_94641-100000_length_5398_error-free_length_5384_read_identity_95.567_	95.83	
+CONTIG	pb000000000145_1__strand_94641-100000_length_5398_error-free_length_5384_read_identity_95.567_	5371	correct
+50378	56535	6224	62	1	pb000000000146_1_-strand_57458-76551_length_19125_error-free_length_19110_read_identity_96.620_	96.5	
+local misassembly
+42057	43666	13798	12174	1	pb000000000146_1_-strand_57458-76551_length_19125_error-free_length_19110_read_identity_96.620_	96.15	
+relocation, inconsistency = 2592
+34218	39465	19106	13798	1	pb000000000146_1_-strand_57458-76551_length_19125_error-free_length_19110_read_identity_96.620_	95.73	
+CONTIG	pb000000000146_1_-strand_57458-76551_length_19125_error-free_length_19110_read_identity_96.620_	19106	misassembled
+CONTIG	pb000000000147_1__strand_33501-45346_length_11873_error-free_length_11868_read_identity_92.160_	11842	unaligned
+92694	99655	1	6922	1	pb000000000148_1__strand_74127-86362_length_12243_error-free_length_12251_read_identity_97.469_	97.01	
+local misassembly
+100025	100876	6922	7778	1	pb000000000148_1__strand_74127-86362_length_12243_error-free_length_12251_read_identity_97.469_	98.14	
+relocation, inconsistency = 2667
+103208	104697	7443	8926	1	pb000000000148_1__strand_74127-86362_length_12243_error-free_length_12251_read_identity_97.469_	95.32	
+local misassembly
+105449	107423	8926	10902	1	pb000000000148_1__strand_74127-86362_length_12243_error-free_length_12251_read_identity_97.469_	97.44	
+relocation, inconsistency = 1075
+108499	109825	10903	12224	1	pb000000000148_1__strand_74127-86362_length_12243_error-free_length_12251_read_identity_97.469_	97.23	
+CONTIG	pb000000000148_1__strand_74127-86362_length_12243_error-free_length_12251_read_identity_97.469_	12225	misassembled
+CONTIG	pb000000000149_0__strand_44047-55699_length_11753_error-free_length_11741_read_identity_93.674_	11716	unaligned
+19035	21163	2116	1	1	pb000000000150_1_-strand_81734-86885_length_5145_error-free_length_5168_read_identity_95.314_	95.55	
+relocation, inconsistency = 1024
+14993	18011	5126	2116	1	pb000000000150_1_-strand_81734-86885_length_5145_error-free_length_5168_read_identity_95.314_	95.52	
+CONTIG	pb000000000150_1_-strand_81734-86885_length_5145_error-free_length_5168_read_identity_95.314_	5126	misassembled
+53200	58597	1	5321	1	pb000000000151_1__strand_39141-45749_length_6625_error-free_length_6652_read_identity_97.184_	96.04	
+local misassembly
+58870	60176	5283	6577	1	pb000000000151_1__strand_39141-45749_length_6625_error-free_length_6652_read_identity_97.184_	97.18	
+CONTIG	pb000000000151_1__strand_39141-45749_length_6625_error-free_length_6652_read_identity_97.184_	6577	correct
+CONTIG	pb000000000152_random_seq_length_28772_error-free_length_29102_read_identity_91.825_	28748	unaligned
+5871	15827	1	9948	0	pb000000000153_0__strand_2239-17451_length_15265_error-free_length_15226_read_identity_95.237_	95.11	
+CONTIG	pb000000000153_0__strand_2239-17451_length_15265_error-free_length_15226_read_identity_95.237_	15255	correct
+61304	65473	4169	4	1	pb000000000154_1_-strand_49118-97138_length_47982_error-free_length_47989_read_identity_97.036_	97.43	
+local misassembly
+58870	61141	6415	4152	1	pb000000000154_1_-strand_49118-97138_length_47982_error-free_length_47989_read_identity_97.036_	96.86	
+local misassembly
+50378	58597	14541	6375	1	pb000000000154_1_-strand_49118-97138_length_47982_error-free_length_47989_read_identity_97.036_	96.18	
+local misassembly
+41686	43666	22449	20478	1	pb000000000154_1_-strand_49118-97138_length_47982_error-free_length_47989_read_identity_97.036_	97.34	
+relocation, inconsistency = 2593
+33892	39465	27713	22077	1	pb000000000154_1_-strand_49118-97138_length_47982_error-free_length_47989_read_identity_97.036_	95.82	
+relocation, inconsistency = 4065
+24532	30260	32990	27280	1	pb000000000154_1_-strand_49118-97138_length_47982_error-free_length_47989_read_identity_97.036_	95.75	
+relocation, inconsistency = 3783
+18908	21226	34835	32513	1	pb000000000154_1_-strand_49118-97138_length_47982_error-free_length_47989_read_identity_97.036_	97.06	
+relocation, inconsistency = 1025
+11449	18011	41260	34707	1	pb000000000154_1_-strand_49118-97138_length_47982_error-free_length_47989_read_identity_97.036_	95.32	
+local misassembly
+5208	11321	47270	41260	1	pb000000000154_1_-strand_49118-97138_length_47982_error-free_length_47989_read_identity_97.036_	95.28	
+local misassembly
+3816	4527	47974	47263	1	pb000000000154_1_-strand_49118-97138_length_47982_error-free_length_47989_read_identity_97.036_	97.35	
+CONTIG	pb000000000154_1_-strand_49118-97138_length_47982_error-free_length_47989_read_identity_97.036_	47974	misassembled
+15920	27760	11789	1	0	pb000000000155_0_-strand_76045-92177_length_16154_error-free_length_16147_read_identity_97.143_	96.78	
+local misassembly
+11481	15822	16137	11789	0	pb000000000155_0_-strand_76045-92177_length_16154_error-free_length_16147_read_identity_97.143_	97.17	
+CONTIG	pb000000000155_0_-strand_76045-92177_length_16154_error-free_length_16147_read_identity_97.143_	16137	correct
+CONTIG	pb000000000156_0__strand_14743-26267_length_11574_error-free_length_11592_read_identity_95.355_	11555	unaligned
+50397	56391	3971	9963	1	pb000000000157_1__strand_32219-42335_length_9972_error-free_length_9952_read_identity_94.806_	95.12	
+CONTIG	pb000000000157_1__strand_32219-42335_length_9972_error-free_length_9952_read_identity_94.806_	9963	correct
+128346	134935	6574	1	1	pb000000000158_1_-strand_2469-92505_length_89971_error-free_length_89979_read_identity_95.623_	95.16	
+117368	119306	7507	5568	1	pb000000000158_1_-strand_2469-92505_length_89971_error-free_length_89979_read_identity_95.623_	95.98	
+110814	114470	10844	7192	1	pb000000000158_1_-strand_2469-92505_length_89971_error-free_length_89979_read_identity_95.623_	96.37	
+108499	110220	12482	10758	1	pb000000000158_1_-strand_2469-92505_length_89971_error-free_length_89979_read_identity_95.623_	95.99	
+105351	107413	14555	12492	1	pb000000000158_1_-strand_2469-92505_length_89971_error-free_length_89979_read_identity_95.623_	96.55	
+103208	104700	15960	14452	1	pb000000000158_1_-strand_2469-92505_length_89971_error-free_length_89979_read_identity_95.623_	95.93	
+99988	100876	16510	15622	1	pb000000000158_1_-strand_2469-92505_length_89971_error-free_length_89979_read_identity_95.623_	95.57	
+96799	99652	19322	16478	1	pb000000000158_1_-strand_2469-92505_length_89971_error-free_length_89979_read_identity_95.623_	96.12	
+107427	108498	55975	54906	1	pb000000000158_1_-strand_2469-92505_length_89971_error-free_length_89979_read_identity_95.623_	95.59	
+41686	43666	69034	67050	1	pb000000000158_1_-strand_2469-92505_length_89971_error-free_length_89979_read_identity_95.623_	95.92	
+31886	32285	74294	73893	1	pb000000000158_1_-strand_2469-92505_length_89971_error-free_length_89979_read_identity_95.623_	95.83	
+18908	21226	81464	79146	1	pb000000000158_1_-strand_2469-92505_length_89971_error-free_length_89979_read_identity_95.623_	95.78	
+11445	18011	87915	81337	1	pb000000000158_1_-strand_2469-92505_length_89971_error-free_length_89979_read_identity_95.623_	95.68	
+9258	11290	89962	87925	1	pb000000000158_1_-strand_2469-92505_length_89971_error-free_length_89979_read_identity_95.623_	95.69	
+CONTIG	pb000000000159_1_-strand_74156-85731_length_11724_error-free_length_11705_read_identity_92.462_	11713	unaligned
+CONTIG	pb000000000160_1__strand_1182-12117_length_11014_error-free_length_10978_read_identity_92.826_	10997	unaligned
+19035	20566	1546	3	1	pb000000000161_1_-strand_82329-100000_length_17654_error-free_length_17640_read_identity_96.167_	96.34	
+relocation, inconsistency = 1024
+11449	18011	8121	1546	1	pb000000000161_1_-strand_82329-100000_length_17654_error-free_length_17640_read_identity_96.167_	96.08	
+local misassembly
+7230	11321	12211	8121	1	pb000000000161_1_-strand_82329-100000_length_17654_error-free_length_17640_read_identity_96.167_	96.45	
+local misassembly
+1831	4527	16759	14059	1	pb000000000161_1_-strand_82329-100000_length_17654_error-free_length_17640_read_identity_96.167_	96.53	
+local misassembly
+4	390	17625	17246	1	pb000000000161_1_-strand_82329-100000_length_17654_error-free_length_17640_read_identity_96.167_	95.63	
+CONTIG	pb000000000161_1_-strand_82329-100000_length_17654_error-free_length_17640_read_identity_96.167_	17629	misassembled
+CONTIG	pb000000000162_1_-strand_90741-100000_length_9339_error-free_length_9297_read_identity_94.390_	9312	unaligned
+3799	8919	5120	1	0	pb000000000163_0_-strand_94734-100000_length_5302_error-free_length_5283_read_identity_96.680_	96.11	
+CONTIG	pb000000000163_0_-strand_94734-100000_length_5302_error-free_length_5283_read_identity_96.680_	5281	correct
+114471	114771	8913	8615	1	pb000000000164_1_-strand_1064-27120_length_26024_error-free_length_26058_read_identity_93.068_	95.07	
+CONTIG	pb000000000164_1_-strand_1064-27120_length_26024_error-free_length_26058_read_identity_93.068_	25989	correct
+73271	79088	5782	6	0	pb000000000165_0_-strand_56055-71437_length_15391_error-free_length_15403_read_identity_96.025_	95.87	
+relocation, inconsistency = 31320
+32276	44163	15368	3570	0	pb000000000165_0_-strand_56055-71437_length_15391_error-free_length_15403_read_identity_96.025_	95.61	
+CONTIG	pb000000000165_0_-strand_56055-71437_length_15391_error-free_length_15403_read_identity_96.025_	15368	misassembled
+CONTIG	pb000000000166_1_-strand_15453-43455_length_27963_error-free_length_27971_read_identity_91.066_	27946	unaligned
+44319	50123	584	6513	1	pb000000000167_1__strand_29814-44298_length_14435_error-free_length_14427_read_identity_98.306_	96.39	
+local misassembly
+50438	58405	6517	14406	1	pb000000000167_1__strand_29814-44298_length_14435_error-free_length_14427_read_identity_98.306_	97.2	
+CONTIG	pb000000000167_1__strand_29814-44298_length_14435_error-free_length_14427_read_identity_98.306_	14406	correct
+74884	75406	1	523	1	pb000000000168_1__strand_60352-66280_length_5967_error-free_length_5962_read_identity_97.873_	96.79	
+local misassembly
+75523	79594	523	4597	1	pb000000000168_1__strand_60352-66280_length_5967_error-free_length_5962_read_identity_97.873_	98.24	
+relocation, inconsistency = 3965
+83061	84884	4099	5929	1	pb000000000168_1__strand_60352-66280_length_5967_error-free_length_5962_read_identity_97.873_	97.56	
+CONTIG	pb000000000168_1__strand_60352-66280_length_5967_error-free_length_5962_read_identity_97.873_	5929	misassembled
+73271	80174	6838	1	0	pb000000000169_0_-strand_54977-66029_length_11048_error-free_length_11082_read_identity_96.008_	95.68	
+relocation, inconsistency = 31320
+41351	44160	7413	4629	0	pb000000000169_0_-strand_54977-66029_length_11048_error-free_length_11082_read_identity_96.008_	95.91	
+local misassembly
+37690	40717	11022	8007	0	pb000000000169_0_-strand_54977-66029_length_11048_error-free_length_11082_read_identity_96.008_	95.89	
+CONTIG	pb000000000169_0_-strand_54977-66029_length_11048_error-free_length_11082_read_identity_96.008_	11022	misassembled
+92768	99655	1	6795	1	pb000000000170_1__strand_74201-100000_length_25753_error-free_length_25747_read_identity_97.941_	96.41	
+local misassembly
+100025	100841	6795	7613	1	pb000000000170_1__strand_74201-100000_length_25753_error-free_length_25747_read_identity_97.941_	97.57	
+relocation, inconsistency = 3482
+105452	107420	8742	10705	1	pb000000000170_1__strand_74201-100000_length_25753_error-free_length_25747_read_identity_97.941_	97.48	
+relocation, inconsistency = 1701
+110814	114429	12398	16021	1	pb000000000170_1__strand_74201-100000_length_25753_error-free_length_25747_read_identity_97.941_	98.05	
+relocation, inconsistency = 3220
+117368	119306	15740	17682	1	pb000000000170_1__strand_74201-100000_length_25753_error-free_length_25747_read_identity_97.941_	98.31	
+relocation, inconsistency = 10045
+128346	135558	16677	23879	1	pb000000000170_1__strand_74201-100000_length_25753_error-free_length_25747_read_identity_97.941_	97.99	
+local misassembly
+136210	138186	23777	25732	1	pb000000000170_1__strand_74201-100000_length_25753_error-free_length_25747_read_identity_97.941_	96.59	
+CONTIG	pb000000000170_1__strand_74201-100000_length_25753_error-free_length_25747_read_identity_97.941_	25732	misassembled
+4525	5212	23735	24428	1	pb000000000171_1__strand_47410-75944_length_28545_error-free_length_28586_read_identity_95.402_	95.45	
+CONTIG	pb000000000171_1__strand_47410-75944_length_28545_error-free_length_28586_read_identity_95.402_	28517	correct
+CONTIG	pb000000000172_1__strand_18946-39796_length_20864_error-free_length_20892_read_identity_93.215_	20856	unaligned
+3799	11163	7359	1	0	pb000000000173_0_-strand_92492-100000_length_7546_error-free_length_7554_read_identity_96.846_	96.14	
+CONTIG	pb000000000173_0_-strand_92492-100000_length_7546_error-free_length_7554_read_identity_96.846_	7520	correct
+CONTIG	pb000000000174_0__strand_12339-31323_chimera_1__strand_78056-79027_length_20027_error-free_length_19988_read_identity_94.753_	18916	unaligned
+36217	44161	12529	4656	0	pb000000000175_0_-strand_55020-67496_length_12529_error-free_length_12533_read_identity_96.174_	95.2	
+CONTIG	pb000000000175_0_-strand_55020-67496_length_12529_error-free_length_12533_read_identity_96.174_	12529	correct
+1830	4527	4483	1779	1	pb000000000176_1_-strand_94651-100000_length_5386_error-free_length_5381_read_identity_97.665_	97.72	
+local misassembly
+566	1195	4989	4362	1	pb000000000176_1_-strand_94651-100000_length_5386_error-free_length_5381_read_identity_97.665_	95.92	
+local misassembly
+4	390	5349	4965	1	pb000000000176_1_-strand_94651-100000_length_5386_error-free_length_5381_read_identity_97.665_	96.41	
+CONTIG	pb000000000176_1_-strand_94651-100000_length_5386_error-free_length_5381_read_identity_97.665_	5350	correct
+CONTIG	pb000000000177_0_-strand_18181-32538_length_14407_error-free_length_14364_read_identity_92.316_	14386	unaligned
+83061	91392	8431	1	1	pb000000000178_1_-strand_27175-43123_length_15975_error-free_length_15959_read_identity_97.893_	96.48	
+relocation, inconsistency = 3964
+75523	79572	11973	7956	1	pb000000000178_1_-strand_27175-43123_length_15975_error-free_length_15959_read_identity_97.893_	96.36	
+local misassembly
+71501	75406	15971	11973	1	pb000000000178_1_-strand_27175-43123_length_15975_error-free_length_15959_read_identity_97.893_	95.36	
+CONTIG	pb000000000178_1_-strand_27175-43123_length_15975_error-free_length_15959_read_identity_97.893_	15975	misassembled
+CONTIG	pb000000000179_1__strand_66514-74911_length_8399_error-free_length_8420_read_identity_92.875_	8374	unaligned
+108499	109182	681	1	1	pb000000000180_1_-strand_14279-33762_length_19468_error-free_length_19497_read_identity_96.432_	95.66	
+relocation, inconsistency = 1075
+105353	107423	2748	682	1	pb000000000180_1_-strand_14279-33762_length_19468_error-free_length_19497_read_identity_96.432_	95.89	
+local misassembly
+103208	104700	4146	2647	1	pb000000000180_1_-strand_14279-33762_length_19468_error-free_length_19497_read_identity_96.432_	97.09	
+relocation, inconsistency = 2666
+100018	100876	4673	3812	1	pb000000000180_1_-strand_14279-33762_length_19468_error-free_length_19497_read_identity_96.432_	96.66	
+local misassembly
+84845	99646	19452	4674	1	pb000000000180_1_-strand_14279-33762_length_19468_error-free_length_19497_read_identity_96.432_	95.77	
+CONTIG	pb000000000180_1_-strand_14279-33762_length_19468_error-free_length_19497_read_identity_96.432_	19452	misassembled
+CONTIG	pb000000000181_1__strand_13161-37669_length_24613_error-free_length_24595_read_identity_93.842_	24613	unaligned
+CONTIG	pb000000000182_1_-strand_53735-60049_length_6352_error-free_length_6351_read_identity_93.412_	6337	unaligned
+73744	80791	1	6999	0	pb000000000183_0__strand_38629-45638_length_7021_error-free_length_7029_read_identity_98.431_	97.91	
+CONTIG	pb000000000183_0__strand_38629-45638_length_7021_error-free_length_7029_read_identity_98.431_	6999	correct
+80449	83080	1	2632	0	pb000000000184_0__strand_45293-51527_length_6236_error-free_length_6244_read_identity_98.284_	98.26	
+relocation, inconsistency = 7937
+90452	94590	2067	6224	0	pb000000000184_0__strand_45293-51527_length_6236_error-free_length_6244_read_identity_98.284_	97.71	
+CONTIG	pb000000000184_0__strand_45293-51527_length_6236_error-free_length_6244_read_identity_98.284_	6225	misassembled
+CONTIG	pb000000000185_1__strand_59288-70281_length_11019_error-free_length_11041_read_identity_92.730_	11019	unaligned
+CONTIG	pb000000000186_0_-strand_10668-33204_length_22626_error-free_length_22603_read_identity_91.581_	22594	unaligned
+83061	99655	611	17143	1	pb000000000187_1__strand_63808-83383_length_19477_error-free_length_19504_read_identity_96.152_	95.74	
+local misassembly
+99988	100876	17106	17994	1	pb000000000187_1__strand_63808-83383_length_19477_error-free_length_19504_read_identity_96.152_	97.1	
+relocation, inconsistency = 2662
+103208	104701	17664	19155	1	pb000000000187_1__strand_63808-83383_length_19477_error-free_length_19504_read_identity_96.152_	97.01	
+local misassembly
+105454	105771	19156	19471	1	pb000000000187_1__strand_63808-83383_length_19477_error-free_length_19504_read_identity_96.152_	97.81	
+CONTIG	pb000000000187_1__strand_63808-83383_length_19477_error-free_length_19504_read_identity_96.152_	19471	misassembled
+105097	109049	324	4285	0	pb000000000188_0__strand_61739-67926_length_6212_error-free_length_6204_read_identity_96.695_	96.73	
+relocation, inconsistency = 14215
+122111	125177	3132	6193	0	pb000000000188_0__strand_61739-67926_length_6212_error-free_length_6204_read_identity_96.695_	96.9	
+CONTIG	pb000000000188_0__strand_61739-67926_length_6212_error-free_length_6204_read_identity_96.695_	6193	misassembled
+61304	63712	2410	1	1	pb000000000189_1_-strand_50889-67277_length_16410_error-free_length_16416_read_identity_96.323_	96.02	
+local misassembly
+58870	61141	4658	2392	1	pb000000000189_1_-strand_50889-67277_length_16410_error-free_length_16416_read_identity_96.323_	96.39	
+local misassembly
+50378	58597	12779	4619	1	pb000000000189_1_-strand_50889-67277_length_16410_error-free_length_16416_read_identity_96.323_	95.88	
+CONTIG	pb000000000189_1_-strand_50889-67277_length_16410_error-free_length_16416_read_identity_96.323_	16384	correct
+175049	175448	1	402	0	pb000000000190_0__strand_90832-100000_length_9171_error-free_length_9165_read_identity_96.778_	96.8	
+relocation, inconsistency = 9816
+185264	193746	402	8865	0	pb000000000190_0__strand_90832-100000_length_9171_error-free_length_9165_read_identity_96.778_	96.59	
+relocation, inconsistency = 3570
+197027	197613	8576	9162	0	pb000000000190_0__strand_90832-100000_length_9171_error-free_length_9165_read_identity_96.778_	97.8	
+CONTIG	pb000000000190_0__strand_90832-100000_length_9171_error-free_length_9165_read_identity_96.778_	9162	misassembled
+75523	79594	13158	17220	1	pb000000000191_1__strand_47692-67664_length_19950_error-free_length_19993_read_identity_94.669_	95.54	
+83061	86270	16727	19922	1	pb000000000191_1__strand_47692-67664_length_19950_error-free_length_19993_read_identity_94.669_	95.15	
+CONTIG	pb000000000192_1_-strand_60104-74230_length_14165_error-free_length_14153_read_identity_91.200_	14136	unaligned
+24065	24537	853	1325	1	pb000000000193_1__strand_16994-33366_length_16405_error-free_length_16384_read_identity_94.132_	95.41	
+30251	30655	6156	6559	1	pb000000000193_1__strand_16994-33366_length_16405_error-free_length_16384_read_identity_94.132_	95.61	
+146296	147989	159	1849	0	pb000000000194_0__strand_78222-94650_length_16430_error-free_length_16421_read_identity_95.810_	95.51	
+relocation, inconsistency = 6931
+154433	163153	1362	10083	0	pb000000000194_0__strand_78222-94650_length_16430_error-free_length_16421_read_identity_95.810_	96.14	
+relocation, inconsistency = 3824
+166647	168769	9753	11866	0	pb000000000194_0__strand_78222-94650_length_16430_error-free_length_16421_read_identity_95.810_	95.71	
+relocation, inconsistency = 5529
+173899	175448	11467	13017	0	pb000000000194_0__strand_78222-94650_length_16430_error-free_length_16421_read_identity_95.810_	96.18	
+relocation, inconsistency = 9816
+185264	188694	13017	16430	0	pb000000000194_0__strand_78222-94650_length_16430_error-free_length_16421_read_identity_95.810_	95.42	
+CONTIG	pb000000000194_0__strand_78222-94650_length_16430_error-free_length_16421_read_identity_95.810_	16430	misassembled
+CONTIG	pb000000000195_1_-strand_4705-30019_length_25359_error-free_length_25333_read_identity_90.099_	25316	unaligned
+15930	21703	5744	1	0	pb000000000196_0_-strand_82102-100000_length_17938_error-free_length_17950_read_identity_95.706_	95.07	
+local misassembly
+3798	15832	17742	5744	0	pb000000000196_0_-strand_82102-100000_length_17938_error-free_length_17950_read_identity_95.706_	95.53	
+CONTIG	pb000000000196_0_-strand_82102-100000_length_17938_error-free_length_17950_read_identity_95.706_	17903	correct
+73765	83078	9905	645	0	pb000000000197_0_-strand_51433-61350_length_9919_error-free_length_9926_read_identity_95.500_	95.03	
+CONTIG	pb000000000197_0_-strand_51433-61350_length_9919_error-free_length_9926_read_identity_95.500_	9905	correct
+185264	186105	841	1	0	pb000000000198_0_-strand_7923-31274_length_23321_error-free_length_23358_read_identity_97.149_	97.52	
+relocation, inconsistency = 9816
+173899	175448	2397	841	0	pb000000000198_0_-strand_7923-31274_length_23321_error-free_length_23358_read_identity_97.149_	97.13	
+relocation, inconsistency = 5529
+166655	168769	4105	1998	0	pb000000000198_0_-strand_7923-31274_length_23321_error-free_length_23358_read_identity_97.149_	97.51	
+relocation, inconsistency = 3824
+154436	163153	12466	3783	0	pb000000000198_0_-strand_7923-31274_length_23321_error-free_length_23358_read_identity_97.149_	97.11	
+relocation, inconsistency = 6934
+146293	147988	13666	11980	0	pb000000000198_0_-strand_7923-31274_length_23321_error-free_length_23358_read_identity_97.149_	97.6	
+relocation, inconsistency = 10052
+126713	131717	23187	18190	0	pb000000000198_0_-strand_7923-31274_length_23321_error-free_length_23358_read_identity_97.149_	97.11	
+local misassembly
+125980	126151	23308	23136	0	pb000000000198_0_-strand_7923-31274_length_23321_error-free_length_23358_read_identity_97.149_	97.13	
+CONTIG	pb000000000198_0_-strand_7923-31274_length_23321_error-free_length_23358_read_identity_97.149_	23308	misassembled
+173507	173841	4975	5312	0	pb000000000199_0__strand_84729-91074_length_6398_error-free_length_6403_read_identity_94.329_	95.01	
+CONTIG	pb000000000199_0__strand_84729-91074_length_6398_error-free_length_6403_read_identity_94.329_	6369	correct
+39443	39697	255	2	1	pb000000000200_1_-strand_71329-97954_length_26615_error-free_length_26639_read_identity_94.788_	96.11	
+33507	33909	5508	5105	1	pb000000000200_1_-strand_71329-97954_length_26615_error-free_length_26639_read_identity_94.788_	95.38	
+18908	21226	12669	10336	1	pb000000000200_1_-strand_71329-97954_length_26615_error-free_length_26639_read_identity_94.788_	95.14	
+3000	4527	26604	25075	1	pb000000000200_1_-strand_71329-97954_length_26615_error-free_length_26639_read_identity_94.788_	95.49	
+CONTIG	pb000000000201_0__strand_6063-16861_length_10766_error-free_length_10801_read_identity_92.624_	10740	unaligned
+90179	99655	1	9492	1	pb000000000202_1__strand_71567-81253_length_9706_error-free_length_9699_read_identity_97.338_	96.46	
+local misassembly
+100025	100225	9492	9691	1	pb000000000202_1__strand_71567-81253_length_9706_error-free_length_9699_read_identity_97.338_	96.53	
+CONTIG	pb000000000202_1__strand_71567-81253_length_9706_error-free_length_9699_read_identity_97.338_	9694	correct
+61304	63937	2634	1	1	pb000000000203_1_-strand_50664-61070_length_10425_error-free_length_10454_read_identity_96.762_	96.73	
+local misassembly
+58909	61141	4843	2617	1	pb000000000203_1_-strand_50664-61070_length_10425_error-free_length_10454_read_identity_96.762_	97.07	
+local misassembly
+52989	58597	10395	4843	1	pb000000000203_1_-strand_50664-61070_length_10425_error-free_length_10454_read_identity_96.762_	95.26	
+CONTIG	pb000000000203_1_-strand_50664-61070_length_10425_error-free_length_10454_read_identity_96.762_	10395	correct
+126763	128000	1234	4	0	pb000000000204_0_-strand_29860-72197_length_42476_error-free_length_42451_read_identity_94.286_	95.06	
+CONTIG	pb000000000204_0_-strand_29860-72197_length_42476_error-free_length_42451_read_identity_94.286_	42448	correct
+185267	191056	5781	1	0	pb000000000205_0_-strand_2988-18800_length_15821_error-free_length_15812_read_identity_96.669_	96.75	
+relocation, inconsistency = 9816
+173899	175446	7341	5786	0	pb000000000205_0_-strand_2988-18800_length_15821_error-free_length_15812_read_identity_96.669_	97.7	
+relocation, inconsistency = 5530
+166655	168769	9059	6941	0	pb000000000205_0_-strand_2988-18800_length_15821_error-free_length_15812_read_identity_96.669_	96.22	
+relocation, inconsistency = 3823
+156055	163153	15821	8738	0	pb000000000205_0_-strand_2988-18800_length_15821_error-free_length_15812_read_identity_96.669_	96.56	
+CONTIG	pb000000000205_0_-strand_2988-18800_length_15821_error-free_length_15812_read_identity_96.669_	15821	misassembled
+3799	10437	6611	1	0	pb000000000206_0_-strand_93218-100000_length_6783_error-free_length_6789_read_identity_96.614_	96.23	
+CONTIG	pb000000000206_0_-strand_93218-100000_length_6783_error-free_length_6789_read_identity_96.614_	6774	correct
+24532	26583	2045	1	1	pb000000000207_1_-strand_80114-85230_length_5142_error-free_length_5130_read_identity_95.937_	95.58	
+relocation, inconsistency = 3784
+18908	21226	3885	1567	1	pb000000000207_1_-strand_80114-85230_length_5142_error-free_length_5130_read_identity_95.937_	96.21	
+relocation, inconsistency = 1024
+16646	18011	5127	3758	1	pb000000000207_1_-strand_80114-85230_length_5142_error-free_length_5130_read_identity_95.937_	95.89	
+CONTIG	pb000000000207_1_-strand_80114-85230_length_5142_error-free_length_5130_read_identity_95.937_	5127	misassembled
+15930	18135	2168	1	0	pb000000000208_0_-strand_85671-100000_length_14417_error-free_length_14418_read_identity_97.078_	95.17	
+local misassembly
+3799	15832	14237	2168	0	pb000000000208_0_-strand_85671-100000_length_14417_error-free_length_14418_read_identity_97.078_	96.28	
+CONTIG	pb000000000208_0_-strand_85671-100000_length_14417_error-free_length_14418_read_identity_97.078_	14398	correct
+104584	109052	75	4588	0	pb000000000209_0__strand_61433-90279_length_28873_error-free_length_28871_read_identity_97.368_	96.31	
+relocation, inconsistency = 14218
+122108	126151	3426	7462	0	pb000000000209_0__strand_61433-90279_length_28873_error-free_length_28871_read_identity_97.368_	97.3	
+local misassembly
+126713	131718	7413	12419	0	pb000000000209_0__strand_61433-90279_length_28873_error-free_length_28871_read_identity_97.368_	97.11	
+relocation, inconsistency = 10090
+146293	147989	16904	18598	0	pb000000000209_0__strand_61433-90279_length_28873_error-free_length_28871_read_identity_97.368_	97.77	
+relocation, inconsistency = 6936
+154433	163153	18106	26837	0	pb000000000209_0__strand_61433-90279_length_28873_error-free_length_28871_read_identity_97.368_	97.4	
+relocation, inconsistency = 3822
+166975	168769	26837	28636	0	pb000000000209_0__strand_61433-90279_length_28873_error-free_length_28871_read_identity_97.368_	97.03	
+CONTIG	pb000000000209_0__strand_61433-90279_length_28873_error-free_length_28871_read_identity_97.368_	28831	misassembled
+78313	79594	14203	12928	1	pb000000000210_1_-strand_22049-36334_length_14228_error-free_length_14248_read_identity_95.631_	95.69	
+CONTIG	pb000000000210_1_-strand_22049-36334_length_14228_error-free_length_14248_read_identity_95.631_	14203	correct
+131128	135558	2	4428	1	pb000000000211_1__strand_93722-100000_length_6289_error-free_length_6281_read_identity_97.465_	97.49	
+CONTIG	pb000000000211_1__strand_93722-100000_length_6289_error-free_length_6281_read_identity_97.465_	6261	correct
+61304	69673	238	8595	1	pb000000000212_1__strand_46454-55066_length_8624_error-free_length_8629_read_identity_97.125_	96.98	
+CONTIG	pb000000000212_1__strand_46454-55066_length_8624_error-free_length_8629_read_identity_97.125_	8595	correct
+48673	50123	1	1452	1	pb000000000213_1__strand_34926-57385_length_22337_error-free_length_22320_read_identity_97.849_	97.95	
+local misassembly
+50435	58597	1452	9493	1	pb000000000213_1__strand_34926-57385_length_22337_error-free_length_22320_read_identity_97.849_	95.72	
+local misassembly
+61304	72002	11622	22314	1	pb000000000213_1__strand_34926-57385_length_22337_error-free_length_22320_read_identity_97.849_	97.8	
+CONTIG	pb000000000213_1__strand_34926-57385_length_22337_error-free_length_22320_read_identity_97.849_	22314	correct
+18760	27115	1	8333	0	pb000000000214_0__strand_14950-23310_length_8369_error-free_length_8392_read_identity_97.192_	97.28	
+CONTIG	pb000000000214_0__strand_14950-23310_length_8369_error-free_length_8392_read_identity_97.192_	8333	correct
+11431	15832	1	4427	0	pb000000000215_0__strand_7772-31245_length_23514_error-free_length_23500_read_identity_96.723_	96.62	
+local misassembly
+15930	34955	4427	23493	0	pb000000000215_0__strand_7772-31245_length_23514_error-free_length_23500_read_identity_96.723_	95.73	
+CONTIG	pb000000000215_0__strand_7772-31245_length_23514_error-free_length_23500_read_identity_96.723_	23493	correct
+CONTIG	pb000000000216_0_-strand_694-3409_chimera_1_-strand_10894-15977_length_7905_error-free_length_7915_read_identity_93.362_	7863	unaligned
+185264	189688	4414	1	0	pb000000000217_0_-strand_4354-38567_length_34289_error-free_length_34295_read_identity_95.553_	95.81	
+relocation, inconsistency = 9816
+174298	175448	5568	4414	0	pb000000000217_0_-strand_4354-38567_length_34289_error-free_length_34295_read_identity_95.553_	95.3	
+relocation, inconsistency = 9352
+154924	163153	15596	7361	0	pb000000000217_0_-strand_4354-38567_length_34289_error-free_length_34295_read_identity_95.553_	95.97	
+relocation, inconsistency = 6935
+146297	147989	17282	15596	0	pb000000000217_0_-strand_4354-38567_length_34289_error-free_length_34295_read_identity_95.553_	95.69	
+relocation, inconsistency = 10002
+126763	131718	26799	21859	0	pb000000000217_0_-strand_4354-38567_length_34289_error-free_length_34295_read_identity_95.553_	95.86	
+local misassembly
+122108	126151	30823	26799	0	pb000000000217_0_-strand_4354-38567_length_34289_error-free_length_34295_read_identity_95.553_	96.0	
+relocation, inconsistency = 14216
+104584	109052	34177	29663	0	pb000000000217_0_-strand_4354-38567_length_34289_error-free_length_34295_read_identity_95.553_	95.12	
+CONTIG	pb000000000217_0_-strand_4354-38567_length_34289_error-free_length_34295_read_identity_95.553_	34254	misassembled
+11432	18011	8319	1710	1	pb000000000218_1_-strand_82159-100000_length_17840_error-free_length_17801_read_identity_95.087_	95.55	
+CONTIG	pb000000000218_1_-strand_82159-100000_length_17840_error-free_length_17801_read_identity_95.087_	17821	correct
+CONTIG	pb000000000219_0__strand_67754-100000_length_32310_error-free_length_32355_read_identity_91.629_	32291	unaligned
+3799	11574	7741	1	0	pb000000000220_0_-strand_92081-100000_length_7924_error-free_length_7925_read_identity_96.291_	95.49	
+CONTIG	pb000000000220_0_-strand_92081-100000_length_7924_error-free_length_7925_read_identity_96.291_	7906	correct
+103208	104700	1510	16	1	pb000000000221_1_-strand_16919-27609_length_10734_error-free_length_10716_read_identity_97.121_	97.09	
+relocation, inconsistency = 2663
+99994	100876	2065	1179	1	pb000000000221_1_-strand_16919-27609_length_10734_error-free_length_10716_read_identity_97.121_	97.76	
+local misassembly
+90961	99623	10704	2067	1	pb000000000221_1_-strand_16919-27609_length_10734_error-free_length_10716_read_identity_97.121_	96.79	
+CONTIG	pb000000000221_1_-strand_16919-27609_length_10734_error-free_length_10716_read_identity_97.121_	10704	misassembled
+CONTIG	pb000000000222_0_-strand_93213-100000_length_6879_error-free_length_6885_read_identity_94.455_	6854	unaligned
+CONTIG	pb000000000223_1_-strand_16834-31519_length_14680_error-free_length_14670_read_identity_92.648_	14680	unaligned
+CONTIG	pb000000000224_1_-strand_12047-27490_length_15396_error-free_length_15407_read_identity_91.401_	15368	unaligned
+96634	104549	1	7961	0	pb000000000225_0__strand_53568-94188_length_40651_error-free_length_40657_read_identity_96.260_	95.73	
+local misassembly
+105097	109052	8512	12467	0	pb000000000225_0__strand_53568-94188_length_40651_error-free_length_40657_read_identity_96.260_	96.31	
+relocation, inconsistency = 14211
+122108	126151	11312	15345	0	pb000000000225_0__strand_53568-94188_length_40651_error-free_length_40657_read_identity_96.260_	96.36	
+local misassembly
+126765	131661	15348	20253	0	pb000000000225_0__strand_53568-94188_length_40651_error-free_length_40657_read_identity_96.260_	96.51	
+relocation, inconsistency = 10049
+146295	147989	24838	26527	0	pb000000000225_0__strand_53568-94188_length_40651_error-free_length_40657_read_identity_96.260_	96.9	
+relocation, inconsistency = 6936
+154433	163153	26035	34740	0	pb000000000225_0__strand_53568-94188_length_40651_error-free_length_40657_read_identity_96.260_	96.6	
+relocation, inconsistency = 3822
+166975	168769	34740	36542	0	pb000000000225_0__strand_53568-94188_length_40651_error-free_length_40657_read_identity_96.260_	96.65	
+relocation, inconsistency = 5533
+173899	175448	36139	37686	0	pb000000000225_0__strand_53568-94188_length_40651_error-free_length_40657_read_identity_96.260_	96.36	
+relocation, inconsistency = 9816
+185264	188218	37686	40629	0	pb000000000225_0__strand_53568-94188_length_40651_error-free_length_40657_read_identity_96.260_	96.28	
+CONTIG	pb000000000225_0__strand_53568-94188_length_40651_error-free_length_40657_read_identity_96.260_	40630	misassembled
+115142	115274	8398	8264	0	pb000000000226_0_-strand_53425-88279_length_34900_error-free_length_34864_read_identity_91.128_	97.06	
+CONTIG	pb000000000226_0_-strand_53425-88279_length_34900_error-free_length_34864_read_identity_91.128_	34890	correct
+122108	124739	2631	1	0	pb000000000227_0_-strand_32512-51067_length_18601_error-free_length_18570_read_identity_96.350_	96.51	
+relocation, inconsistency = 14217
+91997	109052	18584	1470	0	pb000000000227_0_-strand_32512-51067_length_18601_error-free_length_18570_read_identity_96.350_	95.92	
+CONTIG	pb000000000227_0_-strand_32512-51067_length_18601_error-free_length_18570_read_identity_96.350_	18584	misassembled
+13575	18011	1	4432	1	pb000000000228_1__strand_11682-32934_length_21229_error-free_length_21237_read_identity_95.615_	95.82	
+19035	21226	4432	6625	1	pb000000000228_1__strand_11682-32934_length_21229_error-free_length_21237_read_identity_95.615_	95.95	
+30233	30654	11433	11852	1	pb000000000228_1__strand_11682-32934_length_21229_error-free_length_21237_read_identity_95.615_	96.24	
+42057	43638	17069	18650	1	pb000000000228_1__strand_11682-32934_length_21229_error-free_length_21237_read_identity_95.615_	96.19	
+9672	11321	1	1647	1	pb000000000229_1__strand_7907-26766_length_19010_error-free_length_19005_read_identity_95.454_	95.64	
+local misassembly
+11449	18011	1647	8246	1	pb000000000229_1__strand_7907-26766_length_19010_error-free_length_19005_read_identity_95.454_	95.8	
+relocation, inconsistency = 8895
+33909	36058	15249	17395	1	pb000000000229_1__strand_7907-26766_length_19010_error-free_length_19005_read_identity_95.454_	95.24	
+local misassembly
+36569	37469	18081	18978	1	pb000000000229_1__strand_7907-26766_length_19010_error-free_length_19005_read_identity_95.454_	96.59	
+CONTIG	pb000000000229_1__strand_7907-26766_length_19010_error-free_length_19005_read_identity_95.454_	18978	misassembled
+24532	27644	3085	1	1	pb000000000230_1_-strand_79053-100000_length_21019_error-free_length_21011_read_identity_95.597_	95.13	
+relocation, inconsistency = 3784
+18908	21227	4918	2606	1	pb000000000230_1_-strand_79053-100000_length_21019_error-free_length_21011_read_identity_95.597_	95.82	
+relocation, inconsistency = 1019
+11449	18011	11398	4796	1	pb000000000230_1_-strand_79053-100000_length_21019_error-free_length_21011_read_identity_95.597_	95.34	
+local misassembly
+1824	4527	20100	17389	1	pb000000000230_1_-strand_79053-100000_length_21019_error-free_length_21011_read_identity_95.597_	96.07	
+CONTIG	pb000000000230_1_-strand_79053-100000_length_21019_error-free_length_21011_read_identity_95.597_	20992	misassembled
+112943	114418	1	1468	1	pb000000000231_1__strand_88797-100000_length_11202_error-free_length_11220_read_identity_96.930_	95.59	
+relocation, inconsistency = 3214
+117368	119306	1204	3137	1	pb000000000231_1__strand_88797-100000_length_11202_error-free_length_11220_read_identity_96.930_	96.53	
+relocation, inconsistency = 10042
+128346	135558	2135	9336	1	pb000000000231_1__strand_88797-100000_length_11202_error-free_length_11220_read_identity_96.930_	97.21	
+local misassembly
+136208	138186	9235	11174	1	pb000000000231_1__strand_88797-100000_length_11202_error-free_length_11220_read_identity_96.930_	95.44	
+CONTIG	pb000000000231_1__strand_88797-100000_length_11202_error-free_length_11220_read_identity_96.930_	11174	misassembled
+66264	71892	5627	1	1	pb000000000232_1_-strand_42723-48340_length_5656_error-free_length_5644_read_identity_96.113_	96.16	
+CONTIG	pb000000000232_1_-strand_42723-48340_length_5656_error-free_length_5644_read_identity_96.113_	5627	correct
+185264	186160	887	1	0	pb000000000233_0_-strand_7871-31343_length_23471_error-free_length_23482_read_identity_94.786_	95.58	
+relocation, inconsistency = 9816
+173899	175448	2434	887	0	pb000000000233_0_-strand_7871-31343_length_23471_error-free_length_23482_read_identity_94.786_	95.23	
+relocation, inconsistency = 5523
+166975	168769	3820	2041	0	pb000000000233_0_-strand_7871-31343_length_23471_error-free_length_23482_read_identity_94.786_	95.53	
+relocation, inconsistency = 3822
+154433	163153	12529	3820	0	pb000000000233_0_-strand_7871-31343_length_23471_error-free_length_23482_read_identity_94.786_	95.63	
+CONTIG	pb000000000233_0_-strand_7871-31343_length_23471_error-free_length_23482_read_identity_94.786_	23460	misassembled
+26217	36796	1	10664	0	pb000000000234_0__strand_22407-33084_length_10692_error-free_length_10703_read_identity_96.896_	96.18	
+CONTIG	pb000000000234_0__strand_22407-33084_length_10692_error-free_length_10703_read_identity_96.896_	10664	correct
+86199	90139	1	3928	1	pb000000000235_1__strand_67590-90438_length_23018_error-free_length_23050_read_identity_97.450_	96.69	
+local misassembly
+90174	99655	4130	13621	1	pb000000000235_1__strand_67590-90438_length_23018_error-free_length_23050_read_identity_97.450_	96.4	
+local misassembly
+99988	100876	13584	14463	1	pb000000000235_1__strand_67590-90438_length_23018_error-free_length_23050_read_identity_97.450_	96.86	
+relocation, inconsistency = 2660
+103208	104700	14135	15623	1	pb000000000235_1__strand_67590-90438_length_23018_error-free_length_23050_read_identity_97.450_	97.67	
+local misassembly
+105359	107423	15529	17589	1	pb000000000235_1__strand_67590-90438_length_23018_error-free_length_23050_read_identity_97.450_	97.31	
+relocation, inconsistency = 1075
+108499	110220	17590	19313	1	pb000000000235_1__strand_67590-90438_length_23018_error-free_length_23050_read_identity_97.450_	97.35	
+local misassembly
+110816	114470	19229	22877	1	pb000000000235_1__strand_67590-90438_length_23018_error-free_length_23050_read_identity_97.450_	97.45	
+CONTIG	pb000000000235_1__strand_67590-90438_length_23018_error-free_length_23050_read_identity_97.450_	22987	misassembled
+175834	176169	14818	15153	0	pb000000000236_0__strand_76554-100000_length_23578_error-free_length_23544_read_identity_94.454_	97.05	
+196133	196430	22977	23275	0	pb000000000236_0__strand_76554-100000_length_23578_error-free_length_23544_read_identity_94.454_	96.04	
+197324	197611	23275	23560	0	pb000000000236_0__strand_76554-100000_length_23578_error-free_length_23544_read_identity_94.454_	96.54	
+158968	163153	3	4180	0	pb000000000237_0__strand_84109-100000_length_15910_error-free_length_15903_read_identity_97.973_	98.05	
+relocation, inconsistency = 3824
+166646	168769	3849	5982	0	pb000000000237_0__strand_84109-100000_length_15910_error-free_length_15903_read_identity_97.973_	97.3	
+relocation, inconsistency = 5531
+173899	175448	5581	7136	0	pb000000000237_0__strand_84109-100000_length_15910_error-free_length_15903_read_identity_97.973_	98.4	
+relocation, inconsistency = 9816
+185264	193755	7136	15608	0	pb000000000237_0__strand_84109-100000_length_15910_error-free_length_15903_read_identity_97.973_	97.29	
+relocation, inconsistency = 3571
+197027	197613	15309	15898	0	pb000000000237_0__strand_84109-100000_length_15910_error-free_length_15903_read_identity_97.973_	97.98	
+CONTIG	pb000000000237_0__strand_84109-100000_length_15910_error-free_length_15903_read_identity_97.973_	15898	misassembled
+19851	21226	1	1359	1	pb000000000238_1__strand_16949-25474_length_8483_error-free_length_8504_read_identity_98.422_	97.47	
+relocation, inconsistency = 3783
+24532	30250	882	6533	1	pb000000000238_1__strand_16949-25474_length_8483_error-free_length_8504_read_identity_98.422_	96.89	
+relocation, inconsistency = 4066
+33892	36242	6109	8462	1	pb000000000238_1__strand_16949-25474_length_8483_error-free_length_8504_read_identity_98.422_	97.76	
+CONTIG	pb000000000238_1__strand_16949-25474_length_8483_error-free_length_8504_read_identity_98.422_	8462	misassembled
+4525	5212	4525	3841	1	pb000000000239_1_-strand_24320-43426_length_19139_error-free_length_19120_read_identity_94.074_	95.7	
+CONTIG	pb000000000239_1_-strand_24320-43426_length_19139_error-free_length_19120_read_identity_94.074_	19114	correct
+CONTIG	pb000000000240_junk_seq_length_20652_error-free_length_20650_read_identity_94.128_	20640	unaligned
+141464	145798	1	4379	0	pb000000000241_0__strand_74020-96561_length_22522_error-free_length_22541_read_identity_98.315_	96.49	
+local misassembly
+146330	147959	4379	6005	0	pb000000000241_0__strand_74020-96561_length_22522_error-free_length_22541_read_identity_98.315_	98.59	
+relocation, inconsistency = 6934
+154433	163153	5545	14260	0	pb000000000241_0__strand_74020-96561_length_22522_error-free_length_22541_read_identity_98.315_	98.26	
+relocation, inconsistency = 3823
+166646	168769	13930	16050	0	pb000000000241_0__strand_74020-96561_length_22522_error-free_length_22541_read_identity_98.315_	98.36	
+relocation, inconsistency = 5528
+173899	175448	15652	17198	0	pb000000000241_0__strand_74020-96561_length_22522_error-free_length_22541_read_identity_98.315_	98.08	
+relocation, inconsistency = 9816
+185264	190605	17198	22522	0	pb000000000241_0__strand_74020-96561_length_22522_error-free_length_22541_read_identity_98.315_	98.04	
+CONTIG	pb000000000241_0__strand_74020-96561_length_22522_error-free_length_22541_read_identity_98.315_	22522	misassembled
+CONTIG	pb000000000242_1__strand_94822-100000_length_5213_error-free_length_5202_read_identity_95.215_	5187	unaligned
+185264	186612	1346	4	0	pb000000000243_0_-strand_7413-31865_length_24467_error-free_length_24441_read_identity_96.533_	96.62	
+relocation, inconsistency = 9816
+173902	175448	2901	1346	0	pb000000000243_0_-strand_7413-31865_length_24467_error-free_length_24441_read_identity_96.533_	96.56	
+relocation, inconsistency = 5529
+166646	168769	4638	2505	0	pb000000000243_0_-strand_7413-31865_length_24467_error-free_length_24441_read_identity_96.533_	96.65	
+relocation, inconsistency = 3826
+154433	163152	12996	4306	0	pb000000000243_0_-strand_7413-31865_length_24467_error-free_length_24441_read_identity_96.533_	96.37	
+relocation, inconsistency = 6933
+146293	147989	14204	12507	0	pb000000000243_0_-strand_7413-31865_length_24467_error-free_length_24441_read_identity_96.533_	96.68	
+relocation, inconsistency = 10054
+126713	131718	23735	18725	0	pb000000000243_0_-strand_7413-31865_length_24467_error-free_length_24441_read_identity_96.533_	96.52	
+local misassembly
+125389	126151	24454	23685	0	pb000000000243_0_-strand_7413-31865_length_24467_error-free_length_24441_read_identity_96.533_	97.03	
+CONTIG	pb000000000243_0_-strand_7413-31865_length_24467_error-free_length_24441_read_identity_96.533_	24454	misassembled
+37861	39465	1	1614	1	pb000000000244_1__strand_27153-60540_length_33458_error-free_length_33442_read_identity_94.738_	95.77	
+CONTIG	pb000000000244_1__strand_27153-60540_length_33458_error-free_length_33442_read_identity_94.738_	33449	correct
+1	466	10165	9699	0	pb000000000245_0_-strand_89852-100000_length_10178_error-free_length_10159_read_identity_93.945_	95.76	
+CONTIG	pb000000000245_0_-strand_89852-100000_length_10178_error-free_length_10159_read_identity_93.945_	10165	correct
+117368	119055	1691	4	1	pb000000000246_1_-strand_8306-21107_length_12783_error-free_length_12788_read_identity_96.518_	96.08	
+relocation, inconsistency = 3220
+110900	114470	4938	1369	1	pb000000000246_1_-strand_8306-21107_length_12783_error-free_length_12788_read_identity_96.518_	96.37	
+local misassembly
+108505	110220	6660	4938	1	pb000000000246_1_-strand_8306-21107_length_12783_error-free_length_12788_read_identity_96.518_	96.5	
+relocation, inconsistency = 1077
+105452	107423	8635	6665	1	pb000000000246_1_-strand_8306-21107_length_12783_error-free_length_12788_read_identity_96.518_	96.89	
+local misassembly
+103208	104700	10123	8635	1	pb000000000246_1_-strand_8306-21107_length_12783_error-free_length_12788_read_identity_96.518_	96.62	
+relocation, inconsistency = 3047
+97499	99659	12779	10625	1	pb000000000246_1_-strand_8306-21107_length_12783_error-free_length_12788_read_identity_96.518_	97.15	
+CONTIG	pb000000000246_1_-strand_8306-21107_length_12783_error-free_length_12788_read_identity_96.518_	12783	misassembled
+41686	42469	783	1	1	pb000000000247_1_-strand_70826-84710_length_13916_error-free_length_13930_read_identity_96.228_	95.34	
+30233	30653	6026	5610	1	pb000000000247_1_-strand_70826-84710_length_13916_error-free_length_13930_read_identity_96.228_	96.46	
+18910	21226	13180	10872	1	pb000000000247_1_-strand_70826-84710_length_13916_error-free_length_13930_read_identity_96.228_	96.07	
+17168	18011	13894	13057	1	pb000000000247_1_-strand_70826-84710_length_13916_error-free_length_13930_read_identity_96.228_	96.13	
+154433	160138	5699	1	0	pb000000000248_0_-strand_14725-33501_length_18766_error-free_length_18754_read_identity_98.057_	97.98	
+relocation, inconsistency = 6940
+146293	147989	6905	5203	0	pb000000000248_0_-strand_14725-33501_length_18766_error-free_length_18754_read_identity_98.057_	98.42	
+local misassembly
+140473	145798	12223	6867	0	pb000000000248_0_-strand_14725-33501_length_18766_error-free_length_18754_read_identity_98.057_	96.17	
+relocation, inconsistency = 9550
+126714	131718	16450	11428	0	pb000000000248_0_-strand_14725-33501_length_18766_error-free_length_18754_read_identity_98.057_	97.51	
+local misassembly
+123753	126035	18737	16452	0	pb000000000248_0_-strand_14725-33501_length_18766_error-free_length_18754_read_identity_98.057_	98.09	
+CONTIG	pb000000000248_0_-strand_14725-33501_length_18766_error-free_length_18754_read_identity_98.057_	18737	misassembled
+18969	44163	1	25163	0	pb000000000249_0__strand_15159-50771_length_35595_error-free_length_35555_read_identity_96.568_	95.9	
+relocation, inconsistency = 31320
+73275	83078	22955	32726	0	pb000000000249_0__strand_15159-50771_length_35595_error-free_length_35555_read_identity_96.568_	96.34	
+relocation, inconsistency = 7937
+91017	93834	32728	35575	0	pb000000000249_0__strand_15159-50771_length_35595_error-free_length_35555_read_identity_96.568_	95.52	
+CONTIG	pb000000000249_0__strand_15159-50771_length_35595_error-free_length_35555_read_identity_96.568_	35576	misassembled
+9109	11321	1	2207	1	pb000000000250_1__strand_7344-58744_length_51349_error-free_length_51377_read_identity_97.550_	97.4	
+local misassembly
+11449	18011	2207	8773	1	pb000000000250_1__strand_7344-58744_length_51349_error-free_length_51377_read_identity_97.550_	97.16	
+relocation, inconsistency = 1025
+18908	21226	8645	10975	1	pb000000000250_1__strand_7344-58744_length_51349_error-free_length_51377_read_identity_97.550_	97.74	
+relocation, inconsistency = 3790
+24532	30252	10491	16193	1	pb000000000250_1__strand_7344-58744_length_51349_error-free_length_51377_read_identity_97.550_	96.77	
+relocation, inconsistency = 4061
+33892	39465	15772	21416	1	pb000000000250_1__strand_7344-58744_length_51349_error-free_length_51377_read_identity_97.550_	96.07	
+relocation, inconsistency = 2592
+41686	43666	21045	23025	1	pb000000000250_1__strand_7344-58744_length_51349_error-free_length_51377_read_identity_97.550_	96.8	
+local misassembly
+44234	50123	23025	29018	1	pb000000000250_1__strand_7344-58744_length_51349_error-free_length_51377_read_identity_97.550_	95.9	
+local misassembly
+50397	58597	28980	37097	1	pb000000000250_1__strand_7344-58744_length_51349_error-free_length_51377_read_identity_97.550_	96.49	
+local misassembly
+58869	61141	37057	39315	1	pb000000000250_1__strand_7344-58744_length_51349_error-free_length_51377_read_identity_97.550_	97.16	
+local misassembly
+61304	73370	39298	51335	1	pb000000000250_1__strand_7344-58744_length_51349_error-free_length_51377_read_identity_97.550_	97.41	
+CONTIG	pb000000000250_1__strand_7344-58744_length_51349_error-free_length_51377_read_identity_97.550_	51335	misassembled
+47054	48514	1463	1	1	pb000000000251_1_-strand_65228-83666_length_18424_error-free_length_18442_read_identity_97.111_	96.28	
+fake misassembly (gap in the contig is small or filled with Ns)
+44162	47065	4478	1524	1	pb000000000251_1_-strand_65228-83666_length_18424_error-free_length_18442_read_identity_97.111_	96.17	
+local misassembly
+42057	43666	6018	4406	1	pb000000000251_1_-strand_65228-83666_length_18424_error-free_length_18442_read_identity_97.111_	97.54	
+relocation, inconsistency = 2592
+33891	39465	11643	6018	1	pb000000000251_1_-strand_65228-83666_length_18424_error-free_length_18442_read_identity_97.111_	95.96	
+relocation, inconsistency = 4065
+24532	29908	16907	11561	1	pb000000000251_1_-strand_65228-83666_length_18424_error-free_length_18442_read_identity_97.111_	95.74	
+relocation, inconsistency = 3783
+19234	21226	18418	16430	1	pb000000000251_1_-strand_65228-83666_length_18424_error-free_length_18442_read_identity_97.111_	97.51	
+CONTIG	pb000000000251_1_-strand_65228-83666_length_18424_error-free_length_18442_read_identity_97.111_	18418	misassembled
+1	466	44878	44412	0	pb000000000252_0_-strand_55095-100000_length_44907_error-free_length_44938_read_identity_94.443_	95.14	
+CONTIG	pb000000000252_0_-strand_55095-100000_length_44907_error-free_length_44938_read_identity_94.443_	44878	correct
+146293	147989	6151	7831	0	pb000000000253_0__strand_72168-94348_length_22129_error-free_length_22177_read_identity_93.939_	95.11	
+175833	176165	18992	19323	0	pb000000000253_0__strand_72168-94348_length_22129_error-free_length_22177_read_identity_93.939_	96.73	
+96129	109052	1	12935	0	pb000000000254_0__strand_53065-66248_length_13162_error-free_length_13178_read_identity_96.744_	95.74	
+CONTIG	pb000000000254_0__strand_53065-66248_length_13162_error-free_length_13178_read_identity_96.744_	13162	correct
+9255	11318	1	2076	1	pb000000000255_1__strand_7492-24375_length_16935_error-free_length_16883_read_identity_95.664_	96.28	
+local misassembly
+11447	18011	2078	8665	1	pb000000000255_1__strand_7492-24375_length_16935_error-free_length_16883_read_identity_95.664_	95.71	
+relocation, inconsistency = 1026
+18908	21232	8536	10883	1	pb000000000255_1__strand_7492-24375_length_16935_error-free_length_16883_read_identity_95.664_	95.4	
+relocation, inconsistency = 7862
+33909	35136	15698	16928	1	pb000000000255_1__strand_7492-24375_length_16935_error-free_length_16883_read_identity_95.664_	95.99	
+CONTIG	pb000000000255_1__strand_7492-24375_length_16935_error-free_length_16883_read_identity_95.664_	16928	misassembled
+CONTIG	pb000000000256_0_-strand_64396-77984_length_13583_error-free_length_13588_read_identity_93.014_	13583	unaligned
+75524	79594	1928	5997	1	pb000000000257_1__strand_58955-77839_length_18904_error-free_length_18897_read_identity_97.707_	97.73	
+relocation, inconsistency = 3963
+83061	96441	5501	18885	1	pb000000000257_1__strand_58955-77839_length_18904_error-free_length_18897_read_identity_97.707_	96.91	
+CONTIG	pb000000000257_1__strand_58955-77839_length_18904_error-free_length_18897_read_identity_97.707_	18885	misassembled
+140473	145079	4642	1	0	pb000000000258_0_-strand_22306-42675_length_20467_error-free_length_20471_read_identity_97.790_	95.23	
+relocation, inconsistency = 9555
+126763	131718	8875	3842	0	pb000000000258_0_-strand_22306-42675_length_20467_error-free_length_20471_read_identity_97.790_	96.48	
+local misassembly
+124919	126151	10102	8875	0	pb000000000258_0_-strand_22306-42675_length_20467_error-free_length_20471_read_identity_97.790_	98.46	
+local misassembly
+122108	124781	12942	10254	0	pb000000000258_0_-strand_22306-42675_length_20467_error-free_length_20471_read_identity_97.790_	97.08	
+relocation, inconsistency = 14222
+100364	109052	20454	11776	0	pb000000000258_0_-strand_22306-42675_length_20467_error-free_length_20471_read_identity_97.790_	96.91	
+CONTIG	pb000000000258_0_-strand_22306-42675_length_20467_error-free_length_20471_read_identity_97.790_	20454	misassembled
+31922	44163	1	12252	0	pb000000000259_0__strand_28207-48176_length_20125_error-free_length_20089_read_identity_97.643_	96.66	
+relocation, inconsistency = 31332
+73392	83080	10149	19858	0	pb000000000259_0__strand_28207-48176_length_20125_error-free_length_20089_read_identity_97.643_	96.96	
+CONTIG	pb000000000259_0__strand_28207-48176_length_20125_error-free_length_20089_read_identity_97.643_	20107	misassembled
+15930	35359	19481	5	0	pb000000000260_0_-strand_68353-100000_length_31592_error-free_length_31594_read_identity_97.605_	96.91	
+local misassembly
+3799	15832	31427	19481	0	pb000000000260_0_-strand_68353-100000_length_31592_error-free_length_31594_read_identity_97.605_	96.83	
+CONTIG	pb000000000260_0_-strand_68353-100000_length_31592_error-free_length_31594_read_identity_97.605_	31592	correct
+CONTIG	pb000000000261_0__strand_12619-61171_length_48527_error-free_length_48574_read_identity_94.382_	48506	unaligned
+101181	109012	278	8126	0	pb000000000262_0__strand_57918-65979_length_8154_error-free_length_8149_read_identity_96.718_	95.88	
+CONTIG	pb000000000262_0__strand_57918-65979_length_8154_error-free_length_8149_read_identity_96.718_	8126	correct
+CONTIG	pb000000000263_0__strand_15297-29246_length_14126_error-free_length_14114_read_identity_93.660_	14113	unaligned
+83061	95827	12740	3	1	pb000000000264_1_-strand_22775-62766_length_39950_error-free_length_39939_read_identity_96.957_	95.66	
+relocation, inconsistency = 3964
+75523	79594	16327	12243	1	pb000000000264_1_-strand_22775-62766_length_39950_error-free_length_39939_read_identity_96.957_	96.92	
+local misassembly
+61307	75406	30482	16327	1	pb000000000264_1_-strand_22775-62766_length_39950_error-free_length_39939_read_identity_96.957_	96.03	
+local misassembly
+58909	61141	32693	30468	1	pb000000000264_1_-strand_22775-62766_length_39950_error-free_length_39939_read_identity_96.957_	96.89	
+local misassembly
+51293	58597	39933	32693	1	pb000000000264_1_-strand_22775-62766_length_39950_error-free_length_39939_read_identity_96.957_	96.31	
+CONTIG	pb000000000264_1_-strand_22775-62766_length_39950_error-free_length_39939_read_identity_96.957_	39933	misassembled
+CONTIG	pb000000000265_0_-strand_42573-64508_length_22020_error-free_length_21994_read_identity_93.070_	21995	unaligned
+90452	100042	9620	4	0	pb000000000266_0_-strand_43023-53040_length_10019_error-free_length_10022_read_identity_98.680_	98.19	
+relocation, inconsistency = 7936
+82113	83080	10019	9056	0	pb000000000266_0_-strand_43023-53040_length_10019_error-free_length_10022_read_identity_98.680_	98.97	
+CONTIG	pb000000000266_0_-strand_43023-53040_length_10019_error-free_length_10022_read_identity_98.680_	10019	misassembled
+CONTIG	pb000000000267_0__strand_61773-72463_length_10729_error-free_length_10746_read_identity_92.574_	10719	unaligned
+75523	77674	16148	18298	1	pb000000000268_1__strand_44745-63028_length_18309_error-free_length_18287_read_identity_94.234_	95.08	
+CONTIG	pb000000000268_1__strand_44745-63028_length_18309_error-free_length_18287_read_identity_94.234_	18298	correct
+175449	175838	2752	3138	0	pb000000000269_0__strand_53905-100000_length_46089_error-free_length_46114_read_identity_94.901_	96.43	
+relocation, inconsistency = -61510
+122108	126150	10918	14981	0	pb000000000269_0__strand_53905-100000_length_46089_error-free_length_46114_read_identity_94.901_	95.19	
+local misassembly
+126764	131715	14982	19950	0	pb000000000269_0__strand_53905-100000_length_46089_error-free_length_46114_read_identity_94.901_	95.06	
+relocation, inconsistency = 10073
+146293	147989	24455	26153	0	pb000000000269_0__strand_53905-100000_length_46089_error-free_length_46114_read_identity_94.901_	95.41	
+relocation, inconsistency = 6941
+154434	163152	25657	34363	0	pb000000000269_0__strand_53905-100000_length_46089_error-free_length_46114_read_identity_94.901_	95.0	
+relocation, inconsistency = 9359
+173899	175448	35751	37291	0	pb000000000269_0__strand_53905-100000_length_46089_error-free_length_46114_read_identity_94.901_	95.67	
+relocation, inconsistency = 9816
+185264	193755	37291	45797	0	pb000000000269_0__strand_53905-100000_length_46089_error-free_length_46114_read_identity_94.901_	95.01	
+CONTIG	pb000000000269_0__strand_53905-100000_length_46089_error-free_length_46114_read_identity_94.901_	46075	misassembled
+154433	157000	2574	1	0	pb000000000270_0_-strand_17852-41328_length_23437_error-free_length_23456_read_identity_96.327_	96.88	
+relocation, inconsistency = 6938
+146293	147989	3782	2080	0	pb000000000270_0_-strand_17852-41328_length_23437_error-free_length_23456_read_identity_96.327_	96.97	
+relocation, inconsistency = 10070
+126763	131718	13234	8287	0	pb000000000270_0_-strand_17852-41328_length_23437_error-free_length_23456_read_identity_96.327_	96.46	
+local misassembly
+122108	126151	17239	13234	0	pb000000000270_0_-strand_17852-41328_length_23437_error-free_length_23456_read_identity_96.327_	95.51	
+CONTIG	pb000000000270_0_-strand_17852-41328_length_23437_error-free_length_23456_read_identity_96.327_	23419	misassembled
+126763	131298	4525	1	0	pb000000000271_0_-strand_26565-38049_length_11480_error-free_length_11491_read_identity_97.576_	96.72	
+local misassembly
+122108	126151	8558	4525	0	pb000000000271_0_-strand_26565-38049_length_11480_error-free_length_11491_read_identity_97.576_	97.74	
+relocation, inconsistency = 14224
+105025	109052	11453	7390	0	pb000000000271_0_-strand_26565-38049_length_11480_error-free_length_11491_read_identity_97.576_	95.96	
+CONTIG	pb000000000271_0_-strand_26565-38049_length_11480_error-free_length_11491_read_identity_97.576_	11453	misassembled
+CONTIG	pb000000000272_0__strand_17871-61550_length_43657_error-free_length_43663_read_identity_94.431_	43641	unaligned
+CONTIG	pb000000000273_0__strand_11635-27322_length_15690_error-free_length_15728_read_identity_94.904_	15680	unaligned
+CONTIG	pb000000000274_0__strand_90549-100000_length_9429_error-free_length_9463_read_identity_91.956_	9429	unaligned
+CONTIG	pb000000000275_0__strand_49471-56552_length_7109_error-free_length_7108_read_identity_94.759_	7066	unaligned
+126763	131718	5688	738	0	pb000000000276_0_-strand_25409-36845_length_11463_error-free_length_11464_read_identity_98.078_	97.99	
+local misassembly
+122108	126151	9737	5688	0	pb000000000276_0_-strand_25409-36845_length_11463_error-free_length_11464_read_identity_98.078_	97.65	
+relocation, inconsistency = 14218
+106190	109052	11442	8575	0	pb000000000276_0_-strand_25409-36845_length_11463_error-free_length_11464_read_identity_98.078_	98.61	
+CONTIG	pb000000000276_0_-strand_25409-36845_length_11463_error-free_length_11464_read_identity_98.078_	11444	misassembled
+76099	79594	1	3510	1	pb000000000277_1__strand_61452-73769_length_12345_error-free_length_12341_read_identity_96.843_	96.95	
+relocation, inconsistency = 3964
+83061	92333	3013	12345	1	pb000000000277_1__strand_61452-73769_length_12345_error-free_length_12341_read_identity_96.843_	96.03	
+CONTIG	pb000000000277_1__strand_61452-73769_length_12345_error-free_length_12341_read_identity_96.843_	12345	misassembled
+75570	79594	1	4033	1	pb000000000278_1__strand_60921-69916_length_9046_error-free_length_9051_read_identity_97.406_	97.98	
+relocation, inconsistency = 3961
+83063	88491	3541	9004	1	pb000000000278_1__strand_60921-69916_length_9046_error-free_length_9051_read_identity_97.406_	96.25	
+CONTIG	pb000000000278_1__strand_60921-69916_length_9046_error-free_length_9051_read_identity_97.406_	9004	misassembled
+CONTIG	pb000000000279_0__strand_75082-89559_length_14517_error-free_length_14509_read_identity_93.729_	14482	unaligned
+CONTIG	pb000000000280_1_-strand_76531-100000_length_23491_error-free_length_23481_read_identity_91.211_	23477	unaligned
+29701	42230	12533	1	0	pb000000000281_0_-strand_61536-74076_length_12533_error-free_length_12540_read_identity_96.884_	96.1	
+CONTIG	pb000000000281_0_-strand_61536-74076_length_12533_error-free_length_12540_read_identity_96.884_	12533	correct
+11834	15832	135	4120	0	pb000000000282_0__strand_8113-42643_length_34692_error-free_length_34714_read_identity_97.963_	97.25	
+local misassembly
+15897	19073	4085	7227	0	pb000000000282_0__strand_8113-42643_length_34692_error-free_length_34714_read_identity_97.963_	96.26	
+local misassembly
+19075	30035	7317	18293	0	pb000000000282_0__strand_8113-42643_length_34692_error-free_length_34714_read_identity_97.963_	97.53	
+fake misassembly (gap in the contig is small or filled with Ns)
+30035	44163	18357	32404	0	pb000000000282_0__strand_8113-42643_length_34692_error-free_length_34714_read_identity_97.963_	97.07	
+relocation, inconsistency = 31292
+73271	77774	30220	34672	0	pb000000000282_0__strand_8113-42643_length_34692_error-free_length_34714_read_identity_97.963_	97.15	
+CONTIG	pb000000000282_0__strand_8113-42643_length_34692_error-free_length_34714_read_identity_97.963_	34672	misassembled
+111505	114470	1	2974	1	pb000000000283_1__strand_87359-93747_length_6416_error-free_length_6403_read_identity_95.384_	95.55	
+relocation, inconsistency = 3218
+117688	119306	2974	4595	1	pb000000000283_1__strand_87359-93747_length_6416_error-free_length_6403_read_identity_95.384_	95.51	
+relocation, inconsistency = 10043
+128346	131148	3592	6399	1	pb000000000283_1__strand_87359-93747_length_6416_error-free_length_6403_read_identity_95.384_	95.75	
+CONTIG	pb000000000283_1__strand_87359-93747_length_6416_error-free_length_6403_read_identity_95.384_	6399	misassembled
+100055	100876	1	823	1	pb000000000284_1__strand_81080-100000_length_18938_error-free_length_18941_read_identity_94.126_	96.17	
+108499	110220	3962	5682	1	pb000000000284_1__strand_81080-100000_length_18938_error-free_length_18941_read_identity_94.126_	95.09	
+117688	119306	9268	10878	1	pb000000000284_1__strand_81080-100000_length_18938_error-free_length_18941_read_identity_94.126_	95.19	
+63965	72537	8562	2	1	pb000000000285_1_-strand_42077-50639_length_8571_error-free_length_8568_read_identity_97.412_	97.54	
+CONTIG	pb000000000285_1_-strand_42077-50639_length_8571_error-free_length_8568_read_identity_97.412_	8562	correct
+186427	191563	5118	1	0	pb000000000286_0_-strand_2481-7607_length_5134_error-free_length_5140_read_identity_96.964_	96.78	
+CONTIG	pb000000000286_0_-strand_2481-7607_length_5134_error-free_length_5140_read_identity_96.964_	5118	correct
+83923	89555	5652	1	1	pb000000000287_1_-strand_29029-34686_length_5663_error-free_length_5666_read_identity_97.952_	97.63	
+CONTIG	pb000000000287_1_-strand_29029-34686_length_5663_error-free_length_5666_read_identity_97.952_	5652	correct
+141675	145798	2218	6338	0	pb000000000288_0__strand_72089-80093_length_8031_error-free_length_8023_read_identity_95.268_	95.34	
+local misassembly
+146293	147989	6301	7989	0	pb000000000288_0__strand_72089-80093_length_8031_error-free_length_8023_read_identity_95.268_	96.03	
+CONTIG	pb000000000288_0__strand_72089-80093_length_8031_error-free_length_8023_read_identity_95.268_	8012	correct
+39535	39775	16385	16627	1	pb000000000289_1__strand_12162-46565_length_34495_error-free_length_34446_read_identity_93.758_	95.93	
+CONTIG	pb000000000289_1__strand_12162-46565_length_34495_error-free_length_34446_read_identity_93.758_	34477	correct
+75523	79593	1593	5646	1	pb000000000290_1__strand_59285-88217_length_28924_error-free_length_28955_read_identity_97.435_	97.56	
+relocation, inconsistency = 3960
+83061	99655	5154	21752	1	pb000000000290_1__strand_59285-88217_length_28924_error-free_length_28955_read_identity_97.435_	96.51	
+local misassembly
+99990	100876	21717	22600	1	pb000000000290_1__strand_59285-88217_length_28924_error-free_length_28955_read_identity_97.435_	98.09	
+relocation, inconsistency = 2664
+103208	104700	22268	23755	1	pb000000000290_1__strand_59285-88217_length_28924_error-free_length_28955_read_identity_97.435_	97.74	
+local misassembly
+105359	107423	23661	25718	1	pb000000000290_1__strand_59285-88217_length_28924_error-free_length_28955_read_identity_97.435_	97.54	
+relocation, inconsistency = 1075
+108499	110173	25719	27388	1	pb000000000290_1__strand_59285-88217_length_28924_error-free_length_28955_read_identity_97.435_	98.16	
+local misassembly
+110814	112360	27349	28899	1	pb000000000290_1__strand_59285-88217_length_28924_error-free_length_28955_read_identity_97.435_	97.75	
+CONTIG	pb000000000290_1__strand_59285-88217_length_28924_error-free_length_28955_read_identity_97.435_	28899	misassembled
+CONTIG	pb000000000291_0_-strand_57252-75809_length_18576_error-free_length_18587_read_identity_94.183_	18564	unaligned
+11740	15832	1	4092	0	pb000000000292_0__strand_8080-13693_length_5595_error-free_length_5594_read_identity_95.379_	95.71	
+local misassembly
+16291	17453	4413	5570	0	pb000000000292_0__strand_8080-13693_length_5595_error-free_length_5594_read_identity_95.379_	95.33	
+CONTIG	pb000000000292_0__strand_8080-13693_length_5595_error-free_length_5594_read_identity_95.379_	5570	correct
+CONTIG	pb000000000293_0__strand_615-33649_length_33139_error-free_length_33110_read_identity_92.660_	33117	unaligned
+CONTIG	pb000000000294_1__strand_31878-48589_length_16581_error-free_length_16631_read_identity_93.062_	16546	unaligned
+CONTIG	pb000000000295_0_-strand_73860-87523_length_13650_error-free_length_13663_read_identity_94.454_	13640	unaligned
+100025	100404	384	1	1	pb000000000296_1_-strand_18566-25983_length_7445_error-free_length_7434_read_identity_94.200_	95.62	
+CONTIG	pb000000000296_1_-strand_18566-25983_length_7445_error-free_length_7434_read_identity_94.200_	7426	correct
+25495	30250	1	4721	1	pb000000000297_1__strand_18811-35643_length_16786_error-free_length_16829_read_identity_96.295_	95.35	
+relocation, inconsistency = 4064
+33892	39410	4299	9852	1	pb000000000297_1__strand_18811-35643_length_16786_error-free_length_16829_read_identity_96.295_	95.51	
+relocation, inconsistency = 2589
+41685	43666	9538	11517	1	pb000000000297_1__strand_18811-35643_length_16786_error-free_length_16829_read_identity_96.295_	96.07	
+CONTIG	pb000000000297_1__strand_18811-35643_length_16786_error-free_length_16829_read_identity_96.295_	16786	misassembled
+8001	15832	11635	3847	0	pb000000000298_0_-strand_83994-95631_length_11652_error-free_length_11650_read_identity_95.051_	95.01	
+CONTIG	pb000000000298_0_-strand_83994-95631_length_11652_error-free_length_11650_read_identity_95.051_	11635	correct
+CONTIG	pb000000000299_1__strand_50615-80237_length_29461_error-free_length_29460_read_identity_92.911_	29412	unaligned
+103300	109052	1	5719	0	pb000000000300_0__strand_60261-69272_length_8967_error-free_length_8977_read_identity_97.517_	95.68	
+relocation, inconsistency = 14218
+122110	126151	4559	8594	0	pb000000000300_0__strand_60261-69272_length_8967_error-free_length_8977_read_identity_97.517_	97.64	
+local misassembly
+126713	127137	8544	8967	0	pb000000000300_0__strand_60261-69272_length_8967_error-free_length_8977_read_identity_97.517_	98.13	
+CONTIG	pb000000000300_0__strand_60261-69272_length_8967_error-free_length_8977_read_identity_97.517_	8967	misassembled
+39951	44163	1	4134	0	pb000000000301_0__strand_36236-84194_length_48006_error-free_length_48022_read_identity_98.317_	96.55	
+relocation, inconsistency = 31327
+73271	83026	1915	11637	0	pb000000000301_0__strand_36236-84194_length_48006_error-free_length_48022_read_identity_98.317_	98.07	
+relocation, inconsistency = 7936
+90452	109052	11127	29780	0	pb000000000301_0__strand_36236-84194_length_48006_error-free_length_48022_read_identity_98.317_	97.31	
+relocation, inconsistency = 14217
+122108	126149	28619	32658	0	pb000000000301_0__strand_36236-84194_length_48006_error-free_length_48022_read_identity_98.317_	98.25	
+local misassembly
+126763	131718	32659	37609	0	pb000000000301_0__strand_36236-84194_length_48006_error-free_length_48022_read_identity_98.317_	98.47	
+relocation, inconsistency = 9552
+140473	145798	36812	42221	0	pb000000000301_0__strand_36236-84194_length_48006_error-free_length_48022_read_identity_98.317_	95.23	
+local misassembly
+146285	147989	42177	43875	0	pb000000000301_0__strand_36236-84194_length_48006_error-free_length_48022_read_identity_98.317_	98.25	
+relocation, inconsistency = 6933
+154433	159048	43386	47994	0	pb000000000301_0__strand_36236-84194_length_48006_error-free_length_48022_read_identity_98.317_	98.51	
+CONTIG	pb000000000301_0__strand_36236-84194_length_48006_error-free_length_48022_read_identity_98.317_	47997	misassembled
+5124	14532	9372	1	0	pb000000000302_0_-strand_89123-98507_length_9398_error-free_length_9407_read_identity_95.589_	95.56	
+CONTIG	pb000000000302_0_-strand_89123-98507_length_9398_error-free_length_9407_read_identity_95.589_	9373	correct
+3164	4527	1	1365	1	pb000000000303_1__strand_2208-13500_length_11302_error-free_length_11293_read_identity_95.324_	95.88	
+local misassembly
+5208	6091	1358	2240	1	pb000000000303_1__strand_2208-13500_length_11302_error-free_length_11293_read_identity_95.324_	96.09	
+local misassembly
+6961	11321	2991	7326	1	pb000000000303_1__strand_2208-13500_length_11302_error-free_length_11293_read_identity_95.324_	95.05	
+CONTIG	pb000000000303_1__strand_2208-13500_length_11302_error-free_length_11293_read_identity_95.324_	11287	correct
+11449	14110	5627	8285	1	pb000000000304_1__strand_3912-12222_length_8320_error-free_length_8341_read_identity_95.736_	95.77	
+CONTIG	pb000000000304_1__strand_3912-12222_length_8320_error-free_length_8341_read_identity_95.736_	8285	correct
+77785	79594	17847	16034	1	pb000000000305_1_-strand_19062-36862_length_17863_error-free_length_17867_read_identity_94.969_	95.92	
+CONTIG	pb000000000305_1_-strand_19062-36862_length_17863_error-free_length_17867_read_identity_94.969_	17847	correct
+83081	83647	3745	4314	0	pb000000000306_0__strand_43684-80269_length_36693_error-free_length_36670_read_identity_94.845_	95.32	
+175449	175838	13075	13457	0	pb000000000306_0__strand_43684-80269_length_36693_error-free_length_36670_read_identity_94.845_	96.41	
+111383	112531	21253	22394	0	pb000000000306_0__strand_43684-80269_length_36693_error-free_length_36670_read_identity_94.845_	95.79	
+148493	148984	35983	36474	0	pb000000000306_0__strand_43684-80269_length_36693_error-free_length_36670_read_identity_94.845_	95.01	
+CONTIG	pb000000000307_1__strand_74126-100000_length_25918_error-free_length_25985_read_identity_92.454_	25894	unaligned

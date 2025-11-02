@@ -1,0 +1,17 @@
+#                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                   accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                           ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_1_length_73696_cov_32.301567:41664-43010|+ -            449 6501                 -            444  5.8e-220  725.8   4.7   1   1  2.9e-222  6.5e-220  725.6   4.7     2   444     2   448     1   448 0.97 NODE_1_length_73696_cov_32.301567_35 # 41664 # 43010 # 1 # ID=1_35;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.316
+NODE_8_length_30985_cov_8.604803:11906-13591|+  -            562 6501                 -            444   3.3e-27   90.5   2.9   1   2   2.1e-21   4.7e-19   63.6   1.0    12   255    14   256     8   334 0.83 NODE_8_length_30985_cov_8.604803_13 # 11906 # 13591 # 1 # ID=8_13;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.284
+NODE_8_length_30985_cov_8.604803:11906-13591|+  -            562 6501                 -            444   3.3e-27   90.5   2.9   2   2   3.1e-10   7.1e-08   26.8   0.0   380   443   471   535   430   536 0.74 NODE_8_length_30985_cov_8.604803_13 # 11906 # 13591 # 1 # ID=8_13;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.284
+NODE_14_length_15897_cov_20.600380:146-1612|-   -            489 6501                 -            444   2.4e-25   84.3   4.1   1   1   1.6e-27   3.6e-25   83.8   4.1    16   438    59   484    43   487 0.81 NODE_14_length_15897_cov_20.600380_1 # 146 # 1612 # -1 # ID=14_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.279
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/6501at2085.hmm
+# Target file:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_genome/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_genome/run_mycoplasmatales_odb12/hmmer_output/6501at2085.out --cpu 1 /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_downloads/lineages/mycoplasmatales_odb12/hmms/6501at2085.hmm /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3/busco_genome/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/genomika25/studenci/dmyboi/sequence_adnotation_cw3
+# Date:            Tue Oct 28 11:31:02 2025
+# [ok]

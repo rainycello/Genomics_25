@@ -1,0 +1,14 @@
+- "left reads":
+  - "/home/genomika24/dmytro_boi/genome_assembling_home_work2/illumina1ss.fq"
+  "number": !!int "1"
+  "orientation": "fr"
+  "right reads":
+  - "/home/genomika24/dmytro_boi/genome_assembling_home_work2/illumina2ss.fq"
+  "type": "paired-end"
+- "left reads":
+  - "/home/genomika24/dmytro_boi/genome_assembling_home_work2/illumina_mp1.fq"
+  "number": !!int "1"
+  "orientation": "rf"
+  "right reads":
+  - "/home/genomika24/dmytro_boi/genome_assembling_home_work2/illumina_mp2.fq"
+  "type": "mate-pairs"
