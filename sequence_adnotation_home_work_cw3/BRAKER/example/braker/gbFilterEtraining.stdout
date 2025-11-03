@@ -1,0 +1,45 @@
+# Read in 187 genbank sequences.
+Quantiles of the GC contents in the training set:
+0%	0.28
+5%	0.326	10%	0.34
+15%	0.35	20%	0.356
+25%	0.364	30%	0.366
+35%	0.368	40%	0.372
+45%	0.376	50%	0.38
+55%	0.383	60%	0.386
+65%	0.39	70%	0.395
+75%	0.4	80%	0.403
+85%	0.407	90%	0.414
+95%	0.422	100%	0.495
+HMM-training the parameters...
+i= 0 bc= (0.237, 0.263, 0.263, 0.237)
+ ** building model for exons *EXON*
+start codon frequencies: ATG(187)
+# admissible start codons and their probabilities: ATG(1), CTG(0), TTG(0)
+ number of bases in the reading frames: 91350 91536 91535
+--- frame = 0 ---    minPatSum = 233
+--- frame = 1 ---    minPatSum = 233
+--- frame = 2 ---    minPatSum = 233
+--- initial frame = 0 ---    minPatSum = 233
+--- initial frame = 1 ---    minPatSum = 233
+--- initial frame = 2 ---    minPatSum = 233
+--- internal exon terminal frame = 0 ---    minPatSum = 233
+--- internal exon terminal frame = 1 ---    minPatSum = 233
+--- internal exon terminal frame = 2 ---    minPatSum = 233
+single, initial, internal, terminal mean exon lengths :
+975	272	157	315
+single exon : 28
+initial exon 0 : 76
+initial exon 1 : 46
+initial exon 2 : 37
+internal exon 0 : 613
+internal exon 1 : 183
+internal exon 2 : 231
+terminal exon : 159
+Frequency of stop codons:
+tag:   31 (0.166)
+taa:   71 (0.38)
+tga:   85 (0.455)
+end *EXON*
+Storing parameters to file...
+Writing exon model parameters [1] to file /home/genomika25/miniconda3/envs/braker/config/species/arabidopsis_v2/arabidopsis_v2_exon_probs.pbl.

@@ -1,0 +1,2 @@
+/home/genomika25/miniconda3/envs/braker/lib/python3.9/site-packages/Bio/SeqRecord.py:354: BiopythonDeprecationWarning: Using a string as the sequence is deprecated and will raise a TypeError in future. It has been converted to a Seq object.
+  warnings.warn(

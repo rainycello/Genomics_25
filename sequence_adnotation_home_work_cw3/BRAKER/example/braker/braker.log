@@ -1,0 +1,170 @@
+#**********************************************************************************
+#                               BRAKER CONFIGURATION                               
+#**********************************************************************************
+# BRAKER CALL: /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/BRAKER/scripts/braker.pl --genome=genome.fa --species=arabidopsis_v2 --hints=hintsfile.gff --softmasking
+# Mon Nov  3 22:09:50 2025: braker.pl version 3.0.8
+# Mon Nov  3 22:09:50 2025: Checking whether hints from RNA-Seq and/or proteins are present in hintsfile
+# Mon Nov  3 22:09:50 2025: Only RNA-Seq input detected, BRAKER will be executed in ET mode (BRAKER1).
+# Mon Nov  3 22:09:50 2025: Configuring of BRAKER for using external tools...
+# Mon Nov  3 22:09:50 2025: Trying to set $AUGUSTUS_CONFIG_PATH...
+# Mon Nov  3 22:09:50 2025: Found environment variable $AUGUSTUS_CONFIG_PATH.
+# Mon Nov  3 22:09:50 2025: Checking /home/genomika25/miniconda3/envs/braker/config/ as potential path for $AUGUSTUS_CONFIG_PATH.
+# Mon Nov  3 22:09:50 2025: Success! Setting $AUGUSTUS_CONFIG_PATH to /home/genomika25/miniconda3/envs/braker/config/!
+# Mon Nov  3 22:09:50 2025: Trying to set $AUGUSTUS_BIN_PATH...
+# Mon Nov  3 22:09:50 2025: Found environment variable $AUGUSTUS_BIN_PATH.
+# Mon Nov  3 22:09:50 2025: Checking /home/genomika25/miniconda3/envs/braker/bin/ as potential path for $AUGUSTUS_BIN_PATH.
+# Mon Nov  3 22:09:50 2025: Success! Setting $AUGUSTUS_BIN_PATH to /home/genomika25/miniconda3/envs/braker/bin/!
+# Mon Nov  3 22:09:50 2025: Trying to set $AUGUSTUS_SCRIPTS_PATH...
+# Mon Nov  3 22:09:50 2025: Found environment variable $AUGUSTUS_SCRIPTS_PATH.
+# Mon Nov  3 22:09:50 2025: Checking /home/genomika25/miniconda3/envs/braker/bin/ as potential path for $AUGUSTUS_SCRIPTS_PATH.
+# Mon Nov  3 22:09:50 2025: Success! Setting $AUGUSTUS_SCRIPTS_PATH to /home/genomika25/miniconda3/envs/braker/bin/!
+# Mon Nov  3 22:09:50 2025: Trying to set $PYTHON3_PATH...
+# Mon Nov  3 22:09:50 2025: Did not find environment variable $PYTHON3_PATH.
+# Mon Nov  3 22:09:50 2025: Trying to guess PYTHON3_PATH from location of python3 executable that is available in your $PATH
+# Mon Nov  3 22:09:50 2025: Checking /home/genomika25/miniconda3/envs/braker/bin as potential path for $PYTHON3_PATH.
+# Mon Nov  3 22:09:50 2025: Success! Setting $PYTHON3_PATH to /home/genomika25/miniconda3/envs/braker/bin!
+# Mon Nov  3 22:09:50 2025: Trying to set $GENEMARK_PATH...
+# Mon Nov  3 22:09:50 2025: Found environment variable $GENEMARK_PATH.
+# Mon Nov  3 22:09:50 2025: Checking /home/genomika25/RM/GeneMark-ETP/bin as potential path for $GENEMARK_PATH.
+#*********
+# WARNING: Couldn't find gmes_petap.pl in /home/genomika25/RM/GeneMark-ETP/bin. Will not set $GENEMARK_PATH to /home/genomika25/RM/GeneMark-ETP/bin!
+#*********
+# Mon Nov  3 22:09:50 2025: Checking /home/genomika25/RM/GeneMark-ETP/bin/gmes/ as potential path for $GENEMARK_PATH.
+# Mon Nov  3 22:09:50 2025: Success! Setting $GENEMARK_PATH to /home/genomika25/RM/GeneMark-ETP/bin/gmes/!
+# Mon Nov  3 22:09:50 2025: Trying to set $DIAMOND_PATH...
+# Mon Nov  3 22:09:50 2025: Found environment variable $DIAMOND_PATH.
+# Mon Nov  3 22:09:50 2025: Checking  as potential path for $DIAMOND_PATH.
+#*********
+# WARNING:  is not a directory. Will not set $DIAMOND_PATH to !
+#*********
+# Mon Nov  3 22:09:50 2025: Trying to guess DIAMOND_PATH from location of diamond executable that is available in your $PATH
+# Mon Nov  3 22:09:50 2025: Checking /home/genomika25/miniconda3/envs/braker/bin as potential path for $DIAMOND_PATH.
+# Mon Nov  3 22:09:50 2025: Success! Setting $DIAMOND_PATH to /home/genomika25/miniconda3/envs/braker/bin!
+# Mon Nov  3 22:09:50 2025: Trying to set $TSEBRA_PATH...
+# Mon Nov  3 22:09:50 2025: Did not find environment variable $TSEBRA_PATH.
+# Mon Nov  3 22:09:50 2025: Trying to guess TSEBRA_PATH from location of tsebra.py executable that is available in your $PATH
+# Mon Nov  3 22:09:50 2025: Checking /home/genomika25/miniconda3/envs/braker/bin as potential path for $TSEBRA_PATH.
+# Mon Nov  3 22:09:50 2025: Success! Setting $TSEBRA_PATH to /home/genomika25/miniconda3/envs/braker/bin!
+# Mon Nov  3 22:09:50 2025: Trying to set $CDBTOOLS_PATH...
+# Mon Nov  3 22:09:50 2025: Did not find environment variable $CDBTOOLS_PATH.
+# Mon Nov  3 22:09:50 2025: Trying to guess CDBTOOLS_PATH from location of cdbfasta executable that is available in your $PATH
+# Mon Nov  3 22:09:50 2025: Checking /home/genomika25/miniconda3/envs/braker/bin as potential path for $CDBTOOLS_PATH.
+# Mon Nov  3 22:09:50 2025: Success! Setting $CDBTOOLS_PATH to /home/genomika25/miniconda3/envs/braker/bin!
+# Mon Nov  3 22:09:50 2025: Checking if input file /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/hintsfile.gff is in gff format
+#**********************************************************************************
+#                               CREATING DIRECTORY STRUCTURE                       
+#**********************************************************************************
+# Mon Nov  3 22:09:50 2025: creating file that contains citations for this BRAKER run at /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/what-to-cite.txt...
+# Mon Nov  3 22:09:50 2025: changing into working directory /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker
+cd /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker
+# Mon Nov  3 22:09:50 2025: getting GC content of the genome
+/home/genomika25/miniconda3/envs/braker/bin/get_gc_content.py --sequences /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/genome.fa --print_sequence_length 1> /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/gc_content.out 2> /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/errors/gc_content.stderr
+# Mon Nov  3 22:09:50 2025: Creating parameter template files for AUGUSTUS with new_species.pl
+# Mon Nov  3 22:09:50 2025: new_species.pl will create parameter files for species arabidopsis_v2 in /home/genomika25/miniconda3/envs/braker/config//species/arabidopsis_v2
+/home/genomika25/miniconda3/envs/braker/bin/perl /home/genomika25/miniconda3/envs/braker/bin/new_species.pl --species=arabidopsis_v2 --AUGUSTUS_CONFIG_PATH=/home/genomika25/miniconda3/envs/braker/config/ 1> /dev/null 2>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/errors/new_species.stderr
+# Mon Nov  3 22:09:50 2025: check_fasta_headers(): Checking fasta headers of file /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/genome.fa
+#**********************************************************************************
+#                               PROCESSING HINTS                                   
+#**********************************************************************************
+# Mon Nov  3 22:09:50 2025: Adding other user provided hints to hintsfile
+# Mon Nov  3 22:09:50 2025: filter introns, find strand and change score to 'mult' entry
+/home/genomika25/miniconda3/envs/braker/bin/perl /home/genomika25/miniconda3/envs/braker/bin/filterIntronsFindStrand.pl /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/genome.fa /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/replaced_hints_0.gff --score 1> /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/filtered_hints_0.gff 2>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/errors/filterIntronsFindStrand_userHints_0.stderr
+# Mon Nov  3 22:09:50 2025: adding hints from file /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/filtered_hints_0.gff to /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/hintsfile.gff
+cat /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/filtered_hints_0.gff >> /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/hintsfile.gff
+# Mon Nov  3 22:09:50 2025: deleting file /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/filtered_hints_0.gff
+# Mon Nov  3 22:09:50 2025: deleting file /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/replaced_hints_0.gff
+# Mon Nov  3 22:09:50 2025: Checking for hints of src=C and with grp tags that should not be joined according to multiplicity
+# Mon Nov  3 22:09:50 2025: Joining hints that are identical (& from the same source) into multiplicity hints (input file /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/tmp_merge_hints.gff)
+# Mon Nov  3 22:09:50 2025: sort hints of type all
+cat /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/tmp_merge_hints.gff | sort -n -k 4,4 | sort -s -n -k 5,5 | sort -s -n -k 3,3 | sort -s -k 1,1 >/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/hints.all.temp.sort.gff
+# Mon Nov  3 22:09:50 2025: join multiple hints
+/home/genomika25/miniconda3/envs/braker/bin/perl /home/genomika25/miniconda3/envs/braker/bin/join_mult_hints.pl </home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/hints.all.temp.sort.gff >/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/tmp_merge_hints.gff 2>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/errors/join_mult_hints.all.stderr
+mv /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/tmp_merge_hints.gff /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/hintsfile.gff
+# Mon Nov  3 22:09:50 2025: Preparing hints for running GeneMark
+# Mon Nov  3 22:09:50 2025: Filtering intron hints for GeneMark from /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/hintsfile.gff...
+cat /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/genemark_hintsfile.gff.rnaseq | sort -n -k 4,4 | sort -s -n -k 5,5 | sort -s -k 3,3 | sort -s -k 1,1 | /home/genomika25/miniconda3/envs/braker/bin/join_mult_hints.pl > /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/genemark_hintsfile.gff.rnaseq.tmp
+mv /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/genemark_hintsfile.gff.rnaseq.tmp /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/genemark_hintsfile.gff
+#**********************************************************************************
+#                              RUNNING GENEMARK-EX                                 
+#**********************************************************************************
+# Mon Nov  3 22:09:50 2025: Checking whether file /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/genemark_hintsfile.gff contains enough hints and sufficient multiplicity information...
+# Mon Nov  3 22:09:50 2025: Executing GeneMark-ET
+# Mon Nov  3 22:09:50 2025: changing into GeneMark-ET directory /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET
+cd /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET
+# Mon Nov  3 22:09:50 2025: Executing gmes_petap.pl
+/home/genomika25/miniconda3/envs/braker/bin/perl /home/genomika25/RM/GeneMark-ETP/bin/gmes//gmes_petap.pl --verbose --sequence=/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/genome.fa --ET=/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/genemark_hintsfile.gff --cores=1 --gc_donor 0.001 1>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET.stdout 2>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/errors/GeneMark-ET.stderr
+# Mon Nov  3 22:17:41 2025: change to working directory /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker
+cd /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker
+# Mon Nov  3 22:17:41 2025: Filtering output of GeneMark for generating training genes for AUGUSTUS
+# Mon Nov  3 22:17:41 2025: Checking whether hintsfile contains single exon CDSpart hints or start/stop hints
+# Mon Nov  3 22:17:41 2025: sorting GeneMark predictions in /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/genemark.gtf
+/home/genomika25/miniconda3/envs/braker/bin/python3 /home/genomika25/miniconda3/envs/braker/bin/sortGeneMark.py /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/genemark.gtf > /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/genemark.gtf.sorted 2> /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/errors/sortGeneMark.err
+mv /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/genemark.gtf.sorted /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/genemark.gtf
+# Mon Nov  3 22:17:41 2025: filtering GeneMark genes by intron hints
+/home/genomika25/miniconda3/envs/braker/bin/perl /home/genomika25/miniconda3/envs/braker/bin/filterGenemark.pl --genemark=/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/genemark.gtf --hints=/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/hintsfile.gff --randomSeed=1 1>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/filterGenemark.stdout 2>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/errors/filterGenemark.stderr
+# Mon Nov  3 22:17:41 2025: Ensuring at least 4000 genes in training file 
+/home/genomika25/miniconda3/envs/braker/bin/python3 /home/genomika25/miniconda3/envs/braker/bin/ensure_n_training_genes.py --goodGenes /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/genemark.f.good.gtf --badGenes /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/genemark.f.bad.gtf --N 4000 1>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/ensure_min_n_training_genes.stdout 2>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/errors/ensure_min_n_training_genes.stderr
+#Mon Nov  3 22:17:41 2025: downsampling good genemark genes according to poisson distribution with Lambda 2:
+/home/genomika25/miniconda3/envs/braker/bin/perl /home/genomika25/miniconda3/envs/braker/bin/downsample_traingenes.pl --in_gtf=/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/genemark.f.good.gtf --out_gtf=/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/genemark.d.gtf --lambda=2 1> /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/downsample_traingenes.log 2> /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/errors/downsample_traingenes.err
+#**********************************************************************************
+#                               TRAIN AUGUSTUS                                     
+#**********************************************************************************
+# Mon Nov  3 22:17:41 2025: training AUGUSTUS
+# Mon Nov  3 22:17:41 2025: creating softlink from /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/genemark.gtf to /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/traingenes.gtf.
+ln -s GeneMark-ET/genemark.gtf /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/traingenes.gtf
+# Mon Nov  3 22:17:41 2025: Converting gtf file /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/traingenes.gtf to genbank file
+# Mon Nov  3 22:17:41 2025: Computing flanking region size for AUGUSTUS training genes
+# Mon Nov  3 22:17:41 2025: create genbank file /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.gb
+/home/genomika25/miniconda3/envs/braker/bin/perl /home/genomika25/miniconda3/envs/braker/bin/gff2gbSmallDNA.pl /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/traingenes.gtf /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/genome.fa 1151 /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.gb 2>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/errors/traingenes.gtf_gff2gbSmallDNA.stderr
+#*********
+# INFORMATION: the size of flanking region used in this BRAKER run is 1151. You might need this value if you later add a UTR training on top of an already existing BRAKER run.
+#*********
+# Mon Nov  3 22:17:41 2025: Genbank format file /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.gb contains 247 genes.
+#  Mon Nov  3 22:17:41 2025: concatenating good and downsampled GeneMark training genes to /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/good_genes.lst.
+cat /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/genemark.d.gtf > /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/good_genes.lst
+# Mon Nov  3 22:17:41 2025: Filtering train.gb for "good" mRNAs:
+/home/genomika25/miniconda3/envs/braker/bin/perl /home/genomika25/miniconda3/envs/braker/bin/filterGenesIn_mRNAname.pl /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/good_genes.lst /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.gb > /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.f.gb 2>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/errors/filterGenesIn_mRNAname.stderr
+# Mon Nov  3 22:17:41 2025: Genbank format file /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.f.gb contains 187 genes.
+# Mon Nov  3 22:17:41 2025: Running etraining to catch gene structure inconsistencies:
+/home/genomika25/miniconda3/envs/braker/bin//etraining --species=arabidopsis_v2 --AUGUSTUS_CONFIG_PATH=/home/genomika25/miniconda3/envs/braker/config/ /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.f.gb 1> /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/gbFilterEtraining.stdout 2>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/errors/gbFilterEtraining.stderr
+# Mon Nov  3 22:17:42 2025: Filtering /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.f.gb file to remove inconsistent gene structures...
+/home/genomika25/miniconda3/envs/braker/bin/perl /home/genomika25/miniconda3/envs/braker/bin/filterGenes.pl /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/etrain.bad.lst /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.f.gb 1> /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.ff.gb 2>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/errors/etrainFilterGenes.stderr
+# Mon Nov  3 22:17:42 2025: Genbank format file /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.ff.gb contains 187 genes.
+# Mon Nov  3 22:17:42 2025: BLAST or DIAMOND training gene structures against themselves:
+/home/genomika25/miniconda3/envs/braker/bin/perl /home/genomika25/miniconda3/envs/braker/bin/aa2nonred.pl /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/traingenes.good.fa /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/traingenes.good.nr.fa --DIAMOND_PATH=/home/genomika25/miniconda3/envs/braker/bin --cores=1 --diamond 1> /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/aa2nonred.stdout 2>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/errors/aa2nonred.stderr
+# Mon Nov  3 22:17:42 2025: Filtering nonredundant loci into /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.fff.gb:
+/home/genomika25/miniconda3/envs/braker/bin/perl /home/genomika25/miniconda3/envs/braker/bin/filterGenesIn.pl /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/nonred.loci.lst /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.ff.gb 1> /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.fff.gb 2>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/errors/filterGenesIn.stderr
+# Mon Nov  3 22:17:42 2025: Genbank format file /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.fff.gb contains 187 genes.
+# Mon Nov  3 22:17:42 2025: Moving /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.fff.gb to /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.gb:
+mv /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.fff.gb /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.gb
+# Mon Nov  3 22:17:42 2025: Splitting genbank file into train and test file
+#*********
+# WARNING: Number of reliable training genes is low (187). Recommended are at least 600 genes
+#*********
+/home/genomika25/miniconda3/envs/braker/bin/perl /home/genomika25/miniconda3/envs/braker/bin/randomSplit.pl /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.gb 62 2>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/errors/randomSplit.stderr
+# Mon Nov  3 22:17:42 2025: /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.gb.test will be used for measuring AUGUSTUS accuracy after training
+# Mon Nov  3 22:17:42 2025: Genbank format file /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.gb.test contains 62 genes.
+# Mon Nov  3 22:17:42 2025: Genbank format file /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.gb.train contains 125 genes.
+/home/genomika25/miniconda3/envs/braker/bin/perl /home/genomika25/miniconda3/envs/braker/bin/randomSplit.pl /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.gb.train 62 2>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/errors/randomSplit.stderr
+# Mon Nov  3 22:17:42 2025: Genbank format file /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.gb.train.train contains 63 genes.
+# Mon Nov  3 22:17:42 2025: Genbank format file /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.gb.train.test contains 62 genes.
+# Mon Nov  3 22:17:42 2025: /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.gb.train.test will be used or measuring AUGUSTUS accuracy during training with optimize_augustus.pl
+ /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.gb.train.train will be used for running etraining in optimize_augustus.pl (together with train.gb.train.test)
+ /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.gb.train will be used for running etraining (outside of optimize_augustus.pl)
+# Mon Nov  3 22:17:42 2025: Setting value of "stopCodonExcludedFromCDS" in /home/genomika25/miniconda3/envs/braker/config//species/arabidopsis_v2/arabidopsis_v2_parameters.cfg to "true"
+# Mon Nov  3 22:17:42 2025: first etraining
+/home/genomika25/miniconda3/envs/braker/bin//etraining --species=arabidopsis_v2 --AUGUSTUS_CONFIG_PATH=/home/genomika25/miniconda3/envs/braker/config/ /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.gb.train 1>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/firstetraining.stdout 2>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/errors/firstetraining.stderr
+grep -c "exon doesn't end in stop codon" /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/errors/firstetraining.stderr
+# Mon Nov  3 22:17:42 2025: Error rate of missing stop codon is 0.936
+# Mon Nov  3 22:17:42 2025: The appropriate value for "stopCodonExcludedFromCDS" seems to be "false".
+# Mon Nov  3 22:17:42 2025: Setting value of "stopCodonExcludedFromCDS" in /home/genomika25/miniconda3/envs/braker/config//species/arabidopsis_v2/arabidopsis_v2_parameters.cfg to "false"
+# Mon Nov  3 22:17:42 2025: Running etraining again
+/home/genomika25/miniconda3/envs/braker/bin//etraining --species=arabidopsis_v2 --AUGUSTUS_CONFIG_PATH=/home/genomika25/miniconda3/envs/braker/config/ /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.gb.train 1>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/firstetraining.stdout 2>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/errors/firstetraining.stderr
+# Mon Nov  3 22:17:43 2025: Adjusting stop-codon frequencies in species_parameters.cfg according to /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/firstetraining.stdout
+# Mon Nov  3 22:17:43 2025: Setting frequency of stop codons to tag=0.152, taa=0.36, tga=0.488.
+# Mon Nov  3 22:17:43 2025: First AUGUSTUS accuracy test
+/home/genomika25/miniconda3/envs/braker/bin//augustus --species=arabidopsis_v2 --AUGUSTUS_CONFIG_PATH=/home/genomika25/miniconda3/envs/braker/config/ /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.gb.test 1>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/firsttest.stdout 2>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/errors/firsttest.stderr
+# Mon Nov  3 22:17:50 2025: Computing accuracy of AUGUSTUS prediction (in test file derived from predictions on training data set stored in /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/firsttest.stdout)
+# Mon Nov  3 22:17:50 2025: The accuracy after initial training (no optimize_augustus.pl, no CRF) is 0.635466666666667
+# Mon Nov  3 22:17:50 2025: optimizing AUGUSTUS parameters
+/home/genomika25/miniconda3/envs/braker/bin/perl /home/genomika25/miniconda3/envs/braker/bin/optimize_augustus.pl --aug_exec_dir=/home/genomika25/miniconda3/envs/braker/bin/ --rounds=5 --species=arabidopsis_v2 --kfold=8 --AUGUSTUS_CONFIG_PATH=/home/genomika25/miniconda3/envs/braker/config/ --onlytrain=/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.gb.train.train /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/train.gb.train.test 1>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/optimize_augustus.stdout 2>/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/errors/optimize_augustus.stderr

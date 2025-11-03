@@ -1,0 +1,11 @@
+GFF3 input used	/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/ltrharvest.gff3
+PPT length	8-30nt	8-30nt
+U-box length	3-30nt	3-30nt
+PPT search radius	30	30
+tRNA library for PBS detection	/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/tRNAs.fa
+allowed PBS/tRNA alignment length range	11-30nt	11-30nt
+PBS/tRNA maximum unit edit distance	1	1
+allowed PBS offset from 5' LTR range	0-5nt	0-5nt
+allowed PBS offset from 3' tRNA end range	0-5nt	0-5nt
+PBS search radius	30	30
+

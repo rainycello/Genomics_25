@@ -1,0 +1,66 @@
+
+
+Building a new DB, current time: 11/02/2025 14:30:21
+New DB name:   /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/RM_2559519.SunNov21429582025/round-1/sampleDB-1.fa
+New DB title:  /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/RM_2559519.SunNov21429582025/round-1/sampleDB-1.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 32 sequences in 0.00714183 seconds.
+
+
+
+
+Building a new DB, current time: 11/02/2025 14:30:21
+New DB name:   /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/RM_2559519.SunNov21429582025/round-1/consensi.fa
+New DB title:  /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/RM_2559519.SunNov21429582025/round-1/consensi.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 4 sequences in 0.005723 seconds.
+
+
+
+
+Building a new DB, current time: 11/02/2025 14:30:22
+New DB name:   /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/RM_2559519.SunNov21429582025/round-1/family-0.fa
+New DB title:  /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/RM_2559519.SunNov21429582025/round-1/family-0.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 17 sequences in 0.000545025 seconds.
+
+
+
+
+Building a new DB, current time: 11/02/2025 14:30:22
+New DB name:   /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/RM_2559519.SunNov21429582025/round-1/family-0-cons-2.fa
+New DB title:  /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/RM_2559519.SunNov21429582025/round-1/family-0-cons-2.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000174046 seconds.
+
+
+
+
+Building a new DB, current time: 11/02/2025 14:30:22
+New DB name:   /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/RM_2559519.SunNov21429582025/round-1/family-0-cons-3.fa
+New DB title:  /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/RM_2559519.SunNov21429582025/round-1/family-0-cons-3.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 0.00018096 seconds.
+
+
+
+
+Building a new DB, current time: 11/02/2025 14:30:23
+New DB name:   /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/RM_2559519.SunNov21429582025/round-1/family-0-cons-4.fa
+New DB title:  /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/RM_2559519.SunNov21429582025/round-1/family-0-cons-4.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000180006 seconds.
+
+

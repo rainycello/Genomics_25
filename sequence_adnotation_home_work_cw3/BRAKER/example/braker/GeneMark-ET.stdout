@@ -1,0 +1,155 @@
+# check before the run
+# hard_mask is in the 'auto' mode. hard_mask was set to: 1000
+# creat directories
+# commit input data
+# prepare input data report
+# commit training data
+# prepare training data report
+# prepare initial model
+# find GC of sequence
+GC 37
+# build initial ET model
+running step ET_A
+running gm.hmm on local system
+8 contigs in list
+concatenate predictions: /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/run/ET_A_1
+training level ET_A: /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/run/ET_A_1
+From 1029 loaded 1029 and ignored dublications 0
+exon	no_match	match_one	match_two
+Initial	53	56	0
+Internal	70	132	191
+Terminal	43	66	0
+Single	49	0	0
+CDS_no_match	all	short	long	seq_short	seq_long
+CDS_no_match	215	165	50	51203	66732
+Intergenic	all	between_match	seq_match
+Intergenic:	166	22	71258
+running step ET_B
+running gm.hmm on local system
+8 contigs in list
+concatenate predictions: /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/run/ET_B_1
+training level ET_B: /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/run/ET_B_1
+From 1029 loaded 1029 and ignored dublications 0
+exon	no_match	match_one	match_two
+Initial	62	90	0
+Internal	100	156	293
+Terminal	54	98	0
+Single	48	0	0
+CDS_no_match	all	short	long	seq_short	seq_long
+CDS_no_match	264	213	51	56880	68978
+Intergenic	all	between_match	seq_match
+Intergenic:	208	50	124117
+running step ET_C
+running gm.hmm on local system
+8 contigs in list
+concatenate predictions: /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/run/ET_C_1
+training level ET_C: /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/run/ET_C_1
+From 1029 loaded 1029 and ignored dublications 0
+exon	no_match	match_one	match_two
+Initial	69	109	0
+Internal	187	207	508
+Terminal	60	118	0
+Single	72	0	0
+CDS_no_match	all	short	long	seq_short	seq_long
+CDS_no_match	388	335	53	65470	70780
+Intergenic	all	between_match	seq_match
+Intergenic:	258	60	101769
+SvsM  0.203592814371257 vs 0.796407185628742
+genes in IvsT all and selected: 1022 113
+1, -2.08833048909708
+2, -1.68286538098892
+3, -1.83701606081618
+4, -2.32949254591397
+5, -2.24248116892434
+6, -2.42480272571829
+7, -2.08833048909708
+8, -2.1624384612508
+# estimate 1: 0.849315068493151
+# estimate 2: 0.950975457920284
+# value: 0.950975457920284
+IvsT  0.950975457920284 vs 0.0490245420797157
+running gm.hmm on local system
+8 contigs in list
+concatenate predictions: /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/run/ET_C_2
+training level ET_C: /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/run/ET_C_2
+From 1029 loaded 1029 and ignored dublications 0
+exon	no_match	match_one	match_two
+Initial	77	118	0
+Internal	222	200	596
+Terminal	67	128	0
+Single	77	0	0
+CDS_no_match	all	short	long	seq_short	seq_long
+CDS_no_match	443	390	53	72643	70465
+Intergenic	all	between_match	seq_match
+Intergenic:	280	64	100050
+SvsM  0.202380952380952 vs 0.797619047619048
+genes in IvsT all and selected: 1112 98
+1, -2.02001812120904
+2, -1.64052849950413
+3, -1.69459572077441
+4, -2.02001812120904
+5, -2.28238238567653
+7, -2.1870722058722
+8, -1.94591014905531
+# estimate 1: 0.860611510791367
+# estimate 2: 0.958982081895584
+# value: 0.958982081895584
+IvsT  0.958982081895584 vs 0.0410179181044156
+running gm.hmm on local system
+8 contigs in list
+concatenate predictions: /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/run/ET_C_3
+training level ET_C: /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/run/ET_C_3
+From 1029 loaded 1029 and ignored dublications 0
+exon	no_match	match_one	match_two
+Initial	72	118	0
+Internal	224	204	600
+Terminal	62	128	0
+Single	81	0	0
+CDS_no_match	all	short	long	seq_short	seq_long
+CDS_no_match	439	386	53	73087	70276
+Intergenic	all	between_match	seq_match
+Intergenic:	279	61	91126
+SvsM  0.196428571428571 vs 0.803571428571429
+genes in IvsT all and selected: 1123 99
+1, -2.03017049267305
+2, -1.70474809223843
+3, -1.5993875765806
+4, -2.19722457733622
+5, -2.19722457733622
+7, -2.19722457733622
+8, -1.88706964903238
+# estimate 1: 0.861086375779163
+# estimate 2: 0.967782674488
+# value: 0.967782674488
+IvsT  0.967782674488 vs 0.0322173255119995
+running gm.hmm on local system
+8 contigs in list
+concatenate predictions: /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/run/ET_C_4
+training level ET_C: /home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/run/ET_C_4
+From 1029 loaded 1029 and ignored dublications 0
+exon	no_match	match_one	match_two
+Initial	73	119	0
+Internal	230	205	599
+Terminal	66	126	0
+Single	82	0	0
+CDS_no_match	all	short	long	seq_short	seq_long
+CDS_no_match	451	398	53	74912	70309
+Intergenic	all	between_match	seq_match
+Intergenic:	282	61	91231
+SvsM  0.2 vs 0.8
+genes in IvsT all and selected: 1132 100
+1, -2.20727491318972
+2, -1.83258146374831
+3, -1.51412773262978
+4, -2.12026353620009
+5, -2.12026353620009
+7, -2.04022082852655
+8, -1.96611285637283
+# estimate 1: 0.862190812720848
+# estimate 2: 0.990881880287791
+# value: 0.990881880287791
+IvsT  0.990881880287791 vs 0.00911811971220944
+# predict final gene set
+running gm.hmm on local system
+8 contigs in list
+8 contigs in list

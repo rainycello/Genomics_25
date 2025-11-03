@@ -1,0 +1,1 @@
+/home/genomika25/studenci/dmyboi/sequence_adnotation_home_work_cw3/BRAKER/example/braker/GeneMark-ET/run/ET_B_1/ET_B_1.mod

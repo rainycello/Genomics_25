@@ -1,0 +1,55 @@
+X1.trna1 (122066-121982)	Length: 85 bp
+Type: Met	Anticodon: CAT at 35-37 (122032-122030)	Score: 64.2
+Possible intron: 39-49 (122028-122018)
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    
+Seq: GGGGTGGTGGCGCAGTTGGCtAGCGCGTAGGTCTCATAgctagtgagtgATCCTGAGGtCGAGAGTTCGAGCCTCTCTCACCCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>....................<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+X2.trna1 (94918-94990)	Length: 73 bp
+Type: Arg	Anticodon: CCT at 34-36 (94951-94953)	Score: 74.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCGCCTGTAGCTCAGTGGAtAGAGCGTCTGTTTCCTAAGCAGAAGGtCGTAGGTTCGACCCCTACCTGGCGCG
+Str: >>>>>.>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<<.
+
+X2.trna2 (121166-121093)	Length: 74 bp
+Type: Asn	Anticodon: GTT at 35-37 (121132-121130)	Score: 83.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCTGGAATAGCTCAGTTGGTtAGAGCGTGTGGCTGTTAACCACAAGGtCGGAGGTTCGACCCCTCCTTCTAGCG
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+X2.trna3 (56729-56648)	Length: 82 bp
+Type: Ser	Anticodon: GCT at 34-36 (56696-56694)	Score: 76.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GTCGCTTTGGCCGAGTGGTtAAGGCGCTCGCCTGCTAAGTGAGTGGGATTTTCCCGCGAGAGTTCGAATCTCTCAGGCGACG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+X5.trna1 (92556-92629)	Length: 74 bp
+Type: Ile	Anticodon: AAT at 35-37 (92590-92592)	Score: 85.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GGCCCATTAGCTCAGTTGGTtAGAGCGTCGTGCTAATAACGCGAAGGtCGCAGGTTCGAAACCTGCATGGGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+X5.trna2 (80255-80182)	Length: 74 bp
+Type: Asn	Anticodon: GTT at 35-37 (80221-80219)	Score: 81.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCTGGAGTAGCTCAGTTGGTtAGAGCGTGTGGCTGTTAACCACAAGGtCAGAGGTTCGACCCCTCTCTCTAGCG
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+X6.trna1 (81837-81767)	Length: 71 bp
+Type: Gly	Anticodon: GCC at 33-35 (81805-81803)	Score: 66.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GCACCAGTGGTCTAGTGGTAGAATAGTACCCTGCCACGGTACAGaCCCGGGTTCGATTCCCGGCTGGTGCA
+Str: >>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+X6.trna2 (52400-52329)	Length: 72 bp
+Type: Glu	Anticodon: TTC at 34-36 (52367-52365)	Score: 69.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: TCCGATGTCGTCCAGCGGTtAGGATATCTGGCTTTCACCCAGGAGaCCCGGGTTCGATTCCCGGCATCGGAG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+X8.trna1 (70531-70602)	Length: 72 bp
+Type: iMet	Anticodon: CAT at 33-35 (70563-70565)	Score: 58.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: ATCAGAGTGGCGCAGCGGAAGCGTGGTGGGCCCATAACCCACAGGtCCCAGGATCGAAACCTGGCTCTGATA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+

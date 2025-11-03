@@ -1,0 +1,2 @@
+WARNING: The GTF file contained 71 gene(s) with internal Stop codons (see file bad_genes.lst).
+Note: Translations of the bad genes have been included in the output file. If you wish to exclude them, run getAnnoFastaFromJoingenes.py with option --filter!
